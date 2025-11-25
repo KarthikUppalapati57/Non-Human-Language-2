@@ -33,6 +33,15 @@ The model utilizes a **MultiTaskHuBERT** architecture based on the pre-trained `
 * **Gomathi**
 
 * ## Testing INstructions:
-*Steps: 
+* code names and description
+* 1) Check.ipnb - Exploring dataset
+  2) Vocalization_annotation.py - gathering all the vocalisation and actitiy information to on file (output: Vocalisation_annotation_all.csv).
+  3) checking_percentage.ipynb - use =d to check weight so that we can train models accordingly.
+  4) weighted_cv_40epoches.py - Code used to Fine-tune our Hubert model.(output: models access in this link: https://drive.google.com/drive/folders/1EDe7jbVom1nd5ljTO0Zexx3xR2Mj9uuB?usp=sharing
+  5) HUBERT_to_Prob.py: code to loads the model and take audio files and give you probalities as output
+  6) Experiment-1: zero-shot prompting - take the prediction output from the HUBERT_to_Prob.py file and give you human understandble context
+  7) Experiment-2: few-shot prompting - take the prediction output from the HUBERT_to_Prob.py file and give you human understandble context
+  8) Experiment-3: Head-to-Head - take the prediction output from the HUBERT_to_Prob.py & respective audio file LLM it self checks the audio file becomes judge and gives you final verdict in human understandble context
+*Steps for testing: 
 * 1) Download the dataset
-  2) 
+  2) A
