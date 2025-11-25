@@ -1,0 +1,65 @@
+Experiment-1:
+
+... Generating Session Report ...
+
+ Marine Biologist Report:
+## Dolphin Behavioral Session Report
+
+**Date:** (Assuming the current date as no date was provided) October 26, 2023
+
+**Subject:** Bottlenose Dolphin (Tursiops truncatus) - Single Session Analysis
+
+**Data Source:** Model-derived behavioral distribution profiles.
+
+**Report Summary:**
+
+This session appears to be dominated by a training context. However, a significant portion of the session is classified as "unknown," suggesting periods of silence or data ambiguity.
+
+**Detailed Analysis:**
+
+**1. Dominant Behavior:**
+
+The dominant behavior during this session was **Training (ORD)**, accounting for 64.4% of the recorded activity. This suggests the dolphin spent a significant portion of its time engaged in training exercises.
+
+**2. Vocalization Profile Analysis:**
+
+The vocalization profile shows a mixed vocal repertoire, with **Multi-Loop Whistles (MW)** and **Echolocations (ECT)** each accounting for 40.7% of vocalizations. **Noise** accounts for 16.9%, while **Feeding Buzzes (FB)** are observed at a low rate of 1.7%. The high percentage of both MW and ECT suggest diverse behaviors. MW might be used for communication and social contact during the session. The presence of ECT suggests attempts to map the environment or find food.
+
+**3. Interpretation of "Unknown":**
+
+The 'unknown' category represents 35.6% of the activity profile. Given that this is *not* above the 50% threshold, it does not dominate the activity profile. Even so, it is important to consider the "unknown" class, which could represent a need for better monitoring.
+
+**Implications and Recommendations:**
+
+The high proportion of time spent in Training (ORD) indicates an ongoing learning or maintenance phase.
+The presence of both MW and ECT signals highlight vocalization and possible social interaction. The presence of FB, even at a low percentage, supports the presence of foraging behavior.
+
+
+Experiment-2:
+... Generating Expert Analysis ...
+
+ Expert Report:
+This session focuses on 'Training' behavior (ORD) which accounts for approximately 64% of the recorded activity. Although there is some uncertainty (35.6% 'unknown'), the prevalence of 'ORD' strongly suggests a structured or directed activity. The vocalization profile, characterized by Multi-Loop Whistles (MW) and Echolocation Clicks Trains (ECT) at equal levels (40.7%), indicates the dolphin is actively communicating and exploring its environment. The minor presence of Burst Pulses (FB) might indicate excitement or focused attention in the dolphin. The higher than normal "Noise" values (16.9%) will require additional data to understand if this noise is an anomaly or some relevant sound feature (boat noise, etc.).
+
+
+
+
+Experiment-3:
+
+------------------------------------------------
+  HEAD-TO-HEAD RESULTS
+------------------------------------------------
+1️  HuBERT Says:  [ORD] with [ECT]
+2  Gemini Says:
+Okay, let's analyze this audio.
+
+1.  **Acoustic Analysis**:
+    *   I clearly hear a series of clicks throughout the recording, indicative of **Echolocation clicks (ECT)**. These clicks seem relatively constant.
+
+2.  **Verification**:
+    *   The model correctly identified the presence of echolocation clicks. That's good!
+    *   However, "ORD" (Training) is a very broad category. Given the constant clicking, I would be inclined to disagree that it is training. My feeling is, without a training setting, echolocations suggest an investigation of their environment.
+
+3.  **Final Verdict**:
+
+    **PLAY**. Dolphins use echolocation to explore the environment.
