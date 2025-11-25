@@ -2,10 +2,8 @@ import os
 import pandas as pd
 from gemini_setup import get_gemini_model
 
-# --- CONFIGURATION ---
 PREDICTIONS_DIR = r"C:\Users\ukart\OneDrive - University of Tennessee\M\3rd Sem\NLP\Dolphins\Project\local_Weighted_3_predictions"
 
-# --- DATA LOADER (Same as Exp 1) ---
 def get_session_profile(audio_filename):
     """
     Reads the log and calculates the percentage of time spent in each state.
@@ -35,7 +33,6 @@ def get_session_profile(audio_filename):
     
     return act_probs, voc_probs
 
-# --- MAIN EXECUTION ---
 def run():
     print("\n Experiment 2: Few-Shot Expert Analysis (Session Context)")
     
@@ -89,4 +86,5 @@ def run():
         print(f" Error: {e}")
 
 if __name__ == "__main__":
+
     run()
