@@ -38,14 +38,11 @@ class MultiTaskHuBERT(nn.Module):
 
 class InferenceConfig:
     ROOT_AUDIO_DIR = r'C:\Users\ukart\OneDrive - University of Tennessee\M\3rd Sem\NLP\Dolphins\Project\Data'
-    # --- CHANGE 2: Define the path to your Ground Truth file ---
     GROUND_TRUTH_FILE = r'C:\Users\ukart\OneDrive - University of Tennessee\M\3rd Sem\NLP\Dolphins\Project\vocal_annotation_all.csv'
-    # Path to your FOLDER containing the .pt and .json files
     MODEL_LOAD_DIR = r'C:\Users\ukart\OneDrive - University of Tennessee\M\3rd Sem\NLP\Dolphins\Project\weighted_cross_outputs_3'
-    # Path to the FOLDER where you want to save prediction_log.csv AND the evaluation CSV
     PREDICTION_SAVE_DIR = r'C:\Users\ukart\OneDrive - University of Tennessee\M\3rd Sem\NLP\Dolphins\Project\EM_4_results'
 
-    # --- Model and Audio settings ---
+
     MODEL_NAME = 'facebook/hubert-base-ls960'
     SAMPLE_RATE = 16000
     SEGMENT_LENGTH = 10.0 # The window size
@@ -120,7 +117,6 @@ def predict_audio_file(file_path, config, feature_extractor, models,
 
     return pd.DataFrame(results)
 
-# 4. AGGREGATION AND DUAL-TASK EVALUATION FUNCTION (NEW)
 def final_aggregate_evaluation(df_all_predictions, df_gt_all, activity_id2label, vocalization_id2label, config):
     """
     Performs dual-task evaluation for both Vocalization and Activity.
@@ -129,27 +125,19 @@ def final_aggregate_evaluation(df_all_predictions, df_gt_all, activity_id2label,
     step_sec = config.WINDOW_STEP
     all_merged_df = []
     
-    # --- Determine Negative/Background Labels ---
     negative_vocal_labels_list = ['silence', 'no_vocalisation', 'none', 'background', 'noise', 'no_call'] 
     negative_vocal_label = next((v for k, v in vocalization_id2label.items() if v.lower() in negative_vocal_labels_list), None)
     
-    # ASSUME: Activity labels that are NOT the trained labels are 'None' or 'Background Activity'
-    # We will set the default (non-event) activity label as the most common one in the predictions 
-    # if it's not a common activity label, or use a placeholder.
     activity_labels_list = list(activity_id2label.values())
     
-    # Common Dolphin Project Activities (replace with your non-event/default activity if needed)
     common_activity_labels = ['ORD', 'PLAY', 'FFR', 'UNKNOWN', 'NIGHT']
     
-    # Use the most frequent activity label in the predictions as the default/non-event label
-    # if no explicit activity is annotated in the GT for a given time window.
     default_activity_label = df_all_predictions['activity'].mode().iloc[0]
 
     if negative_vocal_label is None:
         print("\nERROR: Cannot proceed. Vocalization negative label not found.")
         return
 
-    # --- 1. Alignment Loop for BOTH Tasks ---
     for full_file_name in tqdm(df_all_predictions['file_path'].apply(os.path.basename).unique(), desc="Aligning Data"):
         
         df_pred_file = df_all_predictions[df_all_predictions['file_path'].apply(os.path.basename) == full_file_name].copy()
@@ -163,7 +151,7 @@ def final_aggregate_evaluation(df_all_predictions, df_gt_all, activity_id2label,
         
         max_time_bin = df_pred_file['time_bin'].max()
         
-        # Initialize GT arrays: Vocalization defaults to Noise, Activity defaults to the most frequent predicted activity
+        # Initialize GT arrays: 
         gt_vocal_per_bin = [negative_vocal_label] * (max_time_bin + 1)
         gt_activity_per_bin = [default_activity_label] * (max_time_bin + 1)
         
@@ -196,8 +184,6 @@ def final_aggregate_evaluation(df_all_predictions, df_gt_all, activity_id2label,
 
     df_combined = pd.concat(all_merged_df, ignore_index=True)
     
-
-    # 2. VOCALIZATION METRICS (Repeated from previous step)
     
     y_true_vocal = df_combined['ground_truth_vocal']
     y_pred_vocal = df_combined['vocalization']
@@ -221,10 +207,7 @@ def final_aggregate_evaluation(df_all_predictions, df_gt_all, activity_id2label,
     print("VOCALIZATION CONFUSION MATRIX (True Labels vs. Predicted)")
     print(pd.DataFrame(cm_vocal, index=vocalization_labels_list, columns=vocalization_labels_list).to_string())
 
-    # ========================================================================
-    # --- 3. ACTIVITY METRICS (NEW) ---
-    # ========================================================================
-    
+#Evaluation metrics
     y_true_activity = df_combined['ground_truth_activity']
     y_pred_activity = df_combined['activity']
     activity_labels_list = sorted(list(activity_id2label.values()))
@@ -248,9 +231,7 @@ def final_aggregate_evaluation(df_all_predictions, df_gt_all, activity_id2label,
     print(pd.DataFrame(cm_activity, index=activity_labels_list, columns=activity_labels_list).to_string())
 
 
-# ============================================================================
-# 5. MAIN INFERENCE AND EVALUATION LOOP
-# ============================================================================
+#Inference loop
 
 def run_full_inference_and_evaluation(config):
     """
@@ -260,7 +241,6 @@ def run_full_inference_and_evaluation(config):
     
     print(f"Loading models and settings from: {model_dir}")
 
-    # --- Step 1: Load Label Mappings ---
     try:
         with open(os.path.join(model_dir, 'activity_id2label.json'), 'r') as f:
             activity_id2label = {int(k): v for k, v in json.load(f).items()}
@@ -274,7 +254,6 @@ def run_full_inference_and_evaluation(config):
     num_activity_labels = len(activity_id2label)
     num_vocalization_labels = len(vocalization_id2label)
     
-    # Step 2: Load Ground Truth File (FIXED COLUMN MAPPING for Activity)
     try:
         df_gt_all = pd.read_csv(config.GROUND_TRUTH_FILE)
         # RENAMED COLUMNS: Added 'label_activity' to 'activity_label'
@@ -296,7 +275,6 @@ def run_full_inference_and_evaluation(config):
         print(f"ERROR: Ground truth file not found at {config.GROUND_TRUTH_FILE}. Cannot evaluate.")
         return
         
-    # Step 3: Load Feature Extractor and Models (once)
     feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained(config.MODEL_NAME)
     models = []
     for fold in range(1, config.NUM_FOLDS + 1):
@@ -317,7 +295,6 @@ def run_full_inference_and_evaluation(config):
 
     print(f"Successfully loaded {len(models)} models on {config.DEVICE}.")
     
-    # --- Step 4: Find all audio files ---
     all_audio_files = []
     for root, _, files in os.walk(config.ROOT_AUDIO_DIR):
         for file in files:
@@ -330,7 +307,6 @@ def run_full_inference_and_evaluation(config):
         print("No audio files found. Check ROOT_AUDIO_DIR.")
         return
     
-    # --- Step 5: Run Inference and store ALL predictions ---
     all_predictions = []
     
     for file_path in tqdm(all_audio_files, desc="Predicting Audio Files"):
@@ -347,13 +323,9 @@ def run_full_inference_and_evaluation(config):
         
     df_all_predictions = pd.concat(all_predictions, ignore_index=True)
     
-    # --- Step 6: Final Aggregation and Metric Calculation ---
     final_aggregate_evaluation(df_all_predictions, df_gt_all, activity_id2label, vocalization_id2label, config)
 
 
-# ============================================================================
-# 6. RUN THE SCRIPT
-# ============================================================================
 
 if __name__ == '__main__':
     try:
@@ -362,4 +334,5 @@ if __name__ == '__main__':
 
     except Exception as e:
         print(f"\nAn unexpected error occurred: {e}")
+
         traceback.print_exc()
