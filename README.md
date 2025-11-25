@@ -33,5 +33,6 @@ The model utilizes a **MultiTaskHuBERT** architecture based on the pre-trained `
 * **Gomathi**
 
 * ## Testing INstructions:
-* 
-Download the dataset
+*Steps: 
+* 1) Download the dataset
+  2) 
