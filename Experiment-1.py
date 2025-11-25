@@ -2,10 +2,9 @@ import os
 import pandas as pd
 from gemini_setup import get_gemini_model
 
-# --- CONFIGURATION ---
 PREDICTIONS_DIR = r"C:\Users\ukart\OneDrive - University of Tennessee\M\3rd Sem\NLP\Dolphins\Project\local_Weighted_3_predictions"
 
-# --- NEW DATA LOADER (Adapted for Time-Series Logs) ---
+
 def get_session_profile(audio_filename):
     """
     Reads the time-series log and calculates the prevalence of each behavior 
@@ -39,7 +38,7 @@ def get_session_profile(audio_filename):
     
     return act_probs, voc_probs
 
-# --- MAIN EXECUTION ---
+
 def run():
     print("\n Experiment 1: The Interpreter (Session Analysis)")
     
@@ -95,4 +94,5 @@ def run():
         print(f" Error: {e}")
 
 if __name__ == "__main__":
+
     run()
