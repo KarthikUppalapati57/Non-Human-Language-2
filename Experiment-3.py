@@ -3,15 +3,10 @@ import pandas as pd
 import google.generativeai as genai
 from gemini_setup import get_gemini_model
 
-# --- CONFIGURATION ---
-
-# 1. PREDICTIONS FOLDER (Where your CSV log is)
 PREDICTIONS_DIR = r"C:\Users\ukart\OneDrive - University of Tennessee\M\3rd Sem\NLP\Dolphins\Project\local_Weighted_3_predictions"
 
-# 2. AUDIO FOLDER (Where your .wav file is)
 AUDIO_DIR = r"C:\Users\ukart\OneDrive - University of Tennessee\M\3rd Sem\NLP\Dolphins\Project\Data\Raw_recordings_Day1_pt2"
 
-# --- DATA LOADER ---
 def get_hubert_opinion(audio_filename):
     """
     Finds the specific prediction log for this audio file and calculates
@@ -58,7 +53,6 @@ def get_hubert_opinion(audio_filename):
         print(f" Error reading CSV: {e}")
         return "Error", "Error"
 
-# --- MAIN EXECUTION ---
 def run():
     print("\n Experiment 3: Multimodal Head-to-Head Comparison")
     
@@ -114,4 +108,5 @@ def run():
         print(f" Error: {e}")
 
 if __name__ == "__main__":
+
     run()
