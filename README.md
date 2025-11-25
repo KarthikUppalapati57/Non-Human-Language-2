@@ -42,6 +42,11 @@ The model utilizes a **MultiTaskHuBERT** architecture based on the pre-trained `
   6) Experiment-1: zero-shot prompting - take the prediction output from the HUBERT_to_Prob.py file and give you human understandble context
   7) Experiment-2: few-shot prompting - take the prediction output from the HUBERT_to_Prob.py file and give you human understandble context
   8) Experiment-3: Head-to-Head - take the prediction output from the HUBERT_to_Prob.py & respective audio file LLM it self checks the audio file becomes judge and gives you final verdict in human understandble context
-*Steps for testing: 
+  9) EM3.py - code for evalution metrics
+*Steps for testing:
 * 1) Download the dataset
-  2) A
+  2) Download All the files inside the Files folder in this repository
+  3) Download the models from the link provided
+  4) First run the HUBERT_to_prob.py code to get the probability prediction files
+  5) Load thoes prediction the LLM Case studies code (Experiment-1,Experiment-2,Experiment-3)
+  6) Experiment_Output - sample output file for reference inside the Files folder.
