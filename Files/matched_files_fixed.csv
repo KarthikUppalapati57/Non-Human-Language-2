@@ -1,0 +1,288 @@
+folder,filename,status,file_timestamp,label_timestamp,label_interval_start,label_total_count,label_CT_count,label_FB_count,label_PBS_count,label_activity,label_act_type,matched_label,reason
+Raw_Recordings_Day1_pt11,20211120_225737_192.wav,matched,2021-11-20 22:57:37,2021-11-20 22:56:09,2021-11-20 22:56:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_230237_192.wav,matched,2021-11-20 23:02:37,2021-11-20 23:01:09,2021-11-20 23:01:09,2.0,1.0,0.0,1.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_230738_192.wav,matched,2021-11-20 23:07:38,2021-11-20 23:06:09,2021-11-20 23:06:09,12.0,0.0,7.0,5.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_231238_192.wav,matched,2021-11-20 23:12:38,2021-11-20 23:11:09,2021-11-20 23:11:09,9.0,3.0,4.0,2.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_231739_192.wav,matched,2021-11-20 23:17:39,2021-11-20 23:16:09,2021-11-20 23:16:09,3.0,2.0,0.0,1.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_232240_192.wav,matched,2021-11-20 23:22:40,2021-11-20 23:21:09,2021-11-20 23:21:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_232740_192.wav,matched,2021-11-20 23:27:40,2021-11-20 23:26:09,2021-11-20 23:26:09,1.0,0.0,1.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_233241_192.wav,matched,2021-11-20 23:32:41,2021-11-20 23:31:09,2021-11-20 23:31:09,8.0,6.0,0.0,2.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_233742_192.wav,matched,2021-11-20 23:37:42,2021-11-20 23:36:09,2021-11-20 23:36:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_234242_192.wav,matched,2021-11-20 23:42:42,2021-11-20 23:41:09,2021-11-20 23:41:09,10.0,5.0,0.0,5.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_234743_192.wav,matched,2021-11-20 23:47:43,2021-11-20 23:46:09,2021-11-20 23:46:09,37.0,17.0,0.0,20.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_235243_192.wav,matched,2021-11-20 23:52:43,2021-11-20 23:51:09,2021-11-20 23:51:09,44.0,14.0,0.0,30.0,NIGHT,FREE,,
+Raw_Recordings_Day1_pt11,20211120_235744_192.wav,matched,2021-11-20 23:57:44,2021-11-20 23:56:09,2021-11-20 23:56:09,71.0,25.0,1.0,45.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_000245_192.wav,matched,2021-11-21 00:02:45,2021-11-21 00:01:09,2021-11-21 00:01:09,43.0,17.0,0.0,26.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_000746_192.wav,matched,2021-11-21 00:07:46,2021-11-21 00:06:09,2021-11-21 00:06:09,49.0,19.0,0.0,30.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_001246_192.wav,matched,2021-11-21 00:12:46,2021-11-21 00:11:09,2021-11-21 00:11:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_001747_192.wav,matched,2021-11-21 00:17:47,2021-11-21 00:16:09,2021-11-21 00:16:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_002248_192.wav,matched,2021-11-21 00:22:48,2021-11-21 00:21:09,2021-11-21 00:21:09,1.0,1.0,0.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_002748_192.wav,matched,2021-11-21 00:27:48,2021-11-21 00:26:09,2021-11-21 00:26:09,3.0,3.0,0.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_003249_192.wav,matched,2021-11-21 00:32:49,2021-11-21 00:31:09,2021-11-21 00:31:09,3.0,2.0,0.0,1.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_003749_192.wav,matched,2021-11-21 00:37:49,2021-11-21 00:36:09,2021-11-21 00:36:09,1.0,1.0,0.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_004250_192.wav,matched,2021-11-21 00:42:50,2021-11-21 00:41:09,2021-11-21 00:41:09,3.0,1.0,0.0,2.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_004750_192.wav,matched,2021-11-21 00:47:50,2021-11-21 00:46:09,2021-11-21 00:46:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_005251_192.wav,matched,2021-11-21 00:52:51,2021-11-21 00:51:09,2021-11-21 00:51:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_005751_192.wav,matched,2021-11-21 00:57:51,2021-11-21 00:56:09,2021-11-21 00:56:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_010252_192.wav,matched,2021-11-21 01:02:52,2021-11-21 01:01:09,2021-11-21 01:01:09,1.0,0.0,0.0,1.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_010753_192.wav,matched,2021-11-21 01:07:53,2021-11-21 01:06:09,2021-11-21 01:06:09,5.0,2.0,0.0,3.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt1,20211121_011253_192.wav,matched,2021-11-21 01:12:53,2021-11-21 01:11:09,2021-11-21 01:11:09,6.0,4.0,0.0,2.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_011754_192.wav,matched,2021-11-21 01:17:54,2021-11-21 01:16:09,2021-11-21 01:16:09,6.0,0.0,0.0,6.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_012254_192.wav,matched,2021-11-21 01:22:54,2021-11-21 01:21:09,2021-11-21 01:21:09,20.0,11.0,0.0,9.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_012755_192.wav,matched,2021-11-21 01:27:55,2021-11-21 01:26:09,2021-11-21 01:26:09,4.0,3.0,0.0,1.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_013255_192.wav,matched,2021-11-21 01:32:55,2021-11-21 01:31:09,2021-11-21 01:31:09,10.0,7.0,0.0,3.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_013756_192.wav,matched,2021-11-21 01:37:56,2021-11-21 01:36:09,2021-11-21 01:36:09,13.0,7.0,0.0,6.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_014256_192.wav,matched,2021-11-21 01:42:56,2021-11-21 01:41:09,2021-11-21 01:41:09,25.0,15.0,0.0,10.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_014757_192.wav,matched,2021-11-21 01:47:57,2021-11-21 01:46:09,2021-11-21 01:46:09,50.0,3.0,2.0,45.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_015258_192.wav,matched,2021-11-21 01:52:58,2021-11-21 01:51:09,2021-11-21 01:51:09,28.0,16.0,0.0,12.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_015758_192.wav,matched,2021-11-21 01:57:58,2021-11-21 01:56:09,2021-11-21 01:56:09,26.0,9.0,0.0,17.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_020259_192.wav,matched,2021-11-21 02:02:59,2021-11-21 02:01:09,2021-11-21 02:01:09,16.0,3.0,2.0,11.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_020759_192.wav,matched,2021-11-21 02:07:59,2021-11-21 02:06:09,2021-11-21 02:06:09,55.0,16.0,0.0,39.0,NIGHT,FREE,,
+Raw_Recordings_Day2_pt2,20211121_021300_192.wav,unknown,2021-11-21 02:13:00,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt2,20211121_021800_192.wav,unknown,2021-11-21 02:18:00,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt2,20211121_022301_192.wav,unknown,2021-11-21 02:23:01,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt2,20211121_022802_192.wav,unknown,2021-11-21 02:28:02,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_023302_192.wav,unknown,2021-11-21 02:33:02,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_023803_192.wav,unknown,2021-11-21 02:38:03,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_024303_192.wav,unknown,2021-11-21 02:43:03,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_024804_192.wav,unknown,2021-11-21 02:48:04,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_025304_192.wav,unknown,2021-11-21 02:53:04,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_025805_192.wav,unknown,2021-11-21 02:58:05,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_030305_192.wav,unknown,2021-11-21 03:03:05,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_030806_192.wav,unknown,2021-11-21 03:08:06,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_031307_192.wav,unknown,2021-11-21 03:13:07,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_031807_192.wav,unknown,2021-11-21 03:18:07,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_032308_192.wav,unknown,2021-11-21 03:23:08,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_032808_192.wav,unknown,2021-11-21 03:28:08,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_033309_192.wav,unknown,2021-11-21 03:33:09,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_033809_192.wav,unknown,2021-11-21 03:38:09,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt3,20211121_034310_192.wav,unknown,2021-11-21 03:43:10,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_034811_192.wav,unknown,2021-11-21 03:48:11,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_035311_192.wav,unknown,2021-11-21 03:53:11,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_035812_192.wav,unknown,2021-11-21 03:58:12,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_040312_192.wav,unknown,2021-11-21 04:03:12,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_040813_192.wav,unknown,2021-11-21 04:08:13,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_041313_192.wav,unknown,2021-11-21 04:13:13,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_041814_192.wav,unknown,2021-11-21 04:18:14,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_042315_192.wav,unknown,2021-11-21 04:23:15,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_042815_192.wav,unknown,2021-11-21 04:28:15,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_043316_192.wav,unknown,2021-11-21 04:33:16,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_043816_192.wav,unknown,2021-11-21 04:38:16,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_044317_192.wav,unknown,2021-11-21 04:43:17,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_044817_192.wav,unknown,2021-11-21 04:48:17,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_045318_192.wav,unknown,2021-11-21 04:53:18,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt4,20211121_045819_192.wav,unknown,2021-11-21 04:58:19,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_050319_192.wav,unknown,2021-11-21 05:03:19,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_050820_192.wav,unknown,2021-11-21 05:08:20,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_051320_192.wav,unknown,2021-11-21 05:13:20,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_051821_192.wav,unknown,2021-11-21 05:18:21,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_052321_192.wav,unknown,2021-11-21 05:23:21,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_052822_192.wav,unknown,2021-11-21 05:28:22,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_053323_192.wav,unknown,2021-11-21 05:33:23,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_053823_192.wav,unknown,2021-11-21 05:38:23,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_054324_192.wav,unknown,2021-11-21 05:43:24,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_054824_192.wav,unknown,2021-11-21 05:48:24,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_055325_192.wav,unknown,2021-11-21 05:53:25,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_055825_192.wav,unknown,2021-11-21 05:58:25,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_060326_192.wav,unknown,2021-11-21 06:03:26,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_060827_192.wav,unknown,2021-11-21 06:08:27,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt5,20211121_061327_192.wav,unknown,2021-11-21 06:13:27,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_061828_192.wav,unknown,2021-11-21 06:18:28,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_062328_192.wav,unknown,2021-11-21 06:23:28,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_062829_192.wav,unknown,2021-11-21 06:28:29,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_063329_192.wav,unknown,2021-11-21 06:33:29,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_063830_192.wav,unknown,2021-11-21 06:38:30,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_064331_192.wav,unknown,2021-11-21 06:43:31,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_064831_192.wav,unknown,2021-11-21 06:48:31,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_065332_192.wav,unknown,2021-11-21 06:53:32,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_065832_192.wav,unknown,2021-11-21 06:58:32,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_070333_192.wav,unknown,2021-11-21 07:03:33,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_070834_192.wav,unknown,2021-11-21 07:08:34,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_071334_192.wav,unknown,2021-11-21 07:13:34,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_071835_192.wav,unknown,2021-11-21 07:18:35,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_072335_192.wav,unknown,2021-11-21 07:23:35,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt6,20211121_072836_192.wav,unknown,2021-11-21 07:28:36,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_073336_192.wav,unknown,2021-11-21 07:33:36,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_073837_192.wav,unknown,2021-11-21 07:38:37,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_074338_192.wav,unknown,2021-11-21 07:43:38,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_074838_192.wav,unknown,2021-11-21 07:48:38,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_075339_192.wav,unknown,2021-11-21 07:53:39,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_075839_192.wav,unknown,2021-11-21 07:58:39,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_080340_192.wav,unknown,2021-11-21 08:03:40,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_080841_192.wav,unknown,2021-11-21 08:08:41,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_081341_192.wav,unknown,2021-11-21 08:13:41,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_081842_192.wav,unknown,2021-11-21 08:18:42,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_082342_192.wav,unknown,2021-11-21 08:23:42,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_082843_192.wav,unknown,2021-11-21 08:28:43,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_083343_192.wav,unknown,2021-11-21 08:33:43,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_083844_192.wav,unknown,2021-11-21 08:38:44,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt7,20211121_084345_192.wav,unknown,2021-11-21 08:43:45,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt8,20211121_084845_192.wav,unknown,2021-11-21 08:48:45,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt8,20211121_085346_192.wav,unknown,2021-11-21 08:53:46,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt8,20211121_085846_192.wav,unknown,2021-11-21 08:58:46,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt8,20211121_090347_192.wav,unknown,2021-11-21 09:03:47,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt8,20211121_090848_192.wav,unknown,2021-11-21 09:08:48,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt8,20211121_091348_192.wav,unknown,2021-11-21 09:13:48,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt8,20211121_091849_192.wav,unknown,2021-11-21 09:18:49,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt8,20211121_092349_192.wav,unknown,2021-11-21 09:23:49,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt8,20211121_092850_192.wav,unknown,2021-11-21 09:28:50,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt8,20211121_093102_192.wav,matched,2021-11-21 09:31:02,2021-11-21 09:31:09,2021-11-21 09:31:09,28.0,4.0,14.0,10.0,ORD,TRAIN,,
+Raw_Recordings_Day2_pt8,20211121_093603_192.wav,matched,2021-11-21 09:36:03,2021-11-21 09:36:09,2021-11-21 09:36:09,24.0,12.0,0.0,12.0,ORD,TRAIN,,
+Raw_Recordings_Day2_pt8,20211121_094104_192.wav,matched,2021-11-21 09:41:04,2021-11-21 09:41:09,2021-11-21 09:41:09,49.0,15.0,4.0,30.0,ORD,TRAIN,,
+Raw_Recordings_Day2_pt8,20211121_094604_192.wav,matched,2021-11-21 09:46:04,2021-11-21 09:46:09,2021-11-21 09:46:09,48.0,16.0,2.0,30.0,ORD,TRAIN,,
+Raw_Recordings_Day2_pt8,20211121_095105_192.wav,matched,2021-11-21 09:51:05,2021-11-21 09:51:09,2021-11-21 09:51:09,53.0,24.0,0.0,29.0,ORD,TRAIN,,
+Raw_Recordings_Day2_pt8,20211121_095606_192.wav,matched,2021-11-21 09:56:06,2021-11-21 09:56:09,2021-11-21 09:56:09,54.0,32.0,0.0,22.0,ORD,TRAIN,,
+Raw_Recordings_Day2_pt8,20211121_100106_192.wav,matched,2021-11-21 10:01:06,2021-11-21 10:01:09,2021-11-21 10:01:09,41.0,22.0,0.0,19.0,ORD,TRAIN,,
+Raw_Recordings_Day2_pt8,20211121_100607_192.wav,unknown,2021-11-21 10:06:07,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_Recordings_Day2_pt8,20211121_101608_192.wav,unknown,2021-11-21 10:16:08,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt1,20211120_102109_192.wav,matched,2021-11-20 10:21:09,2021-11-20 10:21:09,2021-11-20 10:21:09,57.0,17.0,7.0,33.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt1,20211120_102609_192.wav,matched,2021-11-20 10:26:09,2021-11-20 10:26:09,2021-11-20 10:26:09,52.0,14.0,8.0,30.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt1,20211120_103110_192.wav,matched,2021-11-20 10:31:10,2021-11-20 10:31:09,2021-11-20 10:31:09,53.0,14.0,3.0,36.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt1,20211120_103610_192.wav,matched,2021-11-20 10:36:10,2021-11-20 10:36:09,2021-11-20 10:36:09,38.0,11.0,5.0,22.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt1,20211120_104111_192.wav,matched,2021-11-20 10:41:11,2021-11-20 10:41:09,2021-11-20 10:41:09,13.0,7.0,3.0,3.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt1,20211120_104611_192.wav,matched,2021-11-20 10:46:11,2021-11-20 10:46:09,2021-11-20 10:46:09,21.0,9.0,3.0,9.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt1,20211120_105112_192.wav,matched,2021-11-20 10:51:12,2021-11-20 10:51:09,2021-11-20 10:51:09,40.0,27.0,1.0,12.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt1,20211120_105613_192.wav,matched,2021-11-20 10:56:13,2021-11-20 10:56:09,2021-11-20 10:56:09,41.0,19.0,0.0,22.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt1,20211120_110113_192.wav,unknown,2021-11-20 11:01:13,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt1,20211120_110614_192.wav,unknown,2021-11-20 11:06:14,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt1,20211120_111114_192.wav,unknown,2021-11-20 11:11:14,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt1,20211120_111615_192.wav,unknown,2021-11-20 11:16:15,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt1,20211120_112115_192.wav,unknown,2021-11-20 11:21:15,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt1,20211120_112616_192.wav,unknown,2021-11-20 11:26:16,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt1,20211120_113116_192.wav,unknown,2021-11-20 11:31:16,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt1,20211120_113617_192.wav,unknown,2021-11-20 11:36:17,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt10,20211120_214228_192.wav,matched,2021-11-20 21:42:28,2021-11-20 21:41:09,2021-11-20 21:41:09,104.0,32.0,9.0,63.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_214728_192.wav,matched,2021-11-20 21:47:28,2021-11-20 21:46:09,2021-11-20 21:46:09,84.0,25.0,3.0,56.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_215229_192.wav,matched,2021-11-20 21:52:29,2021-11-20 21:51:09,2021-11-20 21:51:09,25.0,10.0,1.0,14.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_215729_192.wav,matched,2021-11-20 21:57:29,2021-11-20 21:56:09,2021-11-20 21:56:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_220230_192.wav,matched,2021-11-20 22:02:30,2021-11-20 22:01:09,2021-11-20 22:01:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_220731_192.wav,matched,2021-11-20 22:07:31,2021-11-20 22:06:09,2021-11-20 22:06:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_221231_192.wav,matched,2021-11-20 22:12:31,2021-11-20 22:11:09,2021-11-20 22:11:09,2.0,0.0,0.0,2.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_221732_192.wav,matched,2021-11-20 22:17:32,2021-11-20 22:16:09,2021-11-20 22:16:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_222232_192.wav,matched,2021-11-20 22:22:32,2021-11-20 22:21:09,2021-11-20 22:21:09,4.0,3.0,0.0,1.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_222733_192.wav,matched,2021-11-20 22:27:33,2021-11-20 22:26:09,2021-11-20 22:26:09,3.0,2.0,0.0,1.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_223234_192.wav,matched,2021-11-20 22:32:34,2021-11-20 22:31:09,2021-11-20 22:31:09,19.0,10.0,0.0,9.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_223734_192.wav,matched,2021-11-20 22:37:34,2021-11-20 22:36:09,2021-11-20 22:36:09,23.0,5.0,6.0,12.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_224235_192.wav,matched,2021-11-20 22:42:35,2021-11-20 22:41:09,2021-11-20 22:41:09,46.0,11.0,8.0,27.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_224735_192.wav,matched,2021-11-20 22:47:35,2021-11-20 22:46:09,2021-11-20 22:46:09,11.0,7.0,0.0,4.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt10,20211120_225236_192.wav,matched,2021-11-20 22:52:36,2021-11-20 22:51:09,2021-11-20 22:51:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt2,20211120_114118_192.wav,unknown,2021-11-20 11:41:18,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt2,20211120_114618_192.wav,unknown,2021-11-20 11:46:18,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt2,20211120_115119_192.wav,unknown,2021-11-20 11:51:19,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt2,20211120_115619_192.wav,unknown,2021-11-20 11:56:19,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt2,20211120_120120_192.wav,matched,2021-11-20 12:01:20,2021-11-20 12:01:09,2021-11-20 12:01:09,34.0,13.0,1.0,20.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt2,20211120_120620_192.wav,matched,2021-11-20 12:06:20,2021-11-20 12:06:09,2021-11-20 12:06:09,26.0,18.0,0.0,8.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt2,20211120_121121_192.wav,matched,2021-11-20 12:11:21,2021-11-20 12:11:09,2021-11-20 12:11:09,62.0,24.0,3.0,35.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt2,20211120_121622_192.wav,matched,2021-11-20 12:16:22,2021-11-20 12:16:09,2021-11-20 12:16:09,88.0,32.0,4.0,52.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt2,20211120_122122_192.wav,matched,2021-11-20 12:21:22,2021-11-20 12:21:09,2021-11-20 12:21:09,60.0,17.0,17.0,26.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt2,20211120_122623_192.wav,matched,2021-11-20 12:26:23,2021-11-20 12:26:09,2021-11-20 12:26:09,59.0,26.0,4.0,29.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt2,20211120_123123_192.wav,matched,2021-11-20 12:31:23,2021-11-20 12:31:09,2021-11-20 12:31:09,15.0,5.0,5.0,5.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt2,20211120_123624_192.wav,matched,2021-11-20 12:36:24,2021-11-20 12:36:09,2021-11-20 12:36:09,43.0,20.0,2.0,21.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt2,20211120_124124_192.wav,matched,2021-11-20 12:41:24,2021-11-20 12:41:09,2021-11-20 12:41:09,116.0,53.0,2.0,61.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt2,20211120_124625_192.wav,unknown,2021-11-20 12:46:25,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt2,20211120_125126_192.wav,unknown,2021-11-20 12:51:26,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_125626_192.wav,unknown,2021-11-20 12:56:26,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_130127_192.wav,unknown,2021-11-20 13:01:27,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_130627_192.wav,unknown,2021-11-20 13:06:27,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_131128_192.wav,unknown,2021-11-20 13:11:28,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_131628_192.wav,unknown,2021-11-20 13:16:28,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_132129_192.wav,unknown,2021-11-20 13:21:29,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_132629_192.wav,unknown,2021-11-20 13:26:29,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_133130_192.wav,unknown,2021-11-20 13:31:30,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_133631_192.wav,unknown,2021-11-20 13:36:31,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_134131_192.wav,unknown,2021-11-20 13:41:31,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_134632_192.wav,unknown,2021-11-20 13:46:32,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_135132_192.wav,unknown,2021-11-20 13:51:32,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_135633_192.wav,unknown,2021-11-20 13:56:33,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_140133_192.wav,unknown,2021-11-20 14:01:33,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt3,20211120_140634_192.wav,unknown,2021-11-20 14:06:34,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt4,20211120_141135_192.wav,unknown,2021-11-20 14:11:35,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt4,20211120_141635_192.wav,unknown,2021-11-20 14:16:35,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt4,20211120_142136_192.wav,unknown,2021-11-20 14:21:36,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt4,20211120_142636_192.wav,unknown,2021-11-20 14:26:36,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt4,20211120_143137_192.wav,unknown,2021-11-20 14:31:37,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt4,20211120_143637_192.wav,unknown,2021-11-20 14:36:37,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt4,20211120_144138_192.wav,unknown,2021-11-20 14:41:38,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt4,20211120_144639_192.wav,matched,2021-11-20 14:46:39,2021-11-20 14:46:09,2021-11-20 14:46:09,87.0,38.0,9.0,40.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt4,20211120_145139_192.wav,matched,2021-11-20 14:51:39,2021-11-20 14:51:09,2021-11-20 14:51:09,17.0,9.0,1.0,7.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt4,20211120_145640_192.wav,matched,2021-11-20 14:56:40,2021-11-20 14:56:09,2021-11-20 14:56:09,16.0,4.0,3.0,9.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt4,20211120_150140_192.wav,matched,2021-11-20 15:01:40,2021-11-20 15:01:09,2021-11-20 15:01:09,47.0,18.0,7.0,22.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt4,20211120_150641_192.wav,matched,2021-11-20 15:06:41,2021-11-20 15:06:09,2021-11-20 15:06:09,53.0,23.0,5.0,25.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt4,20211120_151142_192.wav,matched,2021-11-20 15:11:42,2021-11-20 15:11:09,2021-11-20 15:11:09,31.0,14.0,8.0,9.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt4,20211120_151642_192.wav,matched,2021-11-20 15:16:42,2021-11-20 15:16:09,2021-11-20 15:16:09,56.0,17.0,4.0,35.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt4,20211120_152143_192.wav,matched,2021-11-20 15:21:43,2021-11-20 15:21:09,2021-11-20 15:21:09,65.0,34.0,6.0,25.0,PLAY,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_152643_192.wav,matched,2021-11-20 15:26:43,2021-11-20 15:26:09,2021-11-20 15:26:09,147.0,24.0,36.0,87.0,PLAY,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_153144_192.wav,matched,2021-11-20 15:31:44,2021-11-20 15:31:09,2021-11-20 15:31:09,209.0,38.0,32.0,139.0,PLAY,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_153644_192.wav,matched,2021-11-20 15:36:44,2021-11-20 15:36:09,2021-11-20 15:36:09,180.0,50.0,32.0,98.0,PLAY,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_154145_192.wav,matched,2021-11-20 15:41:45,2021-11-20 15:41:09,2021-11-20 15:41:09,107.0,32.0,18.0,57.0,PLAY,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_154646_192.wav,matched,2021-11-20 15:46:46,2021-11-20 15:46:09,2021-11-20 15:46:09,72.0,31.0,5.0,36.0,PLAY,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_155146_192.wav,matched,2021-11-20 15:51:46,2021-11-20 15:51:09,2021-11-20 15:51:09,113.0,44.0,13.0,56.0,PLAY,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_155647_192.wav,matched,2021-11-20 15:56:47,2021-11-20 15:56:09,2021-11-20 15:56:09,125.0,53.0,17.0,55.0,PLAY,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_160147_192.wav,matched,2021-11-20 16:01:47,2021-11-20 16:01:09,2021-11-20 16:01:09,88.0,41.0,5.0,42.0,PLAY,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_160648_192.wav,matched,2021-11-20 16:06:48,2021-11-20 16:06:09,2021-11-20 16:06:09,76.0,18.0,14.0,44.0,FFR,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_161148_192.wav,matched,2021-11-20 16:11:48,2021-11-20 16:11:09,2021-11-20 16:11:09,108.0,28.0,7.0,73.0,FFR,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_161649_192.wav,matched,2021-11-20 16:16:49,2021-11-20 16:16:09,2021-11-20 16:16:09,49.0,20.0,2.0,27.0,FFR,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_162150_192.wav,matched,2021-11-20 16:21:50,2021-11-20 16:21:09,2021-11-20 16:21:09,83.0,38.0,5.0,40.0,FFR,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_162650_192.wav,matched,2021-11-20 16:26:50,2021-11-20 16:26:09,2021-11-20 16:26:09,68.0,23.0,13.0,32.0,FFR,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_163151_192.wav,matched,2021-11-20 16:31:51,2021-11-20 16:31:09,2021-11-20 16:31:09,81.0,36.0,3.0,42.0,FFR,TRAIN,,
+Raw_recordings_Day1_pt5,20211120_163651_192.wav,matched,2021-11-20 16:36:51,2021-11-20 16:36:09,2021-11-20 16:36:09,59.0,29.0,0.0,30.0,FFR,TRAIN,,
+Raw_recordings_Day1_pt6,20211120_164152_192.wav,matched,2021-11-20 16:41:52,2021-11-20 16:41:09,2021-11-20 16:41:09,54.0,19.0,8.0,27.0,FFR,TRAIN,,
+Raw_recordings_Day1_pt6,20211120_164653_192.wav,matched,2021-11-20 16:46:53,2021-11-20 16:46:09,2021-11-20 16:46:09,72.0,15.0,12.0,45.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt6,20211120_165153_192.wav,matched,2021-11-20 16:51:53,2021-11-20 16:51:09,2021-11-20 16:51:09,112.0,34.0,19.0,59.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt6,20211120_165654_192.wav,matched,2021-11-20 16:56:54,2021-11-20 16:56:09,2021-11-20 16:56:09,107.0,40.0,7.0,60.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt6,20211120_170154_192.wav,matched,2021-11-20 17:01:54,2021-11-20 17:01:09,2021-11-20 17:01:09,98.0,31.0,13.0,54.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt6,20211120_170655_192.wav,matched,2021-11-20 17:06:55,2021-11-20 17:06:09,2021-11-20 17:06:09,137.0,37.0,7.0,93.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt6,20211120_171155_192.wav,matched,2021-11-20 17:11:55,2021-11-20 17:11:09,2021-11-20 17:11:09,118.0,48.0,2.0,68.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt6,20211120_171656_192.wav,matched,2021-11-20 17:16:56,2021-11-20 17:16:09,2021-11-20 17:16:09,99.0,36.0,1.0,62.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt6,20211120_172157_192.wav,matched,2021-11-20 17:21:57,2021-11-20 17:21:09,2021-11-20 17:21:09,40.0,23.0,0.0,17.0,ORD,TRAIN,,
+Raw_recordings_Day1_pt6,20211120_172657_192.wav,unknown,2021-11-20 17:26:57,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt6,20211120_173158_192.wav,unknown,2021-11-20 17:31:58,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt6,20211120_173658_192.wav,unknown,2021-11-20 17:36:58,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt6,20211120_174159_192.wav,unknown,2021-11-20 17:41:59,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt6,20211120_174700_192.wav,unknown,2021-11-20 17:47:00,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt6,20211120_175200_192.wav,unknown,2021-11-20 17:52:00,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_175701_192.wav,unknown,2021-11-20 17:57:01,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_180201_192.wav,unknown,2021-11-20 18:02:01,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_180702_192.wav,unknown,2021-11-20 18:07:02,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_181203_192.wav,unknown,2021-11-20 18:12:03,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_181703_192.wav,unknown,2021-11-20 18:17:03,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_182204_192.wav,unknown,2021-11-20 18:22:04,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_182704_192.wav,unknown,2021-11-20 18:27:04,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_183205_192.wav,unknown,2021-11-20 18:32:05,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_183705_192.wav,unknown,2021-11-20 18:37:05,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_184206_192.wav,unknown,2021-11-20 18:42:06,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_184707_192.wav,unknown,2021-11-20 18:47:07,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_185207_192.wav,unknown,2021-11-20 18:52:07,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_185708_192.wav,unknown,2021-11-20 18:57:08,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,No matching timestamp in Excel
+Raw_recordings_Day1_pt7,20211120_190208_192.wav,matched,2021-11-20 19:02:08,2021-11-20 19:01:09,2021-11-20 19:01:09,22.0,10.0,0.0,12.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt7,20211120_190709_192.wav,matched,2021-11-20 19:07:09,2021-11-20 19:06:09,2021-11-20 19:06:09,47.0,21.0,3.0,23.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_191210_192.wav,matched,2021-11-20 19:12:10,2021-11-20 19:11:09,2021-11-20 19:11:09,23.0,7.0,0.0,16.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_191710_192.wav,matched,2021-11-20 19:17:10,2021-11-20 19:16:09,2021-11-20 19:16:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_192211_192.wav,matched,2021-11-20 19:22:11,2021-11-20 19:21:09,2021-11-20 19:21:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_192711_192.wav,matched,2021-11-20 19:27:11,2021-11-20 19:26:09,2021-11-20 19:26:09,4.0,3.0,0.0,1.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_193212_192.wav,matched,2021-11-20 19:32:12,2021-11-20 19:31:09,2021-11-20 19:31:09,8.0,6.0,0.0,2.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_193713_192.wav,matched,2021-11-20 19:37:13,2021-11-20 19:36:09,2021-11-20 19:36:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_194213_192.wav,matched,2021-11-20 19:42:13,2021-11-20 19:41:09,2021-11-20 19:41:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_194714_192.wav,matched,2021-11-20 19:47:14,2021-11-20 19:46:09,2021-11-20 19:46:09,8.0,1.0,4.0,3.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_195214_192.wav,matched,2021-11-20 19:52:14,2021-11-20 19:51:09,2021-11-20 19:51:09,2.0,1.0,0.0,1.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_195715_192.wav,matched,2021-11-20 19:57:15,2021-11-20 19:56:09,2021-11-20 19:56:09,11.0,7.0,0.0,4.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_200216_192.wav,matched,2021-11-20 20:02:16,2021-11-20 20:01:09,2021-11-20 20:01:09,27.0,9.0,0.0,18.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_200716_192.wav,matched,2021-11-20 20:07:16,2021-11-20 20:06:09,2021-11-20 20:06:09,17.0,9.0,0.0,8.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_201217_192.wav,matched,2021-11-20 20:12:17,2021-11-20 20:11:09,2021-11-20 20:11:09,20.0,14.0,0.0,6.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_201717_192.wav,matched,2021-11-20 20:17:17,2021-11-20 20:16:09,2021-11-20 20:16:09,63.0,37.0,0.0,26.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt8,20211120_202218_192.wav,matched,2021-11-20 20:22:18,2021-11-20 20:21:09,2021-11-20 20:21:09,56.0,30.0,0.0,26.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_202719_192.wav,matched,2021-11-20 20:27:19,2021-11-20 20:26:09,2021-11-20 20:26:09,53.0,28.0,1.0,24.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_203219_192.wav,matched,2021-11-20 20:32:19,2021-11-20 20:31:09,2021-11-20 20:31:09,38.0,22.0,3.0,13.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_203720_192.wav,matched,2021-11-20 20:37:20,2021-11-20 20:36:09,2021-11-20 20:36:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_204220_192.wav,matched,2021-11-20 20:42:20,2021-11-20 20:41:09,2021-11-20 20:41:09,2.0,2.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_204721_192.wav,matched,2021-11-20 20:47:21,2021-11-20 20:46:09,2021-11-20 20:46:09,21.0,8.0,1.0,12.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_205222_192.wav,matched,2021-11-20 20:52:22,2021-11-20 20:51:09,2021-11-20 20:51:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_205722_192.wav,matched,2021-11-20 20:57:22,2021-11-20 20:56:09,2021-11-20 20:56:09,4.0,3.0,0.0,1.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_210223_192.wav,matched,2021-11-20 21:02:23,2021-11-20 21:01:09,2021-11-20 21:01:09,29.0,7.0,0.0,22.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_210723_192.wav,matched,2021-11-20 21:07:23,2021-11-20 21:06:09,2021-11-20 21:06:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_211224_192.wav,matched,2021-11-20 21:12:24,2021-11-20 21:11:09,2021-11-20 21:11:09,0.0,0.0,0.0,0.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_211725_192.wav,matched,2021-11-20 21:17:25,2021-11-20 21:16:09,2021-11-20 21:16:09,4.0,3.0,0.0,1.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_212225_192.wav,matched,2021-11-20 21:22:25,2021-11-20 21:21:09,2021-11-20 21:21:09,102.0,29.0,4.0,69.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_212726_192.wav,matched,2021-11-20 21:27:26,2021-11-20 21:26:09,2021-11-20 21:26:09,11.0,4.0,0.0,7.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_213226_192.wav,matched,2021-11-20 21:32:26,2021-11-20 21:31:09,2021-11-20 21:31:09,34.0,15.0,0.0,19.0,NIGHT,FREE,,
+Raw_recordings_Day1_pt9,20211120_213727_192.wav,matched,2021-11-20 21:37:27,2021-11-20 21:36:09,2021-11-20 21:36:09,103.0,34.0,0.0,69.0,NIGHT,FREE,,
