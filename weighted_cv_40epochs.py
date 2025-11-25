@@ -20,40 +20,32 @@ import warnings
 import time
 warnings.filterwarnings('ignore')
 
-# cahange paths accordingly
 class Config:
-    # Paths - Correctly placed inside the class
+
     VOCAL_ANNOTATION_CSV = 'vocal_annotation_all.csv'
     DATA_BASE_FOLDER = 'Data'
     OUTPUT_DIR = '/root/weighted_cross_outputs_3'
     
-    # Model
     MODEL_NAME = 'facebook/hubert-base-ls960'
     NUM_FOLDS = 5           
     BATCH_SIZE = 8          
     LEARNING_RATE = 2e-5
     NUM_EPOCHS = 40        
     
-    # Audio settings
     SEGMENT_LENGTH = 10.0
     SAMPLE_RATE = 16000
     PADDING_BEFORE = 2.0
     PADDING_AFTER = 2.0
     
-    # Multi-task settings
     ACTIVITY_LABEL_COLUMN = 'label_activity'
     VOCALIZATION_LABEL_COLUMN = 'vocalization_type'
     EXCLUDE_UNKNOWN = False 
-    # Task weights (for combining loss)
     ACTIVITY_WEIGHT = 0.5
     VOCALIZATION_WEIGHT = 0.5
     
-    # Device - Tell PyTorch to use the GPU
     DEVICE = torch.device('cuda'if torch.cuda.is_available() else 'cpu')
     RANDOM_SEED = 42
 
-
-# MULTI-TASK MODEL
 
 class MultiTaskHuBERT(nn.Module):
     """HuBERT with two classification heads"""
@@ -76,7 +68,6 @@ class MultiTaskHuBERT(nn.Module):
 
 
 
-# DATASET CLASS
 class MultiTaskAudioDataset(Dataset):
     """Dataset for multi-task learning"""
     def __init__(self, dataframe, data_base_folder, feature_extractor,
@@ -98,22 +89,18 @@ class MultiTaskAudioDataset(Dataset):
         audio_path = os.path.join(self.data_base_folder, row['folder'], row['original_audio'])
         
         try:
-            # Calculate segment boundaries with padding
             start_time = max(0, row['start_time'] - self.padding_before)
             end_time = row['end_time'] + self.padding_after
             duration = min(end_time - start_time, self.segment_length)
             
-            # Load audio segment
             audio, sr = librosa.load(audio_path, sr=self.sample_rate, offset=start_time, duration=duration)
             
-            # Pad or truncate to fixed length
             target_length = int(self.segment_length * self.sample_rate)
             if len(audio) < target_length:
                 audio = np.pad(audio, (0, target_length - len(audio)))
             else:
                 audio = audio[:target_length]
             
-            # Extract features
             inputs = self.feature_extractor(audio, sampling_rate=self.sample_rate, return_tensors="pt", padding=True)
             
             return {
@@ -130,13 +117,12 @@ class MultiTaskAudioDataset(Dataset):
             inputs = self.feature_extractor(dummy_audio, sampling_rate=self.sample_rate, return_tensors="pt", padding=True)
             return {
                 'input_values': inputs.input_values.squeeze(0),
-                'activity_label': torch.tensor(0, dtype=torch.long), # Will use a default label
+                'activity_label': torch.tensor(0, dtype=torch.long), 
                 'vocalization_label': torch.tensor(0, dtype=torch.long),
                 'filename': 'error'
             }
 
 
-# TRAINING FUNCTIONS
 def train_epoch(model, dataloader, optimizer, activity_criterion, vocalization_criterion, 
                 device, activity_weight, vocalization_weight):
     """Train for one epoch"""
@@ -150,7 +136,6 @@ def train_epoch(model, dataloader, optimizer, activity_criterion, vocalization_c
     progress_bar = tqdm(dataloader, desc="Training")
     
     for batch in progress_bar:
-        # Filter out error batches
         if 'error' in batch['filename']:
             continue
             
@@ -184,7 +169,6 @@ def train_epoch(model, dataloader, optimizer, activity_criterion, vocalization_c
             'voc_acc': f'{accuracy_score(vocalization_labels_all, vocalization_preds_all):.3f}'
         })
     
-    # Handle cases where all batches were errors
     if len(dataloader) == 0 or len(activity_labels_all) == 0:
         return 0, 0, 0
         
@@ -207,7 +191,6 @@ def evaluate(model, dataloader, activity_criterion, vocalization_criterion,
     
     with torch.no_grad():
         for batch in tqdm(dataloader, desc="Evaluating"):
-            # Filter out error batches
             if 'error' in batch['filename']:
                 continue
                 
@@ -231,7 +214,6 @@ def evaluate(model, dataloader, activity_criterion, vocalization_criterion,
             vocalization_preds_all.extend(vocalization_preds.cpu().numpy())
             vocalization_labels_all.extend(vocalization_labels.cpu().numpy())
     
-    # Handle cases where all batches were errors
     if len(dataloader) == 0 or len(activity_labels_all) == 0:
         return (0, 0, 0, 0, 0, 0, 0, 0, 0, [], [], [], [])
         
@@ -260,7 +242,6 @@ def cross_validate(config):
     print(f"Epochs: {config.NUM_EPOCHS} ")
     print(f"Batch Size: {config.BATCH_SIZE}")
     
-    # Load data
     print(f"\n Loading: {config.VOCAL_ANNOTATION_CSV}")
     try:
         df = pd.read_csv(config.VOCAL_ANNOTATION_CSV)
@@ -270,12 +251,11 @@ def cross_validate(config):
         return
     print(f"   Total segments: {len(df)}")
     
-    # Filter unknown
     if config.EXCLUDE_UNKNOWN:
         df = df[
             (df[config.ACTIVITY_LABEL_COLUMN] != 'unknown') & 
             (df[config.VOCALIZATION_LABEL_COLUMN] != 'unknown') &
-            (df['status'] == 'matched') # Explicitly use 'matched'
+            (df['status'] == 'matched') 
         ].reset_index(drop=True)
         print(f"   After filtering for 'matched' and 'unknown': {len(df)} segments")
     else:
@@ -285,14 +265,10 @@ def cross_validate(config):
         print("\n No valid data! Check your CSV or filters.")
         return None
     
-    # Clean Vocalization Labels
-    # We must do this *before* creating the label mappings
-    # HANDLE 'unknown' VOCALIZATION 
     label_map = {
         'W': 'W', 'w': 'W', "W'": 'W', 'WW': 'W',
         'NOISE': 'NOISE', 'NOIS': 'NOISE', 'W+NOISE': 'NOISE', 
         'RUMORE CON FISCHIO': 'NOISE',
-        # Group rare labels into 'OTHER'
         'ct': 'OTHER', 'PSB': 'OTHER', 'CR': 'OTHER', 'b': 'OTHER',
         'PbS': 'OTHER', 'M': 'OTHER', 'unknown': 'OTHER' # <-- Added unknown
     }
@@ -300,12 +276,10 @@ def cross_validate(config):
     df[config.VOCALIZATION_LABEL_COLUMN] = df[config.VOCALIZATION_LABEL_COLUMN].apply(
         lambda x: label_map.get(x, x)
     )
-    # Drop 'OTHER'
     df = df[df[config.VOCALIZATION_LABEL_COLUMN] != 'OTHER'].reset_index(drop=True)
     print(f"   After cleaning vocalization labels: {len(df)} segments")
 
     
-    # Create label mappings
     activity_labels = sorted(df[config.ACTIVITY_LABEL_COLUMN].unique())
     activity_label2id = {label: idx for idx, label in enumerate(activity_labels)}
     activity_id2label = {idx: label for label, idx in activity_label2id.items()}
@@ -327,7 +301,7 @@ def cross_validate(config):
     df['activity_label_id'] = df[config.ACTIVITY_LABEL_COLUMN].map(activity_label2id)
     df['vocalization_label_id'] = df[config.VOCALIZATION_LABEL_COLUMN].map(vocalization_label2id)
     
-    # CALCULATE CLASS WEIGHTS
+
     
     activity_weights_array = class_weight.compute_class_weight(
         'balanced',
@@ -349,17 +323,13 @@ def cross_validate(config):
     for i, w in enumerate(vocalization_weights_array):
         print(f"  {vocalization_id2label[i]}: {w:.4f}")
 
-    # Feature extractor
     print(f"\n Loading feature extractor...")
     feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained(config.MODEL_NAME)
     
-    # Cross-validation
-    # We stratify on the *most* imbalanced task, which is activity
     skf = StratifiedKFold(n_splits=config.NUM_FOLDS, shuffle=True, random_state=config.RANDOM_SEED)
     fold_results = []
     os.makedirs(config.OUTPUT_DIR, exist_ok=True)
     
-    # Save label mappings
     with open(os.path.join(config.OUTPUT_DIR, 'activity_id2label.json'), 'w') as f:
         json.dump(activity_id2label, f)
     with open(os.path.join(config.OUTPUT_DIR, 'vocalization_id2label.json'), 'w') as f:
@@ -375,7 +345,6 @@ def cross_validate(config):
         val_df = df.iloc[val_idx]
         print(f"Train: {len(train_df)}, Val: {len(val_df)}")
         
-        # Datasets
         train_dataset = MultiTaskAudioDataset(
             train_df, config.DATA_BASE_FOLDER, feature_extractor,
             config.SEGMENT_LENGTH, config.SAMPLE_RATE,
@@ -387,35 +356,28 @@ def cross_validate(config):
             config.PADDING_BEFORE, config.PADDING_AFTER
         )
         
-        # Dataloaders
         train_loader = DataLoader(train_dataset, batch_size=config.BATCH_SIZE, shuffle=True, num_workers=0)
         val_loader = DataLoader(val_dataset, batch_size=config.BATCH_SIZE, shuffle=False, num_workers=0)
         
-        # Model
         print(f"\n Loading Multi-Task HuBERT model...")
         model = MultiTaskHuBERT(config.MODEL_NAME, len(activity_labels), len(vocalization_labels)).to(config.DEVICE)
         
         
-        # APPLY WEIGHTS TO LOSS
-        # Convert weights to tensors and send to device
         act_weights_tensor = torch.tensor(activity_weights_array, dtype=torch.float).to(config.DEVICE)
         voc_weights_tensor = torch.tensor(vocalization_weights_array, dtype=torch.float).to(config.DEVICE)
         
-        # Pass the 'weight' argument
         activity_criterion = nn.CrossEntropyLoss(weight=act_weights_tensor)
         vocalization_criterion = nn.CrossEntropyLoss(weight=voc_weights_tensor)
         
         optimizer = torch.optim.AdamW(model.parameters(), lr=config.LEARNING_RATE)
         
-        # Training loop
-        best_val_loss = float('inf') # Save based on combined loss
+        best_val_loss = float('inf') 
         best_epoch = 0
         
         for epoch in range(config.NUM_EPOCHS):
             epoch_start_time = time.time()
             print(f"\n--- Epoch {epoch+1}/{config.NUM_EPOCHS} ---")
             
-            # Train
             train_loss, train_activity_acc, train_voc_acc = train_epoch(
                 model, train_loader, optimizer,
                 activity_criterion, vocalization_criterion,
@@ -426,7 +388,6 @@ def cross_validate(config):
             print(f"Train - Loss: {train_loss:.4f}, Activity: {train_activity_acc:.4f}, Vocalization: {train_voc_acc:.4f}")
             print(f"Epoch time: {epoch_time/60:.1f} minutes")
             
-            # Validate
             (val_loss, val_activity_acc, val_activity_prec, val_activity_rec, val_activity_f1,
              val_voc_acc, val_voc_prec, val_voc_rec, val_voc_f1,
              _, _, _, _) = evaluate(
@@ -439,21 +400,18 @@ def cross_validate(config):
             print(f"  Activity: Acc={val_activity_acc:.4f}, F1={val_activity_f1:.4f}")
             print(f"  Vocalization: Acc={val_voc_acc:.4f}, F1={val_voc_f1:.4f}")
             
-            # Save best
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
                 best_epoch = epoch + 1
                 torch.save(model.state_dict(), os.path.join(config.OUTPUT_DIR, f'multitask_fold{fold}_best.pt'))
                 print(f" Saved best model (by val loss)")
             
-            # Time estimate
             if epoch == 0:
                 estimated_fold_time = epoch_time * config.NUM_EPOCHS / 60
                 estimated_total_time = estimated_fold_time * config.NUM_FOLDS / 60
                 print(f" Estimated fold time: {estimated_fold_time:.1f} minutes")
                 print(f" Estimated total time: {estimated_total_time:.1f} hours")
         
-        # Final evaluation
         fold_time = (time.time() - fold_start_time) / 3600
         print(f"\n   Fold {fold} completed in {fold_time:.2f} hours")
         
@@ -472,7 +430,6 @@ def cross_validate(config):
         print(f"  Activity - Acc: {val_activity_acc:.4f}, F1: {val_activity_f1:.4f}")
         print(f"  Vocalization - Acc: {val_voc_acc:.4f}, F1: {val_voc_f1:.4f}")
         
-        # Save confusion matrices
         activity_cm = confusion_matrix(
             activity_labels_true, activity_preds,
             labels=list(range(len(activity_labels)))
@@ -499,7 +456,6 @@ def cross_validate(config):
             'fold_time_hours': fold_time
         })
     
-    # Summary
     total_time = (time.time() - start_time) / 3600
     print("CROSS VALIDATION SUMMARY")
     print(f"  Total training time: {total_time:.2f} hours")
@@ -518,18 +474,17 @@ def cross_validate(config):
     
     return results_df
 
-# RUN THE SCRIPT
 if __name__ == '__main__':
     try:
-        # Set seeds for reproducibility
         torch.manual_seed(Config.RANDOM_SEED)
         np.random.seed(Config.RANDOM_SEED)
     
         print("Starting cross-validation...")
-        results = cross_validate(Config()) # Instantiate the config class
+        results = cross_validate(Config()) 
         print("Cross-validation finished.")
 
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         import traceback
         traceback.print_exc()
+
