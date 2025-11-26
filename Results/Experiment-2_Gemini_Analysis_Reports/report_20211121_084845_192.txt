@@ -1,0 +1,5 @@
+This recording session (20211121_084845_192) paints a picture of inactivity with a possible focus on foraging. The "Activity" data suggests primarily nighttime behavior ('NIGHT' at 45.8%) and a significant portion of unidentified activity ('unknown' at 47.5%). The presence of 'FFR' (Fast Frequency Repetitive clicks) at 6.8% could indicate foraging behavior, as these clicks are often associated with echolocation used to locate prey.
+
+The "Vocalization" data is largely dominated by noise ('NOISE' at 88.1%). The relatively low levels of 'MW' (modulated whistle), 'ECT' (Emitted Click Train), and 'W' (whistle) at 5.1%, 5.1%, and 1.7% respectively, suggest minimal active communication or social interaction. The low whistle production, in particular, further supports the interpretation of reduced social activity.
+
+In summary, this dolphin appears to be primarily in a resting or inactive state, typical of nighttime behavior. The presence of FFR suggests a possible foraging activity, but the high noise levels and low vocalization rates point to a quiet and potentially solitary event.

@@ -1,0 +1,13 @@
+This recording session, 20211120_141635_192, presents a somewhat ambiguous behavioral profile. The activity data is largely categorized as "unknown" (66.1%), suggesting a lack of clear, identifiable behaviors using the current classification system. The second-highest activity is "NIGHT" (28.8%), indicating this recording took place during nighttime. A small fraction of activity is categorized as "ORD" (5.1%), which typically indicates Ordinary sounds or routine behavior.
+
+The vocalization data is overwhelmingly dominated by "NOISE" (89.8%). This high level of noise could be obscuring other vocalizations or genuinely reflect a noisy environment. The remaining vocalizations are "ECT" (Echolocation Clicks, 6.8%) and "MW" (Moans and Whistles, 3.4%).
+
+Given the high "unknown" activity and dominant "NOISE" vocalization, it's difficult to definitively interpret the dolphin's behavior. However, the presence of "NIGHT", "ECT" and "MW" offer some clues:
+
+*   **Nighttime Activity:** Suggests the dolphin is active (at least to some degree) during the night.
+*   **Echolocation Clicks (ECT):** Indicate the dolphin is actively using echolocation, likely for navigation and/or foraging in the darkness.
+*   **Moans and Whistles (MW):** While a small percentage, their presence suggests some level of communication is occurring. Moans and whistles can be associated with a range of social and individual behaviours.
+
+**Overall Interpretation:**
+
+This dolphin is likely engaged in nocturnal activities, possibly related to foraging and maintaining awareness of its surroundings using echolocation. The presence of moans and whistles, although minimal given the noise, suggest that some level of social interaction or communication could be occurring. However, the high percentage of unknown activity and noise makes a concrete assessment difficult. Further investigation, perhaps with refined acoustic analysis to reduce noise and improved behavioral classifications, would be beneficial to gain a better understanding of the dolphin's behavior during this session.

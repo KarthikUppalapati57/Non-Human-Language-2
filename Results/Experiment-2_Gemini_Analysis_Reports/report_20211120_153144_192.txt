@@ -1,0 +1,14 @@
+Okay, here's my analysis of the dolphin behavioral profile for the recording session 20211120_153144_192:
+
+This recording session is overwhelmingly characterized by Play behavior (88.1%). A small amount of time is spent in an Ordinary activity pattern (8.5%), while some brief periods of Fast Frequency Repetition and an Unknown activity register at 1.7% each.
+
+The vocalization profile shows a mixed composition, with Echolocation Clicks Trains ('ECT' at 45.8%) being the most dominant, followed by burst pulse sounds 'BPS' (0.153) and  modulated whistles 'MW' (39%).
+
+**Interpretation:**
+
+The high proportion of Play activity, coupled with the significant presence of echolocation click trains and burst pulse sounds, suggests the dolphin is likely engaged in social play that involves active exploration and potentially object manipulation.
+
+*   **Play Dominance:** The 88.1% dedicated to Play indicates the core activity.
+*   **Vocalization Context:** The modulated whistles indicate the presence of communication. burst pulse sounds is a vocal indicator of excitement, aggression or distress. It is likely that the dolphin is undergoing an elevated emotional state. The 45.8% of echolocation clicks trains, indicate that exploration is an important part of the dolphins behavior.
+
+**In summary, the dolphin is primarily engaged in a social play behavior, using echolocation probably to learn about their surroundings and communicate with other dolphins.**

@@ -1,0 +1,3 @@
+The session from 20211121_082843_192 appears to represent a period of inactivity, likely during the night (66.1% labeled as 'NIGHT'). The extremely high presence of 'NOISE' in the vocalization data (96.6%) suggests minimal dolphin-specific vocal activity. The low level of 'MW' (modulated whistle at 3.4%) doesn't indicate significant communication.
+
+**In summary:** This recording session likely captures a period of nocturnal rest or low activity with minimal vocal interaction. It's important to consider the context of the recording (e.g., location, time of year, known dolphin behavior in that area) for a more complete interpretation.

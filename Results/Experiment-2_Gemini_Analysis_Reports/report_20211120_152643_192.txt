@@ -1,0 +1,9 @@
+Okay, here's my analysis of the dolphin behavioral profile for recording session 20211120_152643_192:
+
+Based on the data, the dolphin is engaged in a session primarily characterized by **Play behavior (59.3%)**, though Ordinary (ORD) behavior constitutes a significant portion as well (40.7%). This suggests a mixed session.
+
+The vocalization data provides further insight. The most prominent vocalization type is **MW (49.2%)**, which stands for "Mew." The presence of Echolocation Clicks (ECT at 23.7%) suggests the dolphin is actively exploring its environment and potentially foraging or navigating. Burst Pulse Sounds (BPS at 20.3%) often indicate excitement or communication within a social context. The low level of Noise (6.8%) suggests a relatively clear recording environment.
+
+**Synthesis:**
+
+This dolphin is likely engaged in playful interactions or social activities within its environment. While Play is the most prominent activity, the significant proportion of Ordinary activity and the active use of echolocation suggests that they are also potentially foraging or exploring while they play. The combination of Mews and Burst Pulse sounds indicates communication within a social group.

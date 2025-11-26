@@ -1,0 +1,10 @@
+Okay, let's analyze the behavioral profile of this dolphin recording session: 20211120_145139_192.
+
+Based on the data provided:
+
+*   **Activity:** The dominant activity is 'ORD' at 89.8%. 'unknown' accounts for 6.8% and 'FFR' (likely related to foraging) is a small 3.4%.
+*   **Vocalization:** The vocalization profile is more distributed. 'NOISE' is the highest at 35.6%, followed closely by 'ECT' (likely echolocation clicks) at 33.9% and 'MW' (likely modulated whistles) at 30.5%.
+
+**Interpretation:**
+
+The strong presence of 'ORD' suggests a specific type of ordered behavior. Considering there is foraging or playful behavior this may be something like 'ORD' - Ordered Movement. In summary, the dolphin is primarily engaged in ordered movement with notable Echolocation Clicks (ECT) and Modulated Whistles (MW). This could indicate the dolphin is navigating, exploring its environment, and communicating socially, or a combination of these activities.

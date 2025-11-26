@@ -1,0 +1,23 @@
+Okay, here's my analysis of the dolphin recording session data (20211120_153644_192):
+
+**Overall Interpretation:**
+
+This recording session suggests the dolphin(s) are primarily engaged in **play behavior**. While not as overwhelmingly dominant as in the example provided, "PLAY" constitutes a significant 78% of the recorded activity.  The presence of other behaviors ("ORD" and "FFR") at smaller percentages indicates the play isn't the *only* thing happening, but it's the main focus.
+
+**Breakdown by Activity:**
+
+*   **PLAY (78%):** This is the most prominent activity, indicating social interaction, possibly including chasing, mimicking, or object manipulation.
+*   **ORD (0.119):** This likely refers to "Oriented" behavior.  While at 11.9% there is a moderate contribution to behavior, more context is needed to understand what this orientation is toward. If a large group, ORD could indicate a monitoring behavior. If few individuals, this could be related to directed playing.
+*   **FFR (0.051):** I would expect this refers to "Foraging Related." While not significant, this suggests the dolphins are possibly looking for food or near a known food source.
+*   **unknown (0.051):** A small portion of the activity is uncategorized. This could be due to limitations in the recording analysis or the presence of subtle behaviors that are difficult to classify.
+
+**Breakdown by Vocalization:**
+
+*   **MW (0.492):** This likely refers to "Modified Whistles." As the dominant vocalization at 49.2%, MW indicates communication, likely related to maintaining group cohesion during play. The nature of whistles can vary significantly depending on the social context.
+*   **ECT (0.373):** This likely refers to "Echolocation." While less than modified whistles, this is a strong contributor to vocalizations at 37.3%. This confirms that the dolphins are actively perceiving their surroundings. In combination with playing behavior, this suggests that dolphins are actively mapping the parameters of their play, such as size and shape of objects.
+*   **BPS (0.119):** This likely refers to "Burst Pulse Sounds." While at 11.9%, this presence may indicate excitement or a higher arousal state associated with the play activity. Burst pulses can also be used in more agonistic contexts, but given the dominance of play, it's more likely related to the energetic social interaction.
+*   **NOISE (0.017):** A very small amount of noise is present in the recording.
+
+**Conclusion:**
+
+Based on this data, the dolphin(s) in this recording session appear to be primarily engaged in social play. Echolocation combined with the presence of burst pulse sounds suggests an active and interactive session. The presence of oriented behavior means there is some monitoring or directed attention happening, however more information would be needed to understand this.

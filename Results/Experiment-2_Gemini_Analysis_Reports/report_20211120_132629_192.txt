@@ -1,0 +1,20 @@
+Okay, based on the provided data from recording session 20211120_132629_192, the behavioral profile suggests the following:
+
+**Activity:**
+
+*   The dominant activity is categorized as "unknown" (81.4%). This indicates a significant portion of the dolphin's behavior during this session could not be readily classified into the pre-defined categories. This is the most important thing to note and suggest the need for further categorization.
+*   "ORD" (Oriented movement) is present at 10.2%, suggesting the dolphin is engaged in directed movement, possibly exploring the environment or moving towards/away from something.
+*   "FFR" (Fast Foraging Runs) is present at 6.8%, which indicates the dolphin is potentially engaged in foraging behavior or hunting.
+*   "PLAY" activity is very low at 1.7%, suggesting that play is not a major component of the recorded behavior.
+
+**Vocalization:**
+
+*   The dominant vocalization is "NOISE" (66.1%). This is not a specific vocalization, but rather an indication of background noise or other non-specific sounds. It may be interfering with the analysis of other calls.
+*   "ECT" (Echolocation clicks) is present at 23.7%, indicating the dolphin is actively using echolocation, likely for navigation, object identification, or prey detection.
+*   "MW" (modulated whistle) is present at 10.2%. This likely indicates some level of communication between dolphins.
+
+**Synthesis:**
+
+Given the combination of activities and vocalizations, the dolphin is likely engaged in a session dominated by general activity but with a focus on echolocation, orienting behavior, and some possible foraging activity. The large proportion of unclassified activity needs further investigation to properly explain the session. The limited evidence of social activity is apparent based on the low play/modulated whistle percentages. The presence of noise makes it difficult to draw a proper conclusion and needs to be reduced in future sessions.
+
+**In summary, this dolphin is potentially foraging, exploring, or navigating while actively using echolocation, and possibly also communicating. It is unknown how to classify the majority of behavior, indicating that the session needs further consideration.**

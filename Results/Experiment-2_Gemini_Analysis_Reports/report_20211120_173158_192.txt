@@ -1,0 +1,7 @@
+Okay, based on the data from recording session 20211120_173158_192, here's my analysis:
+
+This recording session appears to primarily capture nighttime behavior. The Activity profile shows a very strong presence of "NIGHT" (83.1%).
+
+The Vocalization profile is dominated by "NOISE" (81.4%). The presence of "MW" (modulated whistles) at 8.5% and "BPS" (burst pulse sounds) and "ECT" (echolocation clicks) at 5.1% each suggests some level of communication and potential foraging activity, even if it's subdued.
+
+**In summary:** The dolphin is likely engaged in typical nighttime resting or low-activity behavior. The high level of background "NOISE" makes it difficult to ascertain specific activities, but the limited presence of modulated whistles and burst pulse sounds indicate some level of social awareness/communication and the presence of echolocation clicks hints at possible low-level foraging even in the dark. The small amount of play could suggest this isn't the dominant behavior but could be happening on a small scale.

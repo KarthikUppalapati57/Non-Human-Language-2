@@ -1,0 +1,19 @@
+Okay, let's analyze the behavioral profile of the dolphin recording session 20211120_155146_192.
+
+**Activity Analysis:**
+
+*   The dominant activity is **PLAY (59.3%)**. This indicates the dolphin is engaged in playful behavior.
+*   **FFR (Fast Frequency Repetition) is at 22%**. FFRs are often associated with excitement, arousal, and can occur during social interactions, including play.
+*   **ORD (Oriented Movement) is at 11.9%**. This suggests the dolphin is actively moving and exploring its environment, potentially as part of the play activity.
+*   The relatively low percentage of "unknown" (6.8%) suggests the activity classification is fairly reliable.
+
+**Vocalization Analysis:**
+
+*   The dominant vocalization type is **MW (modulated whistle) at 52.5%**. Modulated whistles are complex and are often used for communication, individual identification, and social cohesion. Their high presence supports the social context suggested by the "PLAY" activity.
+*   **ECT (Echolocation Clicks Train) is at 32.2%**. The dolphin is actively echolocating, which is common during play and exploration to gather information about its surroundings and other individuals.
+*   The presence of FB (frequency burst) at 6.8% may occur during playful activity.
+*   BPS (burst pulse sound) at 1.7% has a small presence. This indicates the dolphin is engaged in a highly social interaction.
+
+**Synthesis:**
+
+Based on the data, the dolphin in this recording session is primarily engaged in **play behavior**. This play appears to be **social** due to the high prevalence of modulated whistles. The dolphin is actively exploring its surroundings using echolocation, further contributing to the playful interaction. The relatively high presence of FFR further supports the interpretation of an engaging, possibly exciting, playful encounter.

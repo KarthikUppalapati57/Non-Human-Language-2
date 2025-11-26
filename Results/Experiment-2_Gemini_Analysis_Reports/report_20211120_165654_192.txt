@@ -1,0 +1,5 @@
+This recording session (20211120_165654_192) indicates a primary activity of "ORD" at 88.1%, which I interpret to mean "Oriented" or "Ordinary" behavior. This suggests the dolphin is engaged in routine activities, rather than a specific or intense interaction like play. While "PLAY" is present, it's a minor component at only 11.9%.
+
+The vocalization data supports this interpretation. The predominant vocalizations are "MW" (likely meaning "modulated whistle") at 45.8% and "ECT" at 42.4% (likely some form of echolocation click or burst train). The presence of BPS (burst pulse sounds) at a low 8.5% reinforces the possibility of an agitated context. Finally, the low 'NOISE' figure at 3.4% ensures that the data is reliable.
+
+In summary, the dolphin in this recording session is primarily engaged in routine, oriented behavior, potentially involving navigation or environmental scanning, rather than active social interaction or play. The high percentage of modulated whistles and the presence of "ECT" indicates communication and potential echolocation activity during this period.

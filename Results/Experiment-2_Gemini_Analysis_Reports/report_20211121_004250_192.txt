@@ -1,0 +1,1 @@
+Based on the provided data, the dolphin recording session 20211121_004250_192 indicates a nighttime environment ('NIGHT': 1.0) with a complete absence of dolphin vocalizations ('NOISE': 1.0). This suggests the dolphin is likely inactive or engaging in behaviors that do not involve vocal communication, possibly resting or sleeping.

@@ -1,0 +1,5 @@
+The recording session 20211120_164152_192 presents a somewhat unclear behavioral profile. While a small percentage indicates Play (6.8%), the dominant activity is classified as 'unknown' (42.4%). A significant portion is also attributed to FFR (Fast Frequency Repetition, 27.1%), which may indicate foraging or communication, and NIGHT (15.3%), which may indicate lower activity due to the time of day.
+
+The vocalization data further suggests a complex scenario. While 'NOISE' accounts for almost half of the vocalizations (49.2%), the presence of 'MW' (modulated whistle, 27.1%) and 'ECT' (echolocation click train, 23.7%) suggests both communication and active sensing.
+
+In summary, this session likely involves a combination of activities, with potentially foraging (indicated by FFR and ECT), communication (indicated by MW), and potentially reduced activity (indicated by NIGHT). The high percentage of 'unknown' activity suggests either data is missing, more complex behaviors are being exhibited, or that the classifications need further refinement. Without additional data, a definitive interpretation is difficult.

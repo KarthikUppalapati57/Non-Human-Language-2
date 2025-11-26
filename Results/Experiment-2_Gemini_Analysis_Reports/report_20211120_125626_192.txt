@@ -1,0 +1,15 @@
+This dolphin recording session presents a somewhat unclear picture of dolphin behavior. The dominant activity is categorized as "unknown" (67.8%), suggesting a significant portion of the observed behavior couldn't be readily classified into defined categories. However, there is a moderate presence of "ORD" (Oriented movement/exploration - 27.1%) and a very small amount of "PLAY" (5.1%).
+
+The vocalization data indicates a prevalence of "MW" (likely referring to "modulated whistles" - 45.8%) and "ECT" (likely referring to "Echolocation clicks trains" - 30.5%), with some background noise. A very small amount of "BPS" (Burst Pulse Sounds - 3.4%) is also noted.
+
+**Interpretation:**
+
+Given the high percentage of "unknown" activity, it's difficult to definitively determine the primary behavior. However, we can infer the following:
+
+*   **Uncertainty dominates:** The 'unknown' behaviour means there's not enough information to characterize the behaviour of the dolphin during this session. More information is needed.
+*   **Exploration/Orientation:** The presence of "ORD" suggests the dolphin may be exploring its environment or orienting itself.
+*   **Communication and Navigation:** The combined presence of modulated whistles ("MW") and echolocation clicks ("ECT") indicates the dolphin is likely communicating (whistles) and using echolocation to navigate and potentially forage (clicks). The higher percentage of "MW" compared to "ECT" might suggest a greater focus on social communication during this period.
+*   **Limited Social Play:** The very small amount of "PLAY" indicates minimal playful interaction during the recorded session.
+*   **Low potential for Aggression:** The BPS is very small, therefore it is unlikely that the animal is behaving in an aggressive manner.
+
+**Overall, this session most likely captures a dolphin in a state of exploration and communication, but further observation/information is required in order to understand the 'unknown' behavior.** More context, such as location, time of day, and presence of other dolphins, would be helpful in providing a more comprehensive interpretation.

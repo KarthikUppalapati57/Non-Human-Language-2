@@ -1,0 +1,5 @@
+This session is dominated by "unknown" activity (78%), making it difficult to definitively determine the dolphin's primary behavior. However, "FFR" (Fast Frequency Repetition click trains) is present at 15.3%, suggesting potential foraging or navigation activities. The low presence of "ORD" (Ordered click trains) and "PLAY" further supports the ambiguity of the session.
+
+The vocalization data shows a high level of "NOISE" (69.5%), which could be environmental or related to the "unknown" activity. "MW" (Mew) is present at 27.1%, which are often associated with distress or uncertainty, but could also have other context-dependent meanings. "ECT" (Emitted Click Train) is minimal (3.4%).
+
+In summary, this session is characterized by an undefined dominant behavior and a significant amount of noise. While FFR suggests potential foraging or navigation, the large "unknown" and "NOISE" percentages prevent a confident behavioral interpretation. Further investigation and context are required to understand what the dolphin was doing during this recording.

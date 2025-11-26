@@ -1,0 +1,5 @@
+This recording session (20211121_072836_192) suggests a period of inactivity or resting behavior, as indicated by the strong presence of "NIGHT" activity (59.3%). The "unknown" activity (35.6%) suggests some unclassified behaviors are occurring alongside this, but the overall picture points to a lower energy state.
+
+The vocalization data further supports this interpretation. While there is some presence of "MW" (modulated whistles) at 20.3% and even a small amount of "ECT" (echolocation clicks trains) at 6.8%, the overwhelming majority of the recording is "NOISE" (69.5%). The low presence of "W" (whistles) at only 3.4% suggests limited social interaction or communication.
+
+In summary, the dolphin in this recording session is likely in a resting or inactive state, potentially during the night. There is limited evidence of active foraging (low ECT) or significant social interaction (low W), and the presence of noise could indicate background environmental sounds or potentially non-vocal behaviors not classified in the activity profile.

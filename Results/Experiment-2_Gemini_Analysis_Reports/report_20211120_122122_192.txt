@@ -1,0 +1,17 @@
+Okay, let's analyze this dolphin recording session, "20211120_122122_192".
+
+The data indicates:
+
+*   **Activity:** The session is entirely dominated by 'ORD' (1.0). Given my expertise, 'ORD' likely represents **Oriented Movement or Ordinary Travel**. This suggests the dolphin is primarily engaged in a normal, directed swimming pattern.
+
+*   **Vocalization:** The vocalizations are characterized by a strong presence of 'ECT' (0.746), followed by 'MW' (0.153) and a smaller contribution from 'BPS' (0.068). 'NOISE' is minimal (0.034).
+
+    *   'ECT' most likely refers to **Echolocation Clicks (Trains)**. The strong presence suggests the dolphin is actively using echolocation.
+    *   'MW' could represent **Moans or Whistles**.
+    *   'BPS' could mean **Burst Pulse Sounds**.
+
+**Synthesis:**
+
+This dolphin appears to be primarily engaged in routine travel ('ORD'). The dominant vocalization type is Echolocation Clicks ('ECT'), indicating it is actively using echolocation, presumably for navigation and/or foraging. The presence of 'MW' (Moans/Whistles) and 'BPS' (Burst Pulse Sounds), though at lower levels, suggests some degree of social awareness or communication is present, though not as prominent as in a dedicated "play" session.
+
+**In conclusion, this dolphin is likely swimming in a directed manner, actively echolocating, and possibly maintaining some level of social awareness through moans/whistles and burst pulse sounds.** Further analysis, including environmental context (depth, location, time of day), could refine this interpretation. For example, if the session occurred in murky water, the reliance on echolocation would be even more understandable.

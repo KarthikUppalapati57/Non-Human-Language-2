@@ -1,0 +1,5 @@
+Based on the provided data for recording session 20211120_191710_192, the dolphin's activity is dominated by 'NIGHT' (1.0). This suggests the recording was taken during nighttime. The vocalization data shows a high presence of 'NOISE' (0.983) and a very small amount of 'MW' (0.017), which I interpret as moans or whistles.
+
+**Interpretation:**
+
+The dolphin is likely resting or engaging in minimal activity at night. The high level of noise could be environmental background noise, or even sounds associated with the dolphin's respiration or subtle movements. The minimal moans/whistles suggest very little social interaction or communication is occurring during this time. Therefore, during this session, the dolphin is most likely resting at night, with very little active communication or movement detected.

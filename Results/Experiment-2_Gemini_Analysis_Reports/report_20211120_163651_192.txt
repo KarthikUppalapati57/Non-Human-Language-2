@@ -1,0 +1,7 @@
+Based on the provided data, the dolphin during the session 20211120_163651_192 appears to be primarily engaged in **Oriented Movement ('ORD' at 64.4%)**. This suggests the dolphin is actively exploring or traveling within its environment.
+
+The relatively high percentage of 'unknown' activity (20.3%) indicates some behaviors are not readily classified within the defined categories. The small percentages of 'FFR' (Fast Frequency Repetition - 8.5%) and 'PLAY' (5.1%) suggest these behaviors are present, but not dominant. The minimal presence of 'NIGHT' behavior (1.7%) is likely related to the timestamp being daytime.
+
+The vocalization data is heavily weighted towards 'NOISE' (49.2%). This could be environmental noise or potentially unclassified dolphin sounds. The presence of 'MW' (Mew - 27.1%) and 'ECT' (Echolocation Clicks Train - 23.7%) suggests the dolphin is communicating (mewing) and actively using echolocation, likely to investigate its surroundings while moving.
+
+**In summary:** The dolphin appears to be actively exploring or moving through its environment, utilizing echolocation and occasional social vocalizations (mews) while doing so. The higher levels of noise impede a full picture of the session. The presence of small levels of FFR and PLAY indicate an element of social behavior, but the ORD suggests an animal that is primarily moving and navigating.

@@ -1,0 +1,5 @@
+Okay, based on the provided data for the recording session `20211121_055825_192`:
+
+This session appears to be primarily characterized by nighttime behavior (83.1% 'NIGHT'). The vocalization profile suggests a quiet environment, dominated by noise (83.1% 'NOISE').  The presence of Echo-Click Trains ('ECT' at 11.9%) and modulated whistles ('MW' at 3.4%), and even trace amounts of whistles ('W' at 1.7%), hints at some level of activity, potentially foraging ('ECT') or low-level communication ('MW', 'W').
+
+**In summary:** The dolphin (or dolphins) in this session are primarily exhibiting nighttime behavior, suggesting a period of rest or reduced activity. While the acoustic environment is dominated by noise, the presence of echolocation clicks and modulated whistles suggests there may be some limited foraging or social interaction occurring. It's not a high-energy, highly social session like the example provided.

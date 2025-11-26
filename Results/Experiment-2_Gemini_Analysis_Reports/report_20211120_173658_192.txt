@@ -1,0 +1,20 @@
+Okay, based on the provided data from recording session 20211120_173658_192, the behavioral profile suggests the following:
+
+**Activity Analysis:**
+
+*   **Dominant Night Behavior (71.2%):** The overwhelming presence of "NIGHT" strongly indicates that this recording was taken during nighttime. This drastically influences the interpretation of other activities.
+*   **Low Play Activity (6.8%):** Play behavior is present, but at a very low level. It's not a primary activity during this session.
+*   **FFR (5.1%):** The presence of "FFR" (likely Fast Frequency Repetition clicks) suggests the dolphin may be engaged in echolocation, potentially for navigation or foraging in the dark.
+*   **ORD (1.7%):** The presence of "ORD" (likely "Oriented") suggest the dolphin is moving in some direction.
+*   **Unknown (15.3%):** A significant portion of the activity is categorized as "unknown," highlighting the need for more comprehensive behavioral categories or refined analysis techniques.
+
+**Vocalization Analysis:**
+
+*   **Dominant Noise (67.8%):** The overwhelming presence of "NOISE" suggests that the acoustic environment is not ideal for interpreting dolphin vocalizations. This could be due to environmental factors (waves, boat noise) or limitations in the recording equipment.
+*   **ECT (22%):** The presence of "ECT" (likely Emitted Click Trains) supports the interpretation of echolocation suggested by the "FFR" activity. Dolphins emit clicks to navigate and find prey.
+*   **MW (6.8%):** The presence of "MW" (likely Moans or Whistles) indicates some limited level of communication. Given the dominance of noise, these vocalizations might be faint or less distinct than in a quieter environment.
+*   **BPS (3.4%):** The presence of "BPS" (likely Burst Pulse Sounds) indicates limited social interaction.
+
+**Overall Interpretation:**
+
+Given the combined data, it appears this dolphin (or group of dolphins if the recording encompasses multiple individuals) is primarily engaged in nocturnal activities, likely focused on foraging or navigation using echolocation ("FFR" and "ECT" present). The very low "PLAY" activity suggests a period of rest. The prominent "NOISE" in the vocalizations makes detailed analysis of communication challenging, but there's evidence of some vocal interaction ("MW" and "BPS"), although at a low level, possibly related to maintaining group cohesion in low-visibility conditions. The relatively high "unknown" activity emphasizes that the full scope of their activities cannot be determined. Further analysis should attempt to differentiate the types of "noise", clarify "ORD" and "unknown" activity. Additional analysis is needed, in particular regarding FFR, ECT, MW and BPS in the context of the environment.

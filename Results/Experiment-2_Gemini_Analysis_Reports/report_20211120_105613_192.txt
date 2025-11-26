@@ -1,0 +1,13 @@
+Based on the provided data, the dolphin is primarily engaged in **Oriented Movement (ORD)**, with a strong presence of **Multiple Whistles (MW)** and **Echolocation Clicks (ECT)**.
+
+**Interpretation:**
+
+*   **Oriented Movement (ORD) at 93.2% indicates a focused and purposeful direction of travel or positioning.** The dolphin is not simply swimming randomly; it's likely moving towards something specific or maintaining a particular orientation.
+
+*   **Multiple Whistles (MW) at 50.8% suggests social communication.** Whistles are commonly used for individual identification, maintaining group cohesion, and conveying information about the dolphin's location, intentions, or emotional state.
+
+*   **Echolocation Clicks (ECT) at 42.4% indicates active environmental scanning and prey detection.** Echolocation is a primary method dolphins use to navigate, find food, and assess their surroundings, particularly in low-visibility conditions.
+
+**Synthesis:**
+
+This behavioral profile suggests that the dolphin is actively navigating and exploring its environment, likely searching for food or moving towards a specific location while maintaining social contact with other dolphins. The relatively high levels of both MW and ECT suggest a combined focus on communication and foraging/navigation. The almost exclusive identification of oriented movement with low incidence of any other activity suggest that the focal animal is moving purposely, perhaps to rejoin a pod or to investigate some stimulus.

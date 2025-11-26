@@ -1,0 +1,5 @@
+Based on the provided data, the dolphin's dominant activity during the 20211121_041313_192 recording session is **Night behavior (78%)**. This suggests the dolphin was primarily engaged in activities associated with nighttime, which could include resting, reduced activity levels, or foraging under the cover of darkness.
+
+The vocalization data shows a high level of **Noise (66.1%)**, which could be environmental or biological. Notably, **modulated whistles (MW) are present at 25.4%** and **standard whistles (W) at 8.5%**. The low whistle percentage suggests limited complex communication or socializing during this period. The presence of MW suggests simple communication.
+
+**Overall Interpretation:** The dolphin appears to be primarily in a resting or low-activity state associated with nighttime. Vocalizations are relatively subdued, with noise dominating and whistles present in smaller proportion. Further analysis of the noise composition might reveal more about the environment and other potential activities. The presence of Modulated Whistles suggests simple communications are still occurring.

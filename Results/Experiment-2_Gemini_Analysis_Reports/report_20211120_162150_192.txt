@@ -1,0 +1,18 @@
+Based on the provided data from recording session 20211120_162150_192, the dolphins exhibit a mixed behavioral profile.
+
+**Activity Analysis:**
+
+*   **FFR (Fast Frequency Repetition calls) at 28.8%:** This suggests foraging or feeding-related behavior is present and potentially a significant component of the session. FFRs are often associated with capturing prey.
+*   **PLAY and unknown both at 25.4%:** Play behavior is moderately represented, indicating social interaction and/or exploration. The equal presence of 'unknown' activity (25.4%) suggests a portion of their actions are unidentifiable with the current categorization. This could be due to limitations in the detection algorithm or the occurrence of novel behaviors.
+*   **ORD (Oriented movement) at 16.9%:** This indicates directed movement or exploration, likely related to searching for prey or navigating their environment.
+*   **NIGHT at 3.4%:** Given that the session does not appear to be dominated by behaviors associated with 'night', it could be related to the time the session was recorded, or a subtle detection of "night" related activity.
+
+**Vocalization Analysis:**
+
+*   **MW (Mew calls) at 50.8%:** Mew calls are often associated with close-range communication, potentially related to coordinating foraging or maintaining social bonds. Their dominance suggests active communication within the group.
+*   **ECT (Echolocation clicks trains) at 25.4%:** This confirms active echolocation, which directly supports the foraging aspect suggested by the FFR activity.
+*   **NOISE at 23.7%:** This could be environmental noise or unidentified dolphin sounds. While present, it doesn't override the importance of the detected MW and ECT.
+
+**Overall Interpretation:**
+
+The dolphins in this recording session appear to be engaged in a mix of foraging and social activities. The presence of FFR and ECT strongly suggests active hunting or searching for food. Simultaneously, the presence of PLAY and MW indicate social interaction and communication within the group, possibly related to coordinating foraging efforts or maintaining social cohesion. The presence of ORD activity suggests the dolphins are actively moving and exploring their environment.

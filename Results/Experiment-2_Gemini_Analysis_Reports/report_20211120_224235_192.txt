@@ -1,0 +1,13 @@
+This dolphin recording session, labeled 20211120_224235_192, appears to represent a period of nighttime activity. The Activity profile indicates 100% 'NIGHT,' suggesting the recording was taken during the evening or night.
+
+The Vocalization profile is characterized by a relatively high presence of Whistles ('W' at 69.5%), alongside a significant amount of background 'NOISE' (28.8%). Modulated Whistles ('MW') are present in a very small proportion (1.7%).
+
+Based on this data, we can infer the following:
+
+*   **Nighttime Behavior:** The dolphin is active during the night.
+
+*   **Social Communication:** The relatively high proportion of whistles suggests the dolphin is engaged in social communication. Whistles are often used for individual identification, maintaining contact, and coordinating activities within a group.
+
+*   **Potential for Ambient Noise Interference:** The presence of significant noise suggests that the recording environment might be challenging. This could impact the clarity and interpretation of the whistles themselves. It's important to consider the source and characteristics of this noise when analyzing the finer details of the vocalizations.
+
+*   **Limited Modulated Whistles:** The very low proportion of Modulated Whistles suggests that the communication isn't particularly complex or focused on excitement.

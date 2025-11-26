@@ -1,0 +1,7 @@
+This recording session (20211121_053823_192) presents a significant challenge in interpretation due to the high proportion of "unknown" activity (71.2%). While "NIGHT" accounts for 23.7% suggesting data collection happened at night.
+
+The low percentages of "PLAY" (3.4%) and "FFR" (Fast Frequency Repetition, 1.7%) activities indicate these behaviors are not prominent during this session.
+
+The vocalization data is also skewed towards "NOISE" (76.3%). The presence of "MW" (modulated whistle, 15.3%) suggests some communication is occurring, but its meaning is difficult to ascertain without understanding the context of the "unknown" activity. The low occurrence of "W" (whistles, 1.7%) and "ECT" (Echolocation Clicks Trains, 6.8%) further complicates the picture.
+
+In summary, the dominant "unknown" activity and "NOISE" vocalizations make it difficult to definitively interpret the dolphin's behavior. The small amounts of vocalizations might suggest the dolphin is in a passive state, perhaps resting at night. However, the high percentage of "unknown" prevents a conclusive assessment. Further investigation into the nature of "unknown" activity is needed for better interpretations.

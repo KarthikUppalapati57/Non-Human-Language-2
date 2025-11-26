@@ -1,0 +1,5 @@
+This recording session shows a predominance of "ORD" activity (81.4%). While "PLAY" is present at 8.5% and "FFR" (likely Foraging/Feeding Related) at 6.8%, the high "ORD" value suggests the dolphin is engaged in **Ordinary/Typical/Resting** behavior.
+
+The vocalization data further supports this interpretation. "MW" (likely burst-pulse sounds, but could also mean "Mew" vocalizations) accounts for 47.5% and "ECT" (likely Echolocation Clicks Train) is at 42.4%. The relatively high presence of echolocation clicks alongside burst pulse sound suggests they may be actively foraging (if ECT is indeed solely echolocation clicks). However, given that 'ORD' behavior is dominant, the dolphin may also be navigating in this area. 
+
+The low percentages of Play and Foraging/Feeding Related activity imply that the dolphin is not intensely focused on playing or foraging in this specific moment. Therefore, a typical behavior is more likely. In conclusion, it would be more accurate to suggest the dolphin may be navigating in this area while using echolocation clicks and occasional communication (burst pulse sounds).

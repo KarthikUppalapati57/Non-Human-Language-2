@@ -1,0 +1,17 @@
+This recording session (20211120_142636_192) presents a challenging behavioral profile. The activity is largely undefined ('unknown' at 61%), with a significant portion categorized as 'NIGHT' (28.8%) and a smaller portion as 'ORD' (10.2%). The dominant vocalization is 'NOISE' (86.4%), with a small presence of 'ECT' (8.5%) and 'MW' (5.1%).
+
+Interpretation:
+
+*   **Unclear Activity:** The high proportion of 'unknown' activity suggests either an inability to accurately classify the dolphin's behavior during this session, or that the dolphin was engaged in subtle behaviors not easily categorized.
+
+*   **Night Activity:** The presence of 'NIGHT' indicates this recording likely occurred during nighttime hours. Dolphins exhibit varied behaviors at night, including rest, foraging, and social interactions. Without further context, it's difficult to specify which behaviors are occurring here.
+
+*   **Routine Behavior (ORD):** The presence of 'ORD' suggests some routine behavior is occurring. However, its low percentage (10.2%) indicates it is not the primary activity.
+
+*   **Dominant Noise:** The dominant 'NOISE' vocalization is uninformative. It obscures the presence of any specific communicative signals. The combination of high noise levels and largely undefined behaviors makes definitive assessment of the dolphin's activity difficult.
+
+*   **Echolocation Tries (ECT) & Mews (MW):** The small presence of 'ECT' and 'MW' might be informative. "ECT" stands for "Echolocation click train." The very small presence of 'ECT' suggests the dolphin may have been intermittently attempting to echolocate. "MW" stands for "mew", and this suggests a level of discomfort from the dolphin.
+
+Conclusion:
+
+This recording session does not provide a clear picture of the dolphin's behavior. The high proportion of 'unknown' activity and 'NOISE' vocalization obscures specific behavioral patterns. The recording suggests nighttime activity with some routine behavior, with some echolocation and signs of discomfort or distress. Further analysis, including comparison to other recordings and consideration of environmental context, would be necessary to draw more definitive conclusions.

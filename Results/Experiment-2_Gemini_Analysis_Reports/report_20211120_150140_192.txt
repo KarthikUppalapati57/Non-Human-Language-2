@@ -1,0 +1,7 @@
+Based on the provided data from recording session 20211120_150140_192, the dolphin is primarily engaged in Ordinary (ORD) behavior, making up 81.4% of the observed activity.  The remaining activity is largely unknown (16.9%), with a very small fraction of Fast Frequency Rises (FFR) at 1.7%.
+
+The vocalization profile indicates a high level of background noise (62.7%). However, within the identifiable vocalizations,  modulated whistles (MW) are the most prominent at 28.8%, followed by echolocation clicks trains (ECT) at 8.5%.
+
+**Interpretation:**
+
+The dominance of "ORD" activity suggests routine behavior. Given the presence of modulated whistles (MW), a social signal, alongside echolocation click trains (ECT), the dolphin is likely navigating its environment and potentially interacting with other dolphins, albeit in a relatively low-intensity manner. The high background noise might be obscuring finer details of the interaction or could be indicative of the environment in which the recording was taken.

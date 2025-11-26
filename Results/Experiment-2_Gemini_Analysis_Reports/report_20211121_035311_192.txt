@@ -1,0 +1,5 @@
+This session, recorded at night (88.1%), is dominated by noise (91.5%) in the vocalization profile. The low levels of 'MW' (modulated whistle) and 'ECT' (echolocation click train) suggest minimal active communication or foraging during this period.
+
+**Interpretation:**
+
+The dolphin is likely in a resting or inactive state. The high "NIGHT" activity score supports this. The "NOISE" vocalization score could be due to environmental factors (waves, boat noise if near coast) or possibly low-level sounds associated with respiration or general bodily functions. The near absence of active vocalizations (MW and ECT) indicates that the dolphin is not actively socializing, foraging, or navigating its environment using echolocation. It appears to be a period of inactivity during nighttime.

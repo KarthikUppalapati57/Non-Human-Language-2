@@ -1,0 +1,22 @@
+Okay, based on the provided data for recording session 20211120_171155_192:
+
+**Activity Analysis:**
+
+*   The activity profile is largely *unknown* (49.2%). This is a significant factor and suggests a large portion of the behavior couldn't be definitively categorized by the recording system.
+*   *NIGHT* accounts for 20.3% This aligns with the timestamp (17:11:55), suggesting it could be dusk or early evening, and the dolphins might be exhibiting behaviors typical of this time.
+*   *FFR* (Fast Frequency Repetition, likely foraging related clicks) makes up 18.6%. This indicates some level of foraging activity is present.
+*   *ORD* (Oriented Movement) at 8.5% indicates some directed movement or exploration.
+*   *PLAY* is only a small fraction at 3.4%. While present, it's not a dominant behavior in this session.
+
+**Vocalization Analysis:**
+
+*   *NOISE* accounts for 45.8% of the vocalizations. This is a substantial amount and could be environmental noise, boat noise, or even sounds produced by the dolphins that weren't classified as specific vocalizations. It does impact the interpretation of other vocalizations.
+*   *MW* (Mewing) makes up 35.6%. Mewing sounds are typically associated with comfort or close-proximity communication.
+*   *ECT* (Echolocation Clicks Train) appears at 16.9%. This corroborates the foraging activity suggested by the *FFR* in the activity data.
+*   *W* (Whistles) are very low at 1.7%. This suggests minimal social signaling (at least of the type that involves signature or contact whistles).
+
+**Synthesis and Interpretation:**
+
+Given this data, the dolphin(s) in this recording session are likely exhibiting a combination of behaviors at dusk or early evening. The dominance of "unknown" in activity data is hard to parse in concrete terms. The relatively high *FFR* and *ECT* combined with the lower whistles indicate possible foraging in lower light conditions, relying more on echolocation and specialized foraging clicks (FFR) than on social whistles. The presence of *MW* mewing, despite the foraging activity, might suggest that a mother and calf pair is present in the recordings as mewing is used frequently between them.
+
+In essence, the session appears to capture a period of time when the dolphins are primarily focused on foraging, with some communication possibly occurring in the form of mewing, but with little overt social interaction through whistles. The high noise levels and unknown activity do add ambiguity to this interpretation.

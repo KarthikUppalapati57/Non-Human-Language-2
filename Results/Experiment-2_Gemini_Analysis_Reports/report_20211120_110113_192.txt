@@ -1,0 +1,7 @@
+Based on the provided data for recording session 20211120_110113_192, the behavioral profile suggests the following:
+
+The dominant activity is **ORD (Oriented Travel/Foraging)** at 69.5%. This indicates that the dolphin(s) were primarily engaged in traveling or actively searching for food. The relatively high percentage of "unknown" activity (28.8%) suggests that a significant portion of their behavior during this session could not be definitively classified. The very low "PLAY" activity (1.7%) suggests that playful interactions were minimal.
+
+In terms of vocalizations, **MW (Mew)** is the most prevalent call type at 55.9%, followed by **ECT (Echolocation Clicks Train)** at 37.3%. The presence of mew calls, often associated with communication and social cohesion, suggests that the dolphins are maintaining contact with each other. The high frequency of echolocation clicks indicates active foraging or navigation, which supports the interpretation of "ORD" activity. The relatively low levels of noise (5.1%) suggests a fairly clean recording. The minimal presence of BPS (Burst Pulse Sounds) at 1.7% suggests a low level of aggression/excitement or potentially distant social interaction.
+
+In summary, the dolphin(s) in this session were primarily engaged in oriented travel and foraging, utilizing echolocation to locate prey and maintaining social contact through mew calls. The session indicates a focused activity rather than playful interaction.

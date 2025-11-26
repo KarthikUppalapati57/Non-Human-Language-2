@@ -1,0 +1,5 @@
+This recording session (20211121_074838_192) presents a complex picture. The activity profile is largely unknown (54.2%), followed by a significant period of nighttime behavior (32.2%). There's a small indication of Fast Frequency Repetition clicks (FFR, 8.5%), which can be associated with foraging or investigation, and very low instances of Play (3.4%) and Ordinary behavior (ORD, 1.7%).
+
+The vocalization profile is overwhelmingly dominated by Noise (91.5%), with a small presence of Emitted Click Trains (ECT, 8.5%). ECTs are typically associated with echolocation.
+
+Considering both activity and vocalization, the dolphins are likely engaged in a primarily nocturnal behavior pattern. The high level of unknown activity suggests that the current classification model might be insufficient for this specific scenario. The small percentage of FFR and ECT suggests that some echolocation or foraging may be occurring, but it is not the dominant activity. The very low instances of play indicate a period of rest or inactivity, not a social interaction.

@@ -1,0 +1,5 @@
+This session appears to be dominated by "unknown" activity (61%) and Ordinary traveling/foraging ('ORD' at 37.3%), suggesting the dolphin's behavior is currently not easily classifiable into known activity categories. The low 'PLAY' score (1.7%) indicates play behavior is minimal.
+
+Vocalization analysis shows a significant presence of 'NOISE' (57.6%) and 'MW' (modulated whistle at 32.2%), with a minor presence of 'ECT' (Echolocation clicks train at 10.2%).
+
+Therefore, the dolphin is likely engaged in general activity like ordinary travelling or foraging. The high level of noise and modulated whistle may suggest some level of environmental disturbance or possibly communication related to foraging activities, however the presence of ECT might suggest that echolocation is used for environment exploration or detection of preys. The nature of the primary activity remains unclear. More analysis is required to understand why the dolphins behavior is unkown.

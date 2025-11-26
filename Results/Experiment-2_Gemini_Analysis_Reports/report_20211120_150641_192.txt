@@ -1,0 +1,14 @@
+Okay, here's my analysis of the dolphin behavioral profile from the recording session `20211120_150641_192`:
+
+Based on the provided data:
+
+*   **Activity:** The primary activity is overwhelmingly 'ORD' at 98.3%, with only a tiny fraction (1.7%) of 'FFR'. 'ORD' most likely represents "Oriented" behavior.
+*   **Vocalization:** The dominant vocalization is 'ECT' at 61%, followed by 'MW' at 33.9%, and a small amount of noise at 5.1%.
+
+**Interpretation:**
+
+This dolphin appears to be primarily engaged in "Oriented" behavior. This could mean the dolphin is focused on something specific in its environment. The specific nature of this "orientation" is open to some level of speculation: it could be scanning the environment for food, or focusing on another dolphin that isn't visible in the data.
+
+The vocalizations provide further insight. 'ECT' being the most prominent suggests Echolocation Clicks are important. Given that the dolphin is primarily oriented, a reasonable hypothesis is that the dolphin is using echolocation to actively explore its surroundings or identify potential prey. The presence of 'MW' (likely referring to 'modulated whistles') suggests some form of communication is also occurring, perhaps directed towards another dolphin, or related to information gathered through the echolocation clicks. Given the small proportion of 'MW', however, this interaction is minor.
+
+In summary, the most probable interpretation is that the dolphin is actively exploring its environment, most likely foraging. This may be being communicated via 'MW', but is predominately driven by "Oriented" behaviour, and the primary mode of exploring is via 'ECT' (Echolocation).

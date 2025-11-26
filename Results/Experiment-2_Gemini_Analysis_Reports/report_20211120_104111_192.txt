@@ -1,0 +1,5 @@
+Based on the provided data for session 20211120_104111_192, the dolphin's primary activity is oriented movement ('ORD' at 100%). This suggests the dolphin is actively swimming and directing its movements, potentially searching for something or traveling.
+
+The vocalization profile shows a strong presence of Echolocation Clicks ('ECT' at 93.2%) with a smaller component of Mews ('MW' at 6.8%). The high percentage of echolocation clicks strongly indicates the dolphin is actively foraging or exploring its environment using sonar. The presence of mews could indicate a low level of social communication, perhaps maintaining contact with other individuals nearby, or expressing mild distress/interest as it explores.
+
+In summary, the dolphin in this session appears to be actively swimming and using echolocation extensively, strongly suggesting it is searching for food or navigating its environment. The presence of a small amount of Mews implies some form of social contact or mild emotional response.
