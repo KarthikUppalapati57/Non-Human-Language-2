@@ -1,1 +1,1 @@
-# Here we ahve all our HuBERT prediction Files
+# Here we have all our HuBERT prediction Files
