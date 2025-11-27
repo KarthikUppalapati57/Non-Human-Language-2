@@ -1,0 +1,6 @@
+File: 20211121_012254_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of echolocation clicks and water movement, consistent with dolphins foraging at night.
+
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211121_081842_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of movement in the water, vocalizations possibly indicating social interaction, and sounds associated with breathing. Considering the context of the provided classes, this best aligns with the playing sounds within the water, but there also seems to be a feeding aspect.
+
+VERDICT: PLAY

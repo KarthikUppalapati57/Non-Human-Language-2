@@ -1,0 +1,5 @@
+File: 20211121_080340_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds indicating movement and potentially some distress vocalizations. The overall environment does sound consistent with sleep and rest.
+VERDICT: NIGHT

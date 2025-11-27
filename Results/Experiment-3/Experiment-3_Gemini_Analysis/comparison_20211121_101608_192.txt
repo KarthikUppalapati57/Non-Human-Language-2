@@ -1,0 +1,6 @@
+File: 20211121_101608_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily contains sounds associated with nighttime activity, specifically vocalizations indicative of sleep, alongside general background noise common during a sleep cycle.
+
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211120_133631_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio primarily contains echolocation clicks, consistent with training exercises.
+
+VERDICT: ORD

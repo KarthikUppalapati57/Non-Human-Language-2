@@ -1,0 +1,6 @@
+File: 20211121_083343_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, it sounds like there are various vocalizations. The primary sound appears to be chirping, but it is hard to tell if its night.
+
+VERDICT: FFR

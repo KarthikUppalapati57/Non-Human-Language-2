@@ -1,0 +1,6 @@
+File: 20211121_020259_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio features a combination of sounds, including what appears to be biological activity, such as marine mammal vocalizations, and also some distinct clicking sounds that don't clearly align with the other contexts. The audio does sound like the sounds of activity at night, and there is something else that is going on in the ocean.
+
+VERDICT: NIGHT

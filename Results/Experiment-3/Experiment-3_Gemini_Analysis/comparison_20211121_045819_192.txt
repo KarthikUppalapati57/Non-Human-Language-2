@@ -1,0 +1,6 @@
+File: 20211121_045819_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of water movement, similar to a stream or gentle waves.  There aren't any distinct sounds that suggest feeding, training, or playing. The ambiance gives off a peaceful and quiet vibe.
+
+VERDICT: NIGHT

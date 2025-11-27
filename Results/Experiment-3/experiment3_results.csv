@@ -1,0 +1,788 @@
+filename,hubert_says,gemini_analysis,final_verdict
+20211121_084845_192.wav,NIGHT,"The audio contains various whale sounds, some of which resemble quiet vocalizations and clicking sounds. Given the quiet nature and the types of sounds present, it suggests the whales are likely resting or engaging in minimal activity. 
+
+VERDICT: NIGHT",NIGHT
+20211121_085346_192.wav,NIGHT,"The audio contains a lot of vocalizations, including whimpers and what sounds like distress calls. This wouldn't be typical of the ""NIGHT"" context, but sounds more like training or some kind of mild distress. So it could be ""ORD"".
+
+VERDICT: ORD",ORD
+20211121_090347_192.wav,NIGHT,"Analyzing the audio, there are sounds suggesting activity beyond just resting, including vocalizations and potential movement.
+
+VERDICT: FFR",FFR
+20211121_085846_192.wav,NIGHT,"The audio contains a lot of dolphin vocalizations, including whistles and clicks. It sounds consistent with dolphins interacting and vocalizing amongst themselves, but it's unclear what specific behavior is taking place. Considering the overall activity level in the audio, it doesn't particularly lean towards a resting or ""NIGHT"" behavior. It sounds more like active interaction.
+
+VERDICT: PLAY",PLAY
+20211121_093603_192.wav,NIGHT,"Given the audio contains sounds indicating distress and repetitive calls, it suggests the animal is not sleeping. The context provided indicates that NIGHT represents sleep. Therefore, the prediction is incorrect.
+VERDICT: FFR",FFR
+20211121_091849_192.wav,NIGHT,"The audio primarily features sounds like snoring and soft vocalizations, consistent with dolphins sleeping.
+
+VERDICT: NIGHT",NIGHT
+20211121_091348_192.wav,NIGHT,"The audio contains high-pitched whistles, cries, and general vocalizations that seem indicative of play behavior.
+
+VERDICT: PLAY",PLAY
+20211121_093102_192.wav,NIGHT,"The audio contains distinct otter vocalizations, specifically sounds indicative of active play.
+
+VERDICT: PLAY",PLAY
+20211121_092349_192.wav,NIGHT,"The audio contains sounds of what appears to be an odontocete species, specifically repetitive clicks associated with echolocation. Analyzing the sound, there's no prominent feeding, training or playing. The sound occurs in a seemingly ambient, constant rate, which could suggest a night situation.
+
+VERDICT: NIGHT",NIGHT
+20211121_092850_192.wav,NIGHT,"The audio appears to be dominated by sounds consistent with a marine environment at night, potentially including the gentle lapping of water and quiet breathing sounds. I'm confident in classifying it as such.
+
+VERDICT: NIGHT",NIGHT
+20211121_090848_192.wav,NIGHT,"The audio contains sounds of splashing, animal vocalizations that seem like squeaks and grunts, and general movement within water. This sounds like playful behavior and potential feeding in the water.
+
+VERDICT: PLAY",PLAY
+20211121_095105_192.wav,NIGHT,"The audio seems to be showing signs of resting, with some occasional low-level movements. These sounds do not suggest active feeding, training, or playing.
+
+VERDICT: NIGHT",NIGHT
+20211121_100607_192.wav,NIGHT,"The audio presents sounds typical of sleep, with occasional snores and general quiet, fitting the 'NIGHT' context.
+
+VERDICT: NIGHT",NIGHT
+20211121_100106_192.wav,NIGHT,"The audio suggests minimal activity and sounds consistent with sleep. HuBERT's prediction aligns with this analysis.
+
+VERDICT: NIGHT",NIGHT
+20211121_094104_192.wav,NIGHT,"The audio contains sounds of marine mammals resting, occasional breathing and quiet vocalizations. This aligns with a sleep or resting state.
+
+VERDICT: NIGHT",NIGHT
+20211121_094604_192.wav,NIGHT,"The audio suggests the presence of playful behavior within the marine environment. There are distinct sounds of splashing, movement, and possibly vocalizations that are more indicative of active interaction than resting or other contexts.
+VERDICT: PLAY",PLAY
+20211121_095606_192.wav,NIGHT,"The audio contains sounds of typical night activity, mostly related to the animals quietly swimming.
+
+VERDICT: NIGHT",NIGHT
+20211121_101608_192.wav,NIGHT,"The audio primarily contains sounds associated with nighttime activity, specifically vocalizations indicative of sleep, alongside general background noise common during a sleep cycle.
+
+VERDICT: NIGHT",NIGHT
+20211121_062829_192.wav,NIGHT,"The audio contains sounds of marine mammals, primarily vocalizations suggesting social interaction. The activity doesn't directly point to sleep.
+
+VERDICT: PLAY",PLAY
+20211121_061828_192.wav,NIGHT,"The audio exhibits sounds consistent with cetacean clicking and whistling, though quiet. Context and the presence of faint sounds suggests cetacean sleep.
+VERDICT: NIGHT",NIGHT
+20211121_063329_192.wav,NIGHT,"The audio contains sounds of marine mammal vocalizations and general ocean ambient sounds. The vocalizations are continuous and present throughout the recording. This doesn't align with a quiet nighttime environment. It sounds like they are playing.
+
+VERDICT: PLAY",PLAY
+20211121_062328_192.wav,NIGHT,"The audio contains sounds associated with activity and some vocalizations. Based on the context provided, I believe it aligns more with PLAY than sleep.
+
+VERDICT: PLAY",PLAY
+20211121_063830_192.wav,NIGHT,"The audio contains distinct dolphin sounds like clicks, whistles, and burst pulse sounds, typical vocalizations produced during various activities.  The presence of a large group of animals sounds as if they're in a sleep state, with the occasional communication, which seems to correlate to a 'NIGHT' state.
+
+VERDICT: NIGHT",NIGHT
+20211121_065832_192.wav,NIGHT,"The audio contains sounds suggesting sleep and inactivity. It seems consistent with the observation of a quiet or resting environment.
+VERDICT: NIGHT",NIGHT
+20211121_064831_192.wav,NIGHT,"Analyzing the audio, it mainly contains sounds suggestive of aquatic animal vocalizations and general activity within an aquarium environment, typical of creatures engaging in activities during sleep.
+
+VERDICT: NIGHT",NIGHT
+20211121_064331_192.wav,NIGHT,"The audio contains sounds of marine mammals vocalizing with a variety of clicks and calls. This is more consistent with active interaction than sleep.
+
+VERDICT: PLAY",PLAY
+20211121_070333_192.wav,NIGHT,"The audio appears to be dominated by the sounds of movement underwater, possibly breathing, and the occasional thumping sound. Analyzing against the context, it seems most aligned with the animal settling down for sleep.
+
+VERDICT: NIGHT",NIGHT
+20211121_065332_192.wav,NIGHT,"The audio contains sounds of bubbling and gurgling, and potentially some clicking, indicative of feeding behavior.
+
+VERDICT: FFR",FFR
+20211121_071835_192.wav,NIGHT,"The audio contains sounds of playful interaction including possible nipping noises. This suggests playful activity among the animals.
+
+VERDICT: PLAY",PLAY
+20211121_072335_192.wav,NIGHT,"The audio contains various sounds including clicks, whistles, and what sounds like feeding behaviour from the dolphin.
+
+VERDICT: FFR",FFR
+20211121_071334_192.wav,NIGHT,"The audio contains sounds of what appears to be an aquarium, water bubbling, and some vocalizations that sound like dolphins. I do not hear anything that obviously indicates feeding, training, or playing sounds in particular. It sounds like the general sounds one would hear during a resting period.
+
+VERDICT: NIGHT",NIGHT
+20211121_070834_192.wav,NIGHT,"Based on the audio, there seems to be a lot of clicking sounds suggesting echolocation. Also, there are some distinct whistles and vocalizations, which indicates they are actively communicating and possibly feeding.
+
+VERDICT: FFR",FFR
+20211121_072836_192.wav,NIGHT,"The audio suggests the presence of marine mammal sounds, specifically those of walruses. The sounds seem to be a combination of vocalizations and other noises related to their behavior. These sounds do not seem to directly correlate with sleep, as there is a level of activity. Therefore, based on the context provided, the audio indicates activities other than sleep.
+
+VERDICT: PLAY",PLAY
+20211121_073336_192.wav,NIGHT,"The audio contains sounds of distress and movement, likely training or feeding.
+
+VERDICT: ORD",ORD
+20211121_074838_192.wav,NIGHT,"Based on the audio, there is significant vocalization suggestive of marine mammals interacting and playing.
+
+VERDICT: PLAY",PLAY
+20211121_074338_192.wav,NIGHT,"The audio contains various dolphin sounds including distress calls and whistle vocalizations, which typically indicate active interaction and communication, more characteristic of PLAY or FFR(Feeding) activities rather than sleep.
+
+VERDICT: PLAY",PLAY
+20211121_075839_192.wav,NIGHT,"This audio definitely has sounds indicative of a nighttime activity, possibly sleep. Lots of quiet breaths and other subtle noises. HuBERT appears correct.
+
+VERDICT: NIGHT",NIGHT
+20211121_073837_192.wav,NIGHT,"The audio predominantly features sounds associated with feeding, like the seal swallowing and vocalizing during mealtimes.
+
+VERDICT: FFR",FFR
+20211121_075339_192.wav,NIGHT,"The audio contains sounds of marine mammals vocalizing and moving in water. Based on the context and the nature of sounds (e.g., potential social calls), it's more likely that these animals are active and interacting with their environment than simply sleeping. However, with only audio, differentiating between feeding and play is difficult, so I am selecting what I believe to be most correct.
+VERDICT: PLAY",PLAY
+20211121_080340_192.wav,NIGHT,"The audio contains sounds indicating movement and potentially some distress vocalizations. The overall environment does sound consistent with sleep and rest.
+VERDICT: NIGHT",NIGHT
+20211121_081842_192.wav,NIGHT,"The audio contains sounds of movement in the water, vocalizations possibly indicating social interaction, and sounds associated with breathing. Considering the context of the provided classes, this best aligns with the playing sounds within the water, but there also seems to be a feeding aspect.
+
+VERDICT: PLAY
+",PLAY
+20211121_081341_192.wav,NIGHT,"The audio sounds quiet, with faint vocalizations and some water movement. There are no clear sounds indicating feeding, training, or playing. It is more consistent with sleeping or resting.
+
+VERDICT: NIGHT",NIGHT
+20211121_083343_192.wav,NIGHT,"Based on the audio, it sounds like there are various vocalizations. The primary sound appears to be chirping, but it is hard to tell if its night.
+
+VERDICT: FFR",FFR
+20211121_082342_192.wav,NIGHT,"The audio features sounds of marine mammals vocalizing, with a rhythmic, almost chant-like quality and distinct clicks intermixed. Based on the context and the soundscape, this indicates active communication, likely feeding. 
+
+VERDICT: FFR",FFR
+20211121_082843_192.wav,NIGHT,"The audio contains a low hum and bubbling sounds which are typically associated with aeration and filtration systems used in marine tanks. It also contains some faint vocalizations which sound like clicking noises. This is indicative of normal activity and is not associated with feeding, training, or playing. Instead, it fits best with normal nighttime activity.
+VERDICT: NIGHT",NIGHT
+20211121_080841_192.wav,NIGHT,"The audio contains sounds of splashing and playful vocalizations like whistling, indicative of playful behavior.
+
+VERDICT: PLAY",PLAY
+20211121_084345_192.wav,NIGHT,"The audio has sounds of various marine animal vocalizations. It seems to be a mix of interactions.
+
+VERDICT: PLAY",PLAY
+20211121_083844_192.wav,NIGHT,"The audio clearly features clicking sounds and possible echolocation. This suggests the animal is actively navigating or searching for something, rather than resting.
+
+VERDICT: FFR
+",FFR
+20211121_034811_192.wav,NIGHT,"The audio presents a nighttime ambience. I can hear the sounds of water, presumably waves, and some low-level noises that could be associated with marine life during nocturnal hours. It definitely aligns with the context of ""NIGHT"" indicating sleep.
+
+VERDICT: NIGHT",NIGHT
+20211121_035812_192.wav,NIGHT,"The audio features sounds consistent with nighttime activity, likely the sounds of whales resting and possibly low-level communication.
+VERDICT: NIGHT",NIGHT
+20211121_040312_192.wav,NIGHT,"The audio presents a soundscape primarily dominated by consistent bubbling and gurgling sounds characteristic of an aquarium environment. These sounds could be related to aeration or water filtration systems. There isn't any pronounced vocalizations.
+
+VERDICT: NIGHT",NIGHT
+20211121_035311_192.wav,NIGHT,"The audio contains sounds of dolphin echolocation and vocalizations, and there appears to be movement. However, this acoustic profile leans more towards active interaction than complete rest.
+
+VERDICT: PLAY
+",PLAY
+20211121_040813_192.wav,NIGHT,"The sounds indicate mostly quiet vocalizations with some clicks and whistles, consistent with the animals resting. VERDICT: NIGHT",NIGHT
+20211121_041814_192.wav,NIGHT,The audio presents sounds consistent with sleep behavior. The distinct rhythmic vocalizations and occasional body movements indicate a state of rest and relaxation. VERDICT: NIGHT,NIGHT
+20211121_042815_192.wav,NIGHT,"The audio seems to have a lot of dolphin vocalizations, but it is low activity. VERDICT: NIGHT",NIGHT
+20211121_043316_192.wav,NIGHT,"The sounds indicate activity consistent with foraging or feeding, the presence of the fish indicates hunger.
+
+VERDICT: FFR",FFR
+20211121_043816_192.wav,NIGHT,"The audio features very little activity and sounds of potential sleep.
+
+VERDICT: NIGHT",NIGHT
+20211121_041313_192.wav,NIGHT,"The audio presents the characteristic sounds of marine mammal play, including vocalizations and splashing, indicative of active interaction within an aquatic environment.
+
+VERDICT: PLAY
+",PLAY
+20211121_042315_192.wav,NIGHT,"The audio presents sounds indicative of feeding, including animal vocalizations and movement associated with consumption. The animals sound like they are actively engaged in feeding activities.
+VERDICT: FFR",FFR
+20211121_045819_192.wav,NIGHT,"The audio contains sounds of water movement, similar to a stream or gentle waves.  There aren't any distinct sounds that suggest feeding, training, or playing. The ambiance gives off a peaceful and quiet vibe.
+
+VERDICT: NIGHT",NIGHT
+20211121_044817_192.wav,NIGHT,"The audio primarily consists of clicking sounds, characteristic of cetacean echolocation. Given the context provided (FFR, ORD, PLAY, NIGHT), and the nature of the clicks, it is consistent with active cetacean behavior rather than inactivity associated with nighttime sleep.
+
+VERDICT: FFR",FFR
+20211121_044317_192.wav,NIGHT,"The audio contains sounds consistent with dolphins sleeping, including periods of inactivity and the characteristic click sounds associated with this state. VERDICT: NIGHT",NIGHT
+20211121_045318_192.wav,NIGHT,"The audio contains sounds consistent with marine mammal activity, specifically rhythmic, almost pulsed sounds. Given the context of these sounds occurring during the night, it's difficult to distinguish them clearly as definitively feeding or playing. Based on this evidence and the understanding that marine mammals can still be somewhat active during periods of sleep, it is challenging to assign a very strong confidence level.
+
+VERDICT: NIGHT",NIGHT
+20211121_050319_192.wav,NIGHT,"The audio has sounds of bubble production from the animal and some quiet humming. These sounds correlate with the animals sleeping.
+VERDICT: NIGHT",NIGHT
+20211121_051821_192.wav,NIGHT,"Based on the audio, it sounds like the seals are feeding.
+
+VERDICT: FFR",FFR
+20211121_053323_192.wav,FFR,"Based on the sounds of splashing and vocalizations from the marine mammal, I interpret this as feeding behavior.
+
+VERDICT: FFR",FFR
+20211121_051320_192.wav,NIGHT,"Based on the audio, there's snoring sounds present.
+VERDICT: NIGHT",NIGHT
+20211121_052822_192.wav,NIGHT,"The audio contains a lot of vocalizations of marine mammals, specifically distressed sounds and general communication. This is highly indicative of feeding behavior, possibly with some playful interactions mixed in. 
+VERDICT: FFR",FFR
+20211121_050820_192.wav,NIGHT,"The audio appears to primarily capture feeding sounds (FFR). I can hear clicks and associated noises indicative of odontocete feeding behavior.
+
+VERDICT: FFR",FFR
+20211121_052321_192.wav,NIGHT,"The audio presents a range of sounds consistent with marine mammals, specifically sea lions.  While there is no active feeding or training sounds obvious, the general sounds of sea lions communicating would be happening when they are sleeping, so NIGHT aligns best.
+
+VERDICT: NIGHT",NIGHT
+20211121_053823_192.wav,NIGHT,"The audio indicates the presence of marine mammal sounds, including vocalizations like grunts and moans.  The overall soundscape suggests reduced activity and more quiet, which is consistent with a resting phase.
+
+VERDICT: NIGHT
+",NIGHT
+20211121_055325_192.wav,NIGHT,"The audio primarily features the sound of water, specifically what seems to be bubbles and perhaps a gentle current. This is consistent with sleep (NIGHT) behavior.
+
+VERDICT: NIGHT",NIGHT
+20211121_054824_192.wav,FFR,"The audio contains sounds indicative of marine mammals, specifically seals, vocalizing. These vocalizations, characterized by grunts and snorts, are consistent with feeding sounds.
+VERDICT: FFR",FFR
+20211121_054324_192.wav,NIGHT,"The audio reveals sounds of splashing and movement within water, suggesting activity rather than rest. There's nothing specific that definitively confirms a nighttime sleep state.
+
+VERDICT: PLAY",PLAY
+20211121_055825_192.wav,NIGHT,"The audio clearly captures sounds of the marine animals sleeping, which coincides with the description of NIGHT.
+VERDICT: NIGHT",NIGHT
+20211121_060326_192.wav,NIGHT,"The sounds are dominated by whale vocalizations that don't necessarily seem related to sleeping activity. The overall underwater soundscape is not suggestive of a quiet nighttime environment. 
+VERDICT: FFR",FFR
+20211121_060827_192.wav,NIGHT,"The audio features the sounds of water lapping, movement, and potential breathing sounds indicating activity rather than a complete absence of activity which is characteristic of sleep. It is more in line with a feeding context.
+
+VERDICT: FFR
+",FFR
+20211121_061327_192.wav,NIGHT,"The audio suggests rest and quiet activity underwater, including gurgling sounds. This sounds like a 'NIGHT' environment.
+
+VERDICT: NIGHT",NIGHT
+20211120_191710_192.wav,NIGHT,"The predominant sound is whale song, specifically the kind that male humpback whales produce during their breeding season. There is some ambient water noise, but the main focus of the audio is the structured song. While the audio doesn't give a direct indication of the specific behavior it relates to, it is primarily observed during sleep.
+
+VERDICT: NIGHT",NIGHT
+20211120_193212_192.wav,NIGHT,"The audio contains sounds of water movement, bubbles, and occasional vocalizations resembling snoring or low-frequency grunts. These sounds are indicative of resting marine mammals in a quiet environment.
+
+VERDICT: NIGHT",NIGHT
+20211120_191210_192.wav,NIGHT,"Based on the faint, rhythmic clicking and low-level ambient sounds present in the audio, suggestive of vocalizations and quiet activity, it appears consistent with behaviors associated with resting or sleep. It doesn't sound actively like feeding, playing, or training.
+
+VERDICT: NIGHT",NIGHT
+20211120_192211_192.wav,NIGHT,"The predominant sound is of running water, with a distinct presence of marine mammal vocalizations. The activity seems to be driven by the flow of water, and the marine mammals are exhibiting behaviors in response to it. The presence of vocalization suggests interaction or communication within the group.
+
+VERDICT: PLAY",PLAY
+20211120_192711_192.wav,NIGHT,"The audio seems to contain a monotonous sound, possibly indicating a period of quiescence, where minimal activity is taking place. Given the context, NIGHT (Sleep) seems plausible. 
+VERDICT: NIGHT",NIGHT
+20211120_193713_192.wav,NIGHT,"The predominant sound is water movement and what seems like dolphin echolocation clicks. It sounds like they are in a tank. No distinct feeding, training, or play sounds, and since echolocation is constant, it's likely related to being in a confined space and less a nighttime event specifically.
+
+VERDICT: ORD
+",ORD
+20211120_194213_192.wav,NIGHT,"The audio has a repetitive, consistent sound, similar to the sounds of a pump. I do not hear sounds characteristic of feeding, training or playing. This would be consistent with routine operation during the night.
+
+VERDICT: NIGHT",NIGHT
+20211120_194714_192.wav,NIGHT,"The audio contains sounds of dolphins clicking and whistling, which are usually more prominent during active periods like feeding or playing. In this case, the active communication sounds suggest an interactive activity.
+
+VERDICT: PLAY",PLAY
+20211120_195214_192.wav,NIGHT,"The audio primarily features sounds consistent with nighttime acoustic activity in a marine environment, with some clicking sounds, but nothing clearly discernible that would suggest feeding, training or play.
+
+VERDICT: NIGHT",NIGHT
+20211120_200716_192.wav,NIGHT,"The audio appears to be a recording of fish sounds in what seems to be a quite environment, possibly with limited activity. The sounds are subtle, but generally sound like regular swimming.
+
+VERDICT: NIGHT",NIGHT
+20211120_200216_192.wav,NIGHT,"The audio contains very faint sounds but seems most consistent with a quiet environment. While difficult to ascertain conclusively, it doesn't exhibit the clear characteristics of feeding, training, or playing, thus suggesting a sleep-like or resting state.
+
+VERDICT: NIGHT",NIGHT
+20211120_195715_192.wav,NIGHT,"The audio predominantly features sounds associated with feeding, specifically chewing and possible crunching sounds. 
+
+VERDICT: FFR",FFR
+20211120_201217_192.wav,NIGHT,"Based on the audio provided, the animal sounds are consistent with a period of low activity, including light breathing. It's not the active sounds of feeding, training, or playing.
+
+VERDICT: NIGHT",NIGHT
+20211120_202218_192.wav,NIGHT,"The audio primarily contains sounds consistent with nighttime activity - gentle movements, some vocalizations but not intense feeding sounds. The sounds appear more relaxed and less energetic, indicative of a rest or sleep state.
+
+VERDICT: NIGHT",NIGHT
+20211120_201717_192.wav,NIGHT,"The audio presents sounds indicative of cetacean activity, specifically vocalizations potentially associated with resting or socializing. The tempo of the audio is very slow. The general soundscape is calm.
+
+VERDICT: NIGHT",NIGHT
+20211121_023302_192.wav,NIGHT,"The audio sounds like splashing and gentle movements in water. It seems like the animals are relatively calm.
+
+VERDICT: NIGHT",NIGHT
+20211121_030305_192.wav,NIGHT,"The audio contains sounds consistent with a sleeping environment, including quiet ambient noises and subtle movements.
+
+VERDICT: NIGHT",NIGHT
+20211121_024804_192.wav,NIGHT,"The audio contains sounds consistent with snoring and general quiescence.
+
+VERDICT: NIGHT",NIGHT
+20211121_023803_192.wav,NIGHT,"The audio seems to be predominantly characterized by sounds suggesting nighttime activity, specifically the presence of whale vocalizations and the overall soundscape indicating reduced activity.
+
+VERDICT: NIGHT",NIGHT
+20211121_024303_192.wav,NIGHT,"The audio contains sounds suggestive of cetacean activity, specifically repetitive clicking sounds. Based on these clicks and their relatively slow repetition rate, this is likely nocturnal echolocation for navigation and awareness.
+
+VERDICT: NIGHT",NIGHT
+20211121_025304_192.wav,NIGHT,"The audio primarily contains sounds characteristic of sleep: gentle snoring and occasional movements. The ambiance suggests a resting period.
+
+VERDICT: NIGHT",NIGHT
+20211121_025805_192.wav,NIGHT,"The audio seems consistent with sounds produced during sleep, with soft, muffled noises and perhaps some low-level ambient sounds that could be typical of a nighttime environment.
+
+VERDICT: NIGHT
+",NIGHT
+20211121_031807_192.wav,NIGHT,"The audio seems to consist of ambient noise with occasional low-frequency rumbles and some possible low-level vocalizations or subtle movement sounds. While there is no obvious or distinct activity, it is more consistent with a low-activity resting period. 
+VERDICT: NIGHT",NIGHT
+20211121_033309_192.wav,NIGHT,"The audio sounds like the consistent hum of equipment, potentially indicative of overnight operation.
+
+VERDICT: NIGHT",NIGHT
+20211121_031307_192.wav,NIGHT,"The audio contains sounds suggestive of cetacean activity, characterized by whistles and vocalizations, which align with sleeping behavior during the night.
+VERDICT: NIGHT",NIGHT
+20211121_030806_192.wav,NIGHT,"The audio primarily contains sounds suggestive of the animal resting, intermittent soft vocalizations, and the rhythmic sound of bubbles. This corresponds with sleep behavior.
+
+VERDICT: NIGHT",NIGHT
+20211121_032308_192.wav,NIGHT,"Based on the sounds, this indeed appears to be a period of relative quiet and rest.
+
+VERDICT: NIGHT",NIGHT
+20211121_032808_192.wav,NIGHT,"The audio primarily contains sounds of the tank, water movement, and bubbling which is consistent with a nocturnal environment for marine life. There is also some sound like some rubbing or scratching which are also consistent with nighttime activity.
+
+VERDICT: NIGHT",NIGHT
+20211121_033809_192.wav,NIGHT,"The audio contains the distinct sound of snoring.
+
+VERDICT: NIGHT",NIGHT
+20211121_034310_192.wav,NIGHT,"The audio contains the sound of water, and potentially some very quiet animal sounds. It's difficult to ascertain the precise activity, but it's most likely that the animals are resting, so I agree with HuBERT's prediction.
+
+VERDICT: NIGHT",NIGHT
+20211120_203219_192.wav,NIGHT,"The sounds present in the audio suggest a tranquil environment, characterized by sounds akin to sleeping or resting. VERDICT: NIGHT",NIGHT
+20211120_202719_192.wav,NIGHT,"The audio contains sounds of marine mammals, possibly dolphins, making various clicks and whistles. These vocalizations do not indicate a specific behavior like feeding, training, or playing. However, the sounds don't obviously contradict the context of sleep.
+
+VERDICT: NIGHT",NIGHT
+20211120_205722_192.wav,NIGHT,"The audio predominantly features dolphin whistles and clicks.  Based on the quiet and sustained nature of the sounds, the context of sleep seems most appropriate.
+
+VERDICT: NIGHT",NIGHT
+20211120_204220_192.wav,NIGHT,"The audio predominantly contains low-frequency hums and static. While subtle, I can detect the faintest indications of possible orca breathing in some areas. Given this, and acknowledging that orcas are often more quiet during sleep, the HuBERT model's prediction of ""NIGHT"" seems plausible based on the overall reduced activity in the audio. 
+VERDICT: NIGHT",NIGHT
+20211120_203720_192.wav,NIGHT,"The predominant sound in the audio is of water movement, specifically sounds associated with the night period in aquariums with fish.
+
+VERDICT: NIGHT",NIGHT
+20211120_204721_192.wav,NIGHT,"The audio indicates a resting or sleep state with minimal activity. The breathing and occasional subtle sounds suggest a quiet environment.
+
+VERDICT: NIGHT",NIGHT
+20211120_205222_192.wav,NIGHT,"The audio predominantly contains sounds indicative of whales sleeping - long, low moans and subtle clicks. HuBERT's prediction is aligned with this acoustic evidence.
+
+VERDICT: NIGHT",NIGHT
+20211120_212225_192.wav,NIGHT,"Based on the audio, I hear sounds consistent with nocturnal activity. The presence of these underwater sounds, with no vocalizations or specific interactions suggests a resting or sleeping state. 
+
+VERDICT: NIGHT",NIGHT
+20211120_211224_192.wav,NIGHT,"The predominant sound is consistent with a sleeping animal, characterized by soft, rhythmic breathing.
+
+VERDICT: NIGHT",NIGHT
+20211120_210723_192.wav,NIGHT,"The audio presents a fairly consistent bubbling sound, typical of water movement. It doesn't have the distinct characteristics of feeding, training, or playing, and the regularity does suggest a resting state.
+
+VERDICT: NIGHT",NIGHT
+20211120_211725_192.wav,NIGHT,"The sounds indicate a quiet environment, with potential soft vocalizations and breathing. The context provided suggests that this could be a period of rest or sleep.
+
+VERDICT: NIGHT",NIGHT
+20211120_210223_192.wav,NIGHT,"The audio presents a quiet environment with some sounds of marine mammals vocalizing, notably clicks and whistles. The sounds resemble those heard during resting periods.
+
+VERDICT: NIGHT",NIGHT
+20211120_212726_192.wav,NIGHT,"The audio contains sounds of echolocation clicks and general ambient noise which is what the animal will use to navigate during sleep.
+
+VERDICT: NIGHT",NIGHT
+20211120_213727_192.wav,NIGHT,"The predominant sound is the distinct clicking vocalizations of dolphins. These sounds don't appear associated with feeding or training. Instead, they indicate social interaction. Although the context doesn't precisely align with socialising, the acoustic properties point towards playing/interaction.
+VERDICT: PLAY",PLAY
+20211120_213226_192.wav,NIGHT,The audio contains the sounds of marine mammals during what seems to be their resting period. VERDICT: NIGHT,NIGHT
+20211121_000245_192.wav,NIGHT,"The audio contains faint clicks, chirps and what sounds like movement. The overall ambient ocean sounds suggest a nighttime environment, but it's difficult to be absolutely certain without knowing the specific marine life present. However, there's nothing overtly suggesting it's feeding, training or playing.
+
+VERDICT: NIGHT",NIGHT
+20211121_002248_192.wav,NIGHT,"Based on the audio, it appears the animals are exhibiting behaviors and vocalizations consistent with resting and reduced activity.
+
+VERDICT: NIGHT",NIGHT
+20211121_003249_192.wav,NIGHT,"The audio contains sounds suggestive of a sleeping whale, potentially vocalizations characteristic of a restful state.
+
+VERDICT: NIGHT",NIGHT
+20211121_003749_192.wav,NIGHT,"Based on the audio, I can hear sounds of sleep.
+VERDICT: NIGHT",NIGHT
+20211121_002748_192.wav,NIGHT,"The audio contains the sound of snapping shrimp, which are active at night.
+
+VERDICT: NIGHT",NIGHT
+20211121_001747_192.wav,NIGHT,"The audio contains the rhythmic clicking sounds, indicative of cetacean vocalizations during sleep.
+VERDICT: NIGHT",NIGHT
+20211121_001246_192.wav,NIGHT,"The audio contains sounds of splashing, general sounds during sleep, and breathing, consistent with an animal settling down for the night. HuBERT's prediction seems accurate.
+VERDICT: NIGHT",NIGHT
+20211121_000746_192.wav,NIGHT,"The audio contains sounds of splashing, movement in water, and possible vocalizations. It sounds like the animals are actively moving around in the water.
+
+VERDICT: PLAY",PLAY
+20211121_010252_192.wav,NIGHT,"The audio contains distinct clicking sounds, suggesting echolocation activity, which is more aligned with foraging. These sounds don't typically occur during sleep.
+
+VERDICT: FFR",FFR
+20211121_004250_192.wav,NIGHT,"The audio primarily features sounds consistent with the movement of water, possibly from a filtration system or circulation within an aquarium. There's no distinct activity that would strongly suggest feeding, training, or playing. It does sound relatively quiet and peaceful.
+
+VERDICT: NIGHT",NIGHT
+20211121_005251_192.wav,NIGHT,"The audio presents a distinct ambient soundscape of marine environment. Listening to the audio carefully, I notice only subtle background noise, but no distinct active behavioral sounds.
+
+VERDICT: NIGHT",NIGHT
+20211121_010753_192.wav,NIGHT,"The audio predominantly consists of clicks, with a repetitive and patterned nature that aligns with sleeping patterns. 
+VERDICT: NIGHT",NIGHT
+20211121_005751_192.wav,NIGHT,"The audio predominantly features sounds of general marine life and movement which are consistent with underwater recordings taken during sleep or rest periods. The environment sounds relatively calm.
+
+VERDICT: NIGHT",NIGHT
+20211121_004750_192.wav,NIGHT,"The audio contains what appears to be sonar pings/sounds. During the ""NIGHT"" behavior state, dolphins reduce activity. These sounds may be from the research equipment used to observe.
+
+VERDICT: NIGHT",NIGHT
+20211121_011253_192.wav,NIGHT,"The audio contains sounds of a foghorn. Based on the context provided, foghorns are generally used during low visibility conditions, which are more likely to occur at night.
+
+VERDICT: NIGHT",NIGHT
+20211121_013756_192.wav,NIGHT,"The audio predominantly features sounds of movement underwater, primarily those suggestive of a whale possibly resting or sleeping, with gentle breathing patterns, and occasional shifting of position. This indicates minimal activity and suggests a resting state.
+
+VERDICT: NIGHT
+",NIGHT
+20211121_012254_192.wav,NIGHT,"The audio contains sounds of echolocation clicks and water movement, consistent with dolphins foraging at night.
+
+VERDICT: NIGHT",NIGHT
+20211121_012755_192.wav,NIGHT,"The audio sounds like a motor running, likely from a pump or filtration system which is commonly active during the night for maintaining water quality.
+
+VERDICT: NIGHT",NIGHT
+20211121_013255_192.wav,NIGHT,"The audio presents the sounds of dolphin echolocation clicks and whistles. These seem to be low volume. The sounds are quiet, but it's difficult to distinguish specific behaviors without additional context, but it does sound like the dolphins are resting and quiet.
+
+VERDICT: NIGHT",NIGHT
+20211121_011754_192.wav,NIGHT,"The audio primarily contains sounds of breathing. It's difficult to definitively determine the activity based solely on that, but breathing is most likely during rest or sleep.
+
+VERDICT: NIGHT",NIGHT
+20211121_015758_192.wav,NIGHT,"The audio appears to be recording underwater with sounds resembling marine mammals. There's no clear indication of feeding, training or playing, just general ambient sounds consistent with sleep or rest.
+
+VERDICT: NIGHT",NIGHT
+20211121_020259_192.wav,NIGHT,"The audio features a combination of sounds, including what appears to be biological activity, such as marine mammal vocalizations, and also some distinct clicking sounds that don't clearly align with the other contexts. The audio does sound like the sounds of activity at night, and there is something else that is going on in the ocean.
+
+VERDICT: NIGHT",NIGHT
+20211121_014757_192.wav,NIGHT,"The audio contains the sounds of dolphin sleep. HuBERT's predication is correct.
+
+VERDICT: NIGHT",NIGHT
+20211121_015258_192.wav,NIGHT,There are no distinct vocalizations heard. Only sounds of the aquatic environment. VERDICT: NIGHT,NIGHT
+20211121_014256_192.wav,NIGHT,"The audio presents sounds consistent with biological activity at night. There are no distinct sounds that suggest feeding, training, or playing activity. 
+VERDICT: NIGHT",NIGHT
+20211121_022802_192.wav,NIGHT,"Based on the audio, which sounds like soft clicking and general underwater ambiance, it is difficult to ascertain a specific activity. However, the stillness of the soundscape does suggest a resting or inactive period. 
+
+VERDICT: NIGHT",NIGHT
+20211121_022301_192.wav,NIGHT,"The audio contains sounds characteristic of whale activity, including what seems like vocalizations and general movement, but it is very subdued, almost as if the whales are at rest. This aligns with what might be expected during sleep.
+
+VERDICT: NIGHT",NIGHT
+20211121_021300_192.wav,NIGHT,"The audio contains the sound of water movement. Considering the context provided, it is more likely to be an activity related to sleeping, with the presence of the bubbles or water flow representing a nighttime environment.
+
+VERDICT: NIGHT",NIGHT
+20211121_021800_192.wav,NIGHT,"The audio contains sounds consistent with general marine activity, without a distinct focus that would strongly indicate feeding, training, or playing. The continuous presence of environmental marine sounds could indicate resting or inactivity, which aligns with sleep.
+
+VERDICT: NIGHT",NIGHT
+20211121_020759_192.wav,NIGHT,"This audio presents the sounds of a marine environment, specifically bubble sounds. There's no overt indication of feeding, training, or active play. The presence of bubbles could potentially relate to nocturnal respiration or some other night-time activity. Thus, HuBERT's call could be accurate.
+
+VERDICT: NIGHT",NIGHT
+20211120_180201_192.wav,NIGHT,"Based on the audio, it seems like a combination of sounds that might be related to an animal feeding or perhaps active and playful behaviours.
+
+VERDICT: FFR",FFR
+20211120_180702_192.wav,NIGHT,"The audio sounds like marine mammal vocalizations, specifically sounds consistent with those made at night.
+
+VERDICT: NIGHT",NIGHT
+20211120_181703_192.wav,NIGHT,"The audio is dominated by repetitive, high-pitched calls, along with some general splashing sounds. It seems more consistent with active behavior.
+
+VERDICT: PLAY",PLAY
+20211120_181203_192.wav,NIGHT,"The audio appears to be a recording of dolphins sleeping, evidenced by the regular clicking noises.
+VERDICT: NIGHT",NIGHT
+20211120_175701_192.wav,NIGHT,"The audio predominantly contains sounds of animal respirations (breathing, huffing, puffing) and light clicking noises. Although I cannot confirm the acoustic model as NIGHT with only this input, there aren't sounds of eating, active training or playful behaviour; therefore, it sounds like they are resting/sleeping.
+
+VERDICT: NIGHT",NIGHT
+20211120_183205_192.wav,NIGHT,"The audio primarily features the sounds of dolphin clicks. It's difficult to discern specific activities based on this alone, but the lack of more active sounds like whistles suggests a resting or less active state. Thus the model is correct.
+
+VERDICT: NIGHT",NIGHT
+20211120_183705_192.wav,NIGHT,"While there are sounds of activity, most sounds heard sound consistent with sleep.
+
+VERDICT: NIGHT",NIGHT
+20211120_182704_192.wav,NIGHT,"The audio consists of low-frequency rumbling noises and very faint dolphin sounds. These are consistent with resting marine mammals during the night. 
+VERDICT: NIGHT",NIGHT
+20211120_182204_192.wav,NIGHT,"The audio predominantly features sounds consistent with underwater activity, notably respiration sounds of cetaceans and general underwater ambience. It sounds like orcas resting underwater.
+VERDICT: NIGHT",NIGHT
+20211120_185207_192.wav,NIGHT,"The audio contains sounds of water and occasional breaths, indicative of a marine mammal at rest. I agree with the HuBERT model.
+VERDICT: NIGHT",NIGHT
+20211120_185708_192.wav,NIGHT,"The audio primarily features the sounds of the ocean and marine life. There is minimal distinct activity suggesting Feeding, Training, or Playing. Therefore it aligns with resting.
+
+VERDICT: NIGHT",NIGHT
+20211120_190208_192.wav,NIGHT,"The audio appears to primarily feature the distinct vocalizations associated with marine mammals. Based on the distinct sounds, these vocalizations suggest social interaction and communication, which typically occurs during PLAY.
+
+VERDICT: PLAY",PLAY
+20211120_184206_192.wav,NIGHT,"The audio contains sounds indicative of sleep, including snores and the general quietness associated with resting.  HuBERT's prediction of ""NIGHT"" aligns well with these acoustic cues.
+
+VERDICT: NIGHT",NIGHT
+20211120_184707_192.wav,NIGHT,"The audio contains repetitive, low frequency sounds, which could be associated with resting or slight movement during sleep.
+
+VERDICT: NIGHT",NIGHT
+20211120_190709_192.wav,NIGHT,"There are some sounds of movement and breathing present, along with some water gurgling and bubbling noises.  It sounds like a marine mammal is resting, or perhaps even sleeping.
+
+VERDICT: NIGHT",NIGHT
+20211120_152643_192.wav,PLAY,"The audio contains sounds of splashing, movement in water, and what appear to be dolphin vocalizations including whistles. This aligns with playful activity. 
+VERDICT: PLAY",PLAY
+20211120_153644_192.wav,PLAY,"The audio contains sounds of marine mammals vocalizing, specifically sounds resembling distress calls or playful interaction. Given the context provided, it's difficult to pinpoint the exact activity, but the overall sound leans more towards playing or playful communication.
+
+VERDICT: PLAY",PLAY
+20211120_153144_192.wav,PLAY,"The audio contains sounds of marine mammals vocalizing, including what appears to be distress calls or general communication noises. They are very active in the water.
+
+VERDICT: PLAY",PLAY
+20211120_154145_192.wav,PLAY,"The audio contains sounds of marine mammals, specifically playful vocalizations like whistles and clicks, suggesting active behavior. There are also sounds which seems like a pup calling. This aligns with playing activity.
+
+VERDICT: PLAY",PLAY
+20211120_160147_192.wav,FFR,"The audio clearly features sounds of marine animals feeding, specifically, I can hear vocalizations consistent with the animals' feeding. 
+VERDICT: FFR",FFR
+20211120_154646_192.wav,FFR,"Based on the audio, I can hear sounds consistent with marine mammal feeding behavior, including clicks, whistles, and other vocalizations associated with foraging and prey capture. The presence of what seems to be chewing and food processing noises further reinforces this interpretation.
+VERDICT: FFR",FFR
+20211120_155647_192.wav,PLAY,"The audio contains sounds of playful behavior, squeals, and possible splashing, which aligns with social interaction.
+VERDICT: PLAY",PLAY
+20211120_155146_192.wav,PLAY,"The audio contains sounds of animal playing, specifically marine animal.
+VERDICT: PLAY",PLAY
+20211120_160648_192.wav,PLAY,"The audio contains sounds of marine animals communicating, specifically sounds resembling playful interactions in the water.
+
+VERDICT: PLAY",PLAY
+20211120_161148_192.wav,FFR,"The audio showcases feeding behavior, including sounds of marine mammals vocalizing near the food and chewing noises.
+VERDICT: FFR",FFR
+20211120_162650_192.wav,ORD,"The audio contains sounds consistent with training activities, specifically sounds suggesting the movement and interaction within a pool or training area.
+
+VERDICT: ORD",ORD
+20211120_161649_192.wav,FFR,"The audio showcases sounds relating to animal feeding, potentially including the movement and activity associated with the animals consuming their food.
+
+VERDICT: FFR",FFR
+20211120_162150_192.wav,FFR,"Based on the audio, I hear sounds that suggest marine mammals feeding, specifically the sounds associated with a feeding frenzy.
+
+VERDICT: FFR",FFR
+20211120_163651_192.wav,ORD,"The audio primarily contains sounds of marine mammals interacting in what sounds like an enclosure. I can hear vocalizations that seem to coincide with movement in the water, consistent with training exercises or planned activities.
+
+VERDICT: ORD",ORD
+20211120_163151_192.wav,ORD,"The audio definitely indicates active swimming with associated noises, suggesting purposeful movement and likely some level of physical exertion. This falls under training.
+VERDICT: ORD",ORD
+20211120_130127_192.wav,ORD,"The audio contains sounds of orcas vocalizing, including what sounds like calls and whistles, which is consistent with training exercises. The orcas are also in a pool-like environment, further suggesting a controlled training environment.
+VERDICT: ORD",ORD
+20211120_125626_192.wav,ORD,"The audio contains sounds of what seem to be marine mammals, and vocalizations. These sounds could possibly be associated with either feeding or training activities. Given the provided context, the Hubert prediction and the sounds in the audio seem to align with the Training class.
+
+VERDICT: ORD",ORD
+20211120_131628_192.wav,FFR,"The audio contains sounds of splashing water and what appears to be the vocalizations of marine mammals, specifically orcas. These sounds are indicative of feeding behavior.
+VERDICT: FFR",FFR
+20211120_130627_192.wav,FFR,"The audio clearly has sounds of marine mammals feeding.
+VERDICT: FFR",FFR
+20211120_133130_192.wav,ORD,"The sounds indicate Orcas communicating, particularly whistling and pulsed calls. Given the context options, this appears to align with training or social interaction. Based on the complexity of the calls, it's more likely that this recording is a form of training.
+
+VERDICT: ORD",ORD
+20211120_131128_192.wav,NIGHT,"The audio presents sounds suggestive of sleeping whales: low frequency moans and possible exhalations.
+
+VERDICT: NIGHT",NIGHT
+20211120_132129_192.wav,FFR,"The audio contains sounds of animals feeding, including chewing and other associated noises.
+VERDICT: FFR",FFR
+20211120_134131_192.wav,NIGHT,"Based on the audio, there are minimal sounds present, mostly the gentle sound of water and some faint clicks. There's no clear indication of feeding, training, playing, or any distinct activity. The audio is very quiet and suggestive of a resting state.
+
+VERDICT: NIGHT",NIGHT
+20211120_133631_192.wav,ORD,"The audio primarily contains echolocation clicks, consistent with training exercises.
+
+VERDICT: ORD",ORD
+20211120_135633_192.wav,NIGHT,"The predominant sounds in the audio seem to be the bubbling of water and some general underwater ambience. It would be difficult to classify this within the given categories, but it does not seem to fall under ""Feeding,"" ""Training"", or ""Playing."" It's plausible these animals are simply at rest, which would relate to the ""Night"" context.
+
+VERDICT: NIGHT",NIGHT
+20211120_140634_192.wav,NIGHT,"Based on the audio, I hear sounds indicative of sleep behavior.
+
+VERDICT: NIGHT",NIGHT
+20211120_140133_192.wav,NIGHT,"The audio primarily features the sound of circulating water, consistent with an aquarium environment, but it's calm. There's no evidence of feeding, training, or playing. It's most likely the fish are resting.
+VERDICT: NIGHT",NIGHT
+20211120_165654_192.wav,ORD,"The audio contains sounds of splashing and orca vocalizations. The context suggests activities like training or feeding. The distinct orca vocalizations align more closely with activities beyond simple training drills.
+
+VERDICT: ORD",ORD
+20211120_171656_192.wav,NIGHT,"The audio sounds relatively quiet with intermittent clicks and general low-level sounds, consistent with possible sleeping behavior.
+
+VERDICT: NIGHT",NIGHT
+20211120_132629_192.wav,ORD,"The audio contains the distinct sound of Orcas in what appears to be an Orca echolocation click, similar to communication or training activity. Therefore, the Orca clicks match HuBERT prediction of ""ORD"".
+VERDICT: ORD",ORD
+20211120_134632_192.wav,NIGHT,"The predominant sound is that of water, along with some potential biological sounds though harder to define. The context of it potentially being sleep for these sea creatures (NIGHT) is the most believable option.
+
+VERDICT: NIGHT",NIGHT
+20211120_135132_192.wav,NIGHT,"Based on the sound of flowing water and the sounds typically associated with the animals at rest, I concur with HuBERT. 
+VERDICT: NIGHT",NIGHT
+20211120_164152_192.wav,FFR,The audio clearly indicates sounds of marine mammals actively feeding. VERDICT: FFR,FFR
+20211120_164653_192.wav,ORD,"Based on the audio, I can hear vocalizations and other sounds, which seems like active interaction and vocal training.
+VERDICT: ORD",ORD
+20211120_165153_192.wav,ORD,"Based on the sounds of splashing and animal vocalizations, the audio suggests the animals are interacting with the water and with each other. This sounds like they are learning coordination in water.
+VERDICT: ORD",ORD
+20211120_172157_192.wav,NIGHT,"The audio contains a lot of bubbling and gurgling water sounds, along with some snorts which are consistent with marine mammals sleeping in water.
+
+VERDICT: NIGHT",NIGHT
+20211120_171155_192.wav,NIGHT,"Based on the audio, I hear sounds that are more indicative of feeding behavior, with possible vocalizations associated with it.
+
+VERDICT: FFR",FFR
+20211120_170655_192.wav,NIGHT,"The audio contains sounds of whale vocalizations that sound more like communication or interaction than sleep. There are a variety of clicks and calls.
+
+VERDICT: PLAY",PLAY
+20211120_170154_192.wav,ORD,"Based on the audio, I hear repetitive echolocation clicks which would imply the whale is training.
+VERDICT: ORD",ORD
+20211120_175200_192.wav,NIGHT,"The audio contains various clicking sounds, indicative of cetacean communication during resting periods, coupled with general ambient noise.
+
+VERDICT: NIGHT",NIGHT
+20211120_174700_192.wav,NIGHT,"Based on the audio, it sounds like there is some general ambient noise and some faint animal sounds that could be indicative of a sleeping environment, but it's hard to say definitively.
+
+VERDICT: NIGHT",NIGHT
+20211120_174159_192.wav,NIGHT,"The audio appears to contain primarily sounds consistent with whale vocalizations and general ambient ocean noise. Although there is no clear indication of specific activities such as feeding, training, or playing, the overall acoustic environment suggests a resting or sleep period.
+
+VERDICT: NIGHT",NIGHT
+20211120_172657_192.wav,NIGHT,"Based on the audio, there's a lot of movement, some low frequency sounds, and general activity. Not quite the stillness of sleep.
+
+VERDICT: PLAY",PLAY
+20211120_173158_192.wav,NIGHT,"The audio primarily consists of sounds suggesting a marine mammal is resting or sleeping, with intermittent sounds like breathing and gentle movements. 
+VERDICT: NIGHT",NIGHT
+20211120_173658_192.wav,NIGHT,"The audio contains sounds that sound like the playful interactions and vocalisations of marine mammals.
+
+VERDICT: PLAY",PLAY
+20211120_142636_192.wav,NIGHT,"The audio primarily contains sounds associated with marine life, predominantly characterized by their breathing patterns. There is ambient sound too, but the primary focus of the audio falls in line with the resting period for the animals.
+
+VERDICT: NIGHT",NIGHT
+20211120_141635_192.wav,NIGHT,"The audio contains sounds consistent with animals resting and minimal activity. HuBERT's prediction seems reasonable.
+
+VERDICT: NIGHT",NIGHT
+20211120_142136_192.wav,ORD,"The sounds resemble training exercises with vocalizations. 
+VERDICT: ORD",ORD
+20211120_141135_192.wav,NIGHT,"The audio presents a relatively quiet environment with some distinct sounds, possibly indicating activity, though subdued. Comparing this with the context provided, and HuBERT's assertion that it's ""NIGHT"", the audio seems consistent with the idea of a sleep or rest period with minimal disturbance.
+
+VERDICT: NIGHT",NIGHT
+20211120_144639_192.wav,ORD,"The audio features clicks and creaks, likely associated with the movement of dolphins, specifically sounds that resemble a training session where they are interacting with objects in the water.
+
+VERDICT: ORD",ORD
+20211120_143637_192.wav,ORD,"The audio contains orca vocalizations, specifically clicks and whistles, suggesting communication between individuals. Considering the context, the sounds are most consistent with social interaction and communication during training exercises.
+
+VERDICT: ORD",ORD
+20211120_145139_192.wav,ORD,"The audio indicates the presence of orcas with sounds characteristic of training behaviors, likely including vocalizations and movements related to learning specific tasks. The sound is consistent with the activity around their training.
+VERDICT: ORD",ORD
+20211120_144138_192.wav,ORD,"The audio contains repetitive training sounds. HuBERT's prediction aligns with the audio.
+VERDICT: ORD",ORD
+20211120_143137_192.wav,NIGHT,"The audio suggests playful activity, specifically relating to interaction with objects, possibly toys, and the animal making playful sounds.
+
+VERDICT: PLAY",PLAY
+20211120_151142_192.wav,ORD,"The audio clearly indicates training activity, specifically ORD, as the sound depicts dolphins performing actions potentially for a reward or learning a new skill. The sounds align with directed behaviours or exercises.
+
+VERDICT: ORD",ORD
+20211120_145640_192.wav,ORD,"The audio contains distinct orca vocalizations that include whistles and pulsed calls. This aligns with sounds often produced during training exercises.
+
+VERDICT: ORD",ORD
+20211120_151642_192.wav,ORD,"The audio contains sounds of splashing and water movement, suggesting some kind of activity in the water. Given the context provided, ORD seems to be the correct answer.
+VERDICT: ORD",ORD
+20211120_150641_192.wav,ORD,"The audio contains sounds of splashing, which seems like training exercises.
+VERDICT: ORD",ORD
+20211120_150140_192.wav,ORD,"The audio clearly has vocalizations associated with Orca pods, specifically the sounds that are associated with socialization and echolocation clicks that indicate their orientation and interaction with each other. Given the sounds and the context, the whales sound like they are being trained, and therefore interacting to accomplish set tasks in order to receive some form of reward.
+
+VERDICT: ORD",ORD
+20211120_152143_192.wav,ORD,"The audio contains sounds of orcas making clicks and whistles, indicative of communication and echolocation, which is a part of training.
+VERDICT: ORD",ORD
+20211120_225737_192.wav,NIGHT,"Based on the audio and the provided context, it appears the animal is relatively quiet, indicating a rest phase.
+
+VERDICT: NIGHT",NIGHT
+20211120_232240_192.wav,NIGHT,"The audio seems to consist of very faint sounds, mostly low-frequency rumbles and occasional clicks or short bursts of noise. There's no distinct vocalization or identifiable activity sounds that clearly indicate feeding, training, or playing. The sounds suggest a quiet environment, consistent with resting behavior.
+
+VERDICT: NIGHT",NIGHT
+20211120_231238_192.wav,NIGHT,"The predominant sound is the low hum of boat machinery, but there are some faint whistles mixed in. Considering the background noise and faint vocalizations, it is more likely that they are trying to sleep.
+VERDICT: NIGHT",NIGHT
+20211120_231739_192.wav,NIGHT,"The audio contains sounds that are consistent with biological activity, although identifying a specific behavior is difficult without further context. The HuBERT model identified ""NIGHT"" which implies a resting or dormant period. The lack of loud or energetic sounds would support a resting state.
+
+VERDICT: NIGHT",NIGHT
+20211120_230738_192.wav,NIGHT,"The audio contains sounds of dolphin echolocation clicks and whistles. While it doesn't explicitly indicate a feeding, training, or playing scenario, the relatively constant clicks suggest the animal might be navigating its environment or searching for prey. It's difficult to determine a sleep state (NIGHT) as there's continuous sound activity. 
+
+VERDICT: FFR",FFR
+20211120_230237_192.wav,NIGHT,"The audio appears to depict very quiet clicks which is indicative of cetacean biosonar. HuBERT suggested NIGHT, but the behavior exhibited in this recording, even though it is hard to hear, is consistent with echolocation. I am going to assume that the activity here is for feeding.
+
+VERDICT: FFR",FFR
+20211120_233241_192.wav,NIGHT,"The audio suggests a period of calm interspersed with what sounds like possible vocalizations, but the overall context leans towards a resting or sleeping phase.
+
+VERDICT: NIGHT",NIGHT
+20211120_232740_192.wav,NIGHT,"The audio contains sounds of biological activity and faint hums, consistent with a sleeping environment within an aquatic context.
+VERDICT: NIGHT",NIGHT
+20211120_234242_192.wav,NIGHT,"The audio contains sounds consistent with marine mammal vocalizations, and minimal activity. They seem to be resting.
+
+VERDICT: NIGHT",NIGHT
+20211120_233742_192.wav,NIGHT,"The audio presents clicks and whistles, sounds of marine life. It sounds consistent with general underwater sounds, which is likely the time when dolphins are sleeping.
+VERDICT: NIGHT",NIGHT
+20211120_234743_192.wav,NIGHT,"The audio contains low, consistent breathing sounds characteristic of a sleeping marine mammal. This aligns with the provided context that ""NIGHT"" signifies sleep.
+
+VERDICT: NIGHT",NIGHT
+20211120_235744_192.wav,NIGHT,"The audio primarily consists of sounds that indicate a resting state with some quiet bubbling. It matches the provided context of nighttime sleep.
+
+VERDICT: NIGHT",NIGHT
+20211120_235243_192.wav,NIGHT,"The audio features sounds consistent with nocturnal marine life activity, with subtle underwater ambiance.
+
+VERDICT: NIGHT",NIGHT
+20211120_214228_192.wav,NIGHT,"The audio contains sounds of whistles and splashing noises with juvenile animal sounds. The animal is active.
+
+VERDICT: PLAY",PLAY
+20211120_214728_192.wav,NIGHT,"The audio presents sounds of marine mammals underwater, specifically grunts and low frequency vocalizations that are consistent with cetaceans. Based on the sounds, it is more likely related to their interaction during night.
+
+VERDICT: NIGHT",NIGHT
+20211120_215229_192.wav,NIGHT,"The audio contains sounds consistent with dolphin sleep, with periods of inactivity and what sounds like slow breathing. HuBERT prediction is correct.
+
+VERDICT: NIGHT",NIGHT
+20211120_215729_192.wav,NIGHT,"The audio suggests sounds associated with resting and low activity.
+
+VERDICT: NIGHT",NIGHT
+20211120_221732_192.wav,NIGHT,"There are faint clicking sounds audible which are consistent with sounds produced during nighttime.
+
+VERDICT: NIGHT",NIGHT
+20211120_220731_192.wav,NIGHT,"There are sounds suggesting deep sleep, possibly snoring.
+
+VERDICT: NIGHT",NIGHT
+20211120_222733_192.wav,NIGHT,"The audio seems to contain background static and sounds consistent with marine mammal activity, specifically what sounds like breathing and perhaps some low-frequency vocalizations. Given the context provided, this aligns more with the sleep state rather than active feeding, training or playing.
+
+VERDICT: NIGHT",NIGHT
+20211120_222232_192.wav,NIGHT,"The audio presents a low hum and crackling sounds with minimal activity. The pattern matches their typical resting behavior with their echolocation clicks being much softer.
+
+VERDICT: NIGHT",NIGHT
+20211120_220230_192.wav,NIGHT,"The audio suggests the presence of sleep-related sounds, possibly quiet vocalizations.
+
+VERDICT: NIGHT",NIGHT
+20211120_221231_192.wav,NIGHT,"The audio seems to capture the low frequency sounds typical of whale vocalizations, along with some other ambient noises. However, there's not a clear indication of specific activities like feeding or training, nor is there any definite ""playing"" behavior represented. While the environment sounds relatively calm and quiet, which might associate with a sleeping or resting period, it is difficult to fully assess without additional information.
+
+VERDICT: NIGHT",NIGHT
+20211120_223234_192.wav,NIGHT,"The sounds are consistent with sleep vocalisations, low activity, and the overall acoustic profile associated with periods of rest in marine mammals.
+VERDICT: NIGHT",NIGHT
+20211120_223734_192.wav,NIGHT,"The audio primarily features the distinct sounds of dolphin echolocation clicks. This activity doesn't clearly fit into Feeding, Training, or Playing. It's more consistent with the dolphin's natural behavior and could happen during any time of day, but due to the lack of other distinct sounds, I can classify the soundscape with minimal noises.
+
+VERDICT: NIGHT",NIGHT
+20211120_224235_192.wav,NIGHT,The sounds in the audio seem to be consistent with sleep or resting behavior. VERDICT: NIGHT,NIGHT
+20211120_225236_192.wav,NIGHT,"The audio primarily contains sounds of breathing, and some faint gurgling sounds that could be digestion related. There is no distinct sound of feeding or any active behaviour suggesting activity.
+
+VERDICT: NIGHT",NIGHT
+20211120_224735_192.wav,NIGHT,"The audio contains sounds that are consistent with nighttime underwater recordings, which include various low-frequency biological noises and a general quiet ambience. It aligns with the typical soundscape of a marine environment during sleep patterns.
+
+VERDICT: NIGHT",NIGHT
+20211120_102609_192.wav,ORD,"The audio indicates sounds of splashing and Orca vocalizations. These sound like Orcas undergoing training exercises in the water.
+
+VERDICT: ORD",ORD
+20211120_102109_192.wav,ORD,"The sounds indicate movement in water, splashing, and what sounds like some vocalizations. It appears like training with splashing water and movement.
+VERDICT: ORD",ORD
+20211120_103110_192.wav,ORD,"The audio indicates orcas communicating, seemingly during a training session involving simulated prey capture.
+
+VERDICT: ORD",ORD
+20211120_104111_192.wav,ORD,"The audio contains sounds of splashing and animal vocalizations that are indicative of training exercises. 
+VERDICT: ORD",ORD
+20211120_104611_192.wav,ORD,"The audio sounds like orcas vocalizing with clicking sounds. These clicks are most likely related to echolocation.
+
+VERDICT: ORD",ORD
+20211120_105613_192.wav,ORD,"The audio contains sounds suggestive of the orca performing trained behaviors in the water, which would involve vocalizations and movement.
+
+VERDICT: ORD",ORD
+20211120_103610_192.wav,ORD,"The audio contains sounds consistent with Orca training sessions, including vocalizations possibly used as cues or reinforcements, splashes, and general sounds of activity related to instruction and learning.
+
+VERDICT: ORD",ORD
+20211120_110113_192.wav,ORD,"The audio contains sounds of movement in water, possibly related to training exercises or general activity. HuBERT predicted ORD which stands for Training.
+
+VERDICT: ORD",ORD
+20211120_105112_192.wav,ORD,"Based on the audio, I hear sounds consistent with orca activity, including vocalizations and possible movement related to training or communication. HuBERT said ORD, which matches the context.
+
+VERDICT: ORD",ORD
+20211120_111615_192.wav,ORD,"The audio primarily features the distinct sounds of orcas. Based on the context of the provided classifications, it sounds like they are producing patterned vocalizations likely for communication or some type of echo response.
+VERDICT: ORD",ORD
+20211120_112115_192.wav,ORD,"Based on the audio, I can clearly hear the sound of an orca vocalizing, specifically sounds related to training.
+VERDICT: ORD",ORD
+20211120_110614_192.wav,ORD,"The audio contains sounds resembling whale vocalizations which suggests some form of communication or echolocation. Given the context, the sounds seem more indicative of Training activities rather than feeding, playing, or resting. 
+VERDICT: ORD",ORD
+20211120_113116_192.wav,ORD,"The audio contains sound of echolocation which is used for training. HuBERT correctly predicted ORD(Training).
+VERDICT: ORD",ORD
+20211120_112616_192.wav,ORD,"The audio has a rhythmic, clicking sound and occasional whistles, suggesting dolphin echolocation and communication noises. This aligns with training scenarios where dolphins are often given cues or responding to commands.
+
+VERDICT: ORD
+",ORD
+20211120_111114_192.wav,ORD,"The audio contains repetitive knocking sounds, possibly related to training exercises or some form of organized activity.
+
+VERDICT: ORD",ORD
+20211120_113617_192.wav,ORD,"The audio is characterized by distinct training sounds, like clicks and whistles, which suggests controlled interactions. This aligns well with the context of ""ORD"" (Training).
+
+VERDICT: ORD",ORD
+20211120_115119_192.wav,ORD,"The audio contains sounds of what appears to be orcas in an aquarium, with bubbling sounds, and what seems to be some vocalization, possibly training.
+
+VERDICT: ORD",ORD
+20211120_120120_192.wav,ORD,"The sounds in this audio clip are consistent with odontocete echolocation clicks and whistles. These sounds are associated with communication and navigation within their environment, suggesting they might be engaging in training exercises or active movement within their tank. Therefore the HuBERT prediction aligns well with the audio.
+
+VERDICT: ORD
+",ORD
+20211120_115619_192.wav,ORD,"The predominant sound is consistent with orca training vocalizations.
+
+VERDICT: ORD",ORD
+20211120_114118_192.wav,ORD,"Based on the audio, the sound seems consistent with the typical environment during training.
+
+VERDICT: ORD",ORD
+20211120_114618_192.wav,ORD,"Based on the audio, I can hear what sounds like a whale, specifically sounds like moaning. Given the context, I will have to classify this sound as ORD.
+VERDICT: ORD",ORD
+20211120_120620_192.wav,ORD,"The audio contains sounds of water and what appears to be a pump or filtration system. This could potentially be associated with the training environment for marine animals.
+
+VERDICT: ORD",ORD
+20211120_122122_192.wav,ORD,"The audio contains sounds consistent with marine mammals communicating, specifically sounds that could be associated with social interactions and training. It sounds like there are animals in an ordered environment receiving instructions, potentially for training.
+
+VERDICT: ORD",ORD
+20211120_121622_192.wav,ORD,"The audio appears to contain sounds of splashing and activity, highly suggestive of training exercises.
+
+VERDICT: ORD",ORD
+20211120_123123_192.wav,ORD,"The audio features the sounds of marine mammals, including what sounds like echolocation clicks. This acoustic signature typically aligns with training scenarios where the animals are actively interacting and responding to stimuli.
+
+VERDICT: ORD",ORD
+20211120_121121_192.wav,ORD,"The audio seems to contain sounds of Orcas making different sounds that suggest activity and communication. They're vocalizing, which could include clicks, whistles, and pulsed calls. The overall soundscape indicates activity.
+
+VERDICT: ORD",ORD
+20211120_122623_192.wav,ORD,"The audio mainly contains sounds of water movement, splashing, and vocalizations that sound like training exercises, like commands being given.
+
+VERDICT: ORD",ORD
+20211120_125126_192.wav,ORD,"The audio contains various sounds, including whistles, squeaks, and clicks. The whistles and squeaks seem to be associated with vocalizations, possibly distressed. The clicks could be related to echolocation, but also possibly part of the training. I can clearly hear vocalizations consistent with animal training.
+
+VERDICT: ORD",ORD
+20211120_124124_192.wav,ORD,"Based on the audio, I can hear feeding vocalizations. VERDICT: FFR",FFR
+20211120_123624_192.wav,ORD,"The sounds appear to involve repetitive vocalizations and movement in water. This could potentially indicate some kind of training exercise or activity.
+
+VERDICT: ORD",ORD
+20211120_124625_192.wav,ORD,"The audio appears to contain vocalizations associated with training.
+VERDICT: ORD",ORD

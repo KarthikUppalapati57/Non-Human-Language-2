@@ -1,0 +1,4 @@
+File: 20211120_203219_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The sounds present in the audio suggest a tranquil environment, characterized by sounds akin to sleeping or resting. VERDICT: NIGHT

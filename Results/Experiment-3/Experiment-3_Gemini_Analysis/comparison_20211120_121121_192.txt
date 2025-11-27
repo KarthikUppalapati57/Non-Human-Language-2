@@ -1,0 +1,6 @@
+File: 20211120_121121_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio seems to contain sounds of Orcas making different sounds that suggest activity and communication. They're vocalizing, which could include clicks, whistles, and pulsed calls. The overall soundscape indicates activity.
+
+VERDICT: ORD

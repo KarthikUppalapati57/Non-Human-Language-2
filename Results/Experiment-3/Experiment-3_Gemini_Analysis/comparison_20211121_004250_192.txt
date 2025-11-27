@@ -1,0 +1,6 @@
+File: 20211121_004250_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily features sounds consistent with the movement of water, possibly from a filtration system or circulation within an aquarium. There's no distinct activity that would strongly suggest feeding, training, or playing. It does sound relatively quiet and peaceful.
+
+VERDICT: NIGHT

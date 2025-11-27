@@ -1,0 +1,6 @@
+File: 20211121_004750_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains what appears to be sonar pings/sounds. During the "NIGHT" behavior state, dolphins reduce activity. These sounds may be from the research equipment used to observe.
+
+VERDICT: NIGHT

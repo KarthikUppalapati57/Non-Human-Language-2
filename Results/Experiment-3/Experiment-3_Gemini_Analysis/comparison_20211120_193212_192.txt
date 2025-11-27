@@ -1,0 +1,6 @@
+File: 20211120_193212_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of water movement, bubbles, and occasional vocalizations resembling snoring or low-frequency grunts. These sounds are indicative of resting marine mammals in a quiet environment.
+
+VERDICT: NIGHT

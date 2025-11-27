@@ -1,0 +1,6 @@
+File: 20211120_162650_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds consistent with training activities, specifically sounds suggesting the movement and interaction within a pool or training area.
+
+VERDICT: ORD

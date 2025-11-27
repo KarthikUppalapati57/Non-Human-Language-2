@@ -1,0 +1,6 @@
+File: 20211121_024303_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds suggestive of cetacean activity, specifically repetitive clicking sounds. Based on these clicks and their relatively slow repetition rate, this is likely nocturnal echolocation for navigation and awareness.
+
+VERDICT: NIGHT

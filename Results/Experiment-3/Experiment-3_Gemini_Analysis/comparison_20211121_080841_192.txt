@@ -1,0 +1,6 @@
+File: 20211121_080841_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of splashing and playful vocalizations like whistling, indicative of playful behavior.
+
+VERDICT: PLAY

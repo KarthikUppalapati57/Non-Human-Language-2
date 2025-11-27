@@ -1,0 +1,6 @@
+File: 20211120_134131_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, there are minimal sounds present, mostly the gentle sound of water and some faint clicks. There's no clear indication of feeding, training, playing, or any distinct activity. The audio is very quiet and suggestive of a resting state.
+
+VERDICT: NIGHT

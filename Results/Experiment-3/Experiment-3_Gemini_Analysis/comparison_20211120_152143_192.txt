@@ -1,0 +1,5 @@
+File: 20211120_152143_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds of orcas making clicks and whistles, indicative of communication and echolocation, which is a part of training.
+VERDICT: ORD

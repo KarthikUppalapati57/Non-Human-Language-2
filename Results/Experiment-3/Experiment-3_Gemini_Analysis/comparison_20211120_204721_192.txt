@@ -1,0 +1,6 @@
+File: 20211120_204721_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio indicates a resting or sleep state with minimal activity. The breathing and occasional subtle sounds suggest a quiet environment.
+
+VERDICT: NIGHT

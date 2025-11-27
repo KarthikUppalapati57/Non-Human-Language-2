@@ -1,0 +1,6 @@
+File: 20211121_081341_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio sounds quiet, with faint vocalizations and some water movement. There are no clear sounds indicating feeding, training, or playing. It is more consistent with sleeping or resting.
+
+VERDICT: NIGHT

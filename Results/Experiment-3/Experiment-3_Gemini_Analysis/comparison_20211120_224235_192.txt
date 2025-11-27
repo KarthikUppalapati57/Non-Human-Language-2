@@ -1,0 +1,4 @@
+File: 20211120_224235_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The sounds in the audio seem to be consistent with sleep or resting behavior. VERDICT: NIGHT

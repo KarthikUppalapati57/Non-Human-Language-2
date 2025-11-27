@@ -1,0 +1,6 @@
+File: 20211121_063329_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of marine mammal vocalizations and general ocean ambient sounds. The vocalizations are continuous and present throughout the recording. This doesn't align with a quiet nighttime environment. It sounds like they are playing.
+
+VERDICT: PLAY

@@ -1,0 +1,6 @@
+File: 20211120_122623_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio mainly contains sounds of water movement, splashing, and vocalizations that sound like training exercises, like commands being given.
+
+VERDICT: ORD

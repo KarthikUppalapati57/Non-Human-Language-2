@@ -1,0 +1,6 @@
+File: 20211121_073837_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio predominantly features sounds associated with feeding, like the seal swallowing and vocalizing during mealtimes.
+
+VERDICT: FFR

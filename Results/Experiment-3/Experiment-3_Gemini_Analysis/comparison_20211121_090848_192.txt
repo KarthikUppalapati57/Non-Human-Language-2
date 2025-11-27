@@ -1,0 +1,6 @@
+File: 20211121_090848_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of splashing, animal vocalizations that seem like squeaks and grunts, and general movement within water. This sounds like playful behavior and potential feeding in the water.
+
+VERDICT: PLAY

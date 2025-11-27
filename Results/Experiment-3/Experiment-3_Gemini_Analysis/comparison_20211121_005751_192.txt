@@ -1,0 +1,6 @@
+File: 20211121_005751_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio predominantly features sounds of general marine life and movement which are consistent with underwater recordings taken during sleep or rest periods. The environment sounds relatively calm.
+
+VERDICT: NIGHT

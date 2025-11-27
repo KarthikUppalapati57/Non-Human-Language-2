@@ -1,0 +1,6 @@
+File: 20211121_092349_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of what appears to be an odontocete species, specifically repetitive clicks associated with echolocation. Analyzing the sound, there's no prominent feeding, training or playing. The sound occurs in a seemingly ambient, constant rate, which could suggest a night situation.
+
+VERDICT: NIGHT

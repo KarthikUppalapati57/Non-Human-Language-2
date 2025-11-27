@@ -1,0 +1,5 @@
+File: 20211120_124625_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio appears to contain vocalizations associated with training.
+VERDICT: ORD

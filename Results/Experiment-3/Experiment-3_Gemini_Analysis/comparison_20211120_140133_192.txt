@@ -1,0 +1,5 @@
+File: 20211120_140133_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily features the sound of circulating water, consistent with an aquarium environment, but it's calm. There's no evidence of feeding, training, or playing. It's most likely the fish are resting.
+VERDICT: NIGHT

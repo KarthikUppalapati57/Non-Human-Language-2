@@ -1,0 +1,6 @@
+File: 20211120_232240_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio seems to consist of very faint sounds, mostly low-frequency rumbles and occasional clicks or short bursts of noise. There's no distinct vocalization or identifiable activity sounds that clearly indicate feeding, training, or playing. The sounds suggest a quiet environment, consistent with resting behavior.
+
+VERDICT: NIGHT

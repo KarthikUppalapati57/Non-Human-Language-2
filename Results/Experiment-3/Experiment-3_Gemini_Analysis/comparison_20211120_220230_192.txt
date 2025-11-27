@@ -1,0 +1,6 @@
+File: 20211120_220230_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio suggests the presence of sleep-related sounds, possibly quiet vocalizations.
+
+VERDICT: NIGHT

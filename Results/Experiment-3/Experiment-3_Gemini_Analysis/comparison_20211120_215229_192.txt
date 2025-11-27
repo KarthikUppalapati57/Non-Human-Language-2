@@ -1,0 +1,6 @@
+File: 20211120_215229_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds consistent with dolphin sleep, with periods of inactivity and what sounds like slow breathing. HuBERT prediction is correct.
+
+VERDICT: NIGHT

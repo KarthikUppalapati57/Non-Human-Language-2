@@ -1,0 +1,6 @@
+File: 20211120_175701_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio predominantly contains sounds of animal respirations (breathing, huffing, puffing) and light clicking noises. Although I cannot confirm the acoustic model as NIGHT with only this input, there aren't sounds of eating, active training or playful behaviour; therefore, it sounds like they are resting/sleeping.
+
+VERDICT: NIGHT

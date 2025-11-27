@@ -1,0 +1,5 @@
+File: 20211120_231238_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The predominant sound is the low hum of boat machinery, but there are some faint whistles mixed in. Considering the background noise and faint vocalizations, it is more likely that they are trying to sleep.
+VERDICT: NIGHT

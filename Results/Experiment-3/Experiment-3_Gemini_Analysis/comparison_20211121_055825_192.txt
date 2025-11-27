@@ -1,0 +1,5 @@
+File: 20211121_055825_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio clearly captures sounds of the marine animals sleeping, which coincides with the description of NIGHT.
+VERDICT: NIGHT

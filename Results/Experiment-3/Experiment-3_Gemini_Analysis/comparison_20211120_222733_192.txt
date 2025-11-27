@@ -1,0 +1,6 @@
+File: 20211120_222733_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio seems to contain background static and sounds consistent with marine mammal activity, specifically what sounds like breathing and perhaps some low-frequency vocalizations. Given the context provided, this aligns more with the sleep state rather than active feeding, training or playing.
+
+VERDICT: NIGHT

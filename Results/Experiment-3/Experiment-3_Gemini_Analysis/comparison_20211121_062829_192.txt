@@ -1,0 +1,6 @@
+File: 20211121_062829_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of marine mammals, primarily vocalizations suggesting social interaction. The activity doesn't directly point to sleep.
+
+VERDICT: PLAY

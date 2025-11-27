@@ -1,0 +1,6 @@
+File: 20211120_205722_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio predominantly features dolphin whistles and clicks.  Based on the quiet and sustained nature of the sounds, the context of sleep seems most appropriate.
+
+VERDICT: NIGHT

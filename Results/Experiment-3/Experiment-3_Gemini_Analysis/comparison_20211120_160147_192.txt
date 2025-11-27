@@ -1,0 +1,5 @@
+File: 20211120_160147_192.wav
+HuBERT Prediction: FFR
+------------------------------
+The audio clearly features sounds of marine animals feeding, specifically, I can hear vocalizations consistent with the animals' feeding. 
+VERDICT: FFR

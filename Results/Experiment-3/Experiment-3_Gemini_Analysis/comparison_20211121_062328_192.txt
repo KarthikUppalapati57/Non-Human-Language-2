@@ -1,0 +1,6 @@
+File: 20211121_062328_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds associated with activity and some vocalizations. Based on the context provided, I believe it aligns more with PLAY than sleep.
+
+VERDICT: PLAY

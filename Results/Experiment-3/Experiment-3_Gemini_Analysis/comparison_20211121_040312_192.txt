@@ -1,0 +1,6 @@
+File: 20211121_040312_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio presents a soundscape primarily dominated by consistent bubbling and gurgling sounds characteristic of an aquarium environment. These sounds could be related to aeration or water filtration systems. There isn't any pronounced vocalizations.
+
+VERDICT: NIGHT

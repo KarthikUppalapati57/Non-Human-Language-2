@@ -1,0 +1,6 @@
+File: 20211121_091849_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily features sounds like snoring and soft vocalizations, consistent with dolphins sleeping.
+
+VERDICT: NIGHT

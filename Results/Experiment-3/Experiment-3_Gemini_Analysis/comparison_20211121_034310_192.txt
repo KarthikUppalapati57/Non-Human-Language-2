@@ -1,0 +1,6 @@
+File: 20211121_034310_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains the sound of water, and potentially some very quiet animal sounds. It's difficult to ascertain the precise activity, but it's most likely that the animals are resting, so I agree with HuBERT's prediction.
+
+VERDICT: NIGHT

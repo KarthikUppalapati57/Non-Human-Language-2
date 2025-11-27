@@ -1,0 +1,5 @@
+File: 20211121_061828_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio exhibits sounds consistent with cetacean clicking and whistling, though quiet. Context and the presence of faint sounds suggests cetacean sleep.
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211121_011253_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of a foghorn. Based on the context provided, foghorns are generally used during low visibility conditions, which are more likely to occur at night.
+
+VERDICT: NIGHT

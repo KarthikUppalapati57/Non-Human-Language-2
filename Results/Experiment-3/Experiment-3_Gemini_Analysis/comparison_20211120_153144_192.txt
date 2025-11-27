@@ -1,0 +1,6 @@
+File: 20211120_153144_192.wav
+HuBERT Prediction: PLAY
+------------------------------
+The audio contains sounds of marine mammals vocalizing, including what appears to be distress calls or general communication noises. They are very active in the water.
+
+VERDICT: PLAY

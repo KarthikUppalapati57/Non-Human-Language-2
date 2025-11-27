@@ -1,0 +1,5 @@
+File: 20211120_132129_192.wav
+HuBERT Prediction: FFR
+------------------------------
+The audio contains sounds of animals feeding, including chewing and other associated noises.
+VERDICT: FFR

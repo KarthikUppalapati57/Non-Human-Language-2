@@ -1,0 +1,5 @@
+File: 20211121_094604_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio suggests the presence of playful behavior within the marine environment. There are distinct sounds of splashing, movement, and possibly vocalizations that are more indicative of active interaction than resting or other contexts.
+VERDICT: PLAY

@@ -1,0 +1,5 @@
+File: 20211120_132629_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains the distinct sound of Orcas in what appears to be an Orca echolocation click, similar to communication or training activity. Therefore, the Orca clicks match HuBERT prediction of "ORD".
+VERDICT: ORD

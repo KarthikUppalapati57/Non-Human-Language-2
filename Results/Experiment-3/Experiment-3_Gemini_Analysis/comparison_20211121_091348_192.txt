@@ -1,0 +1,6 @@
+File: 20211121_091348_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains high-pitched whistles, cries, and general vocalizations that seem indicative of play behavior.
+
+VERDICT: PLAY

@@ -1,0 +1,6 @@
+File: 20211121_034811_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio presents a nighttime ambience. I can hear the sounds of water, presumably waves, and some low-level noises that could be associated with marine life during nocturnal hours. It definitely aligns with the context of "NIGHT" indicating sleep.
+
+VERDICT: NIGHT

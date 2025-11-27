@@ -1,0 +1,6 @@
+File: 20211120_211224_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The predominant sound is consistent with a sleeping animal, characterized by soft, rhythmic breathing.
+
+VERDICT: NIGHT

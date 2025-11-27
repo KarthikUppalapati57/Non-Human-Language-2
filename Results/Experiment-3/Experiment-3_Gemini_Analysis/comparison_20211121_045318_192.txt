@@ -1,0 +1,6 @@
+File: 20211121_045318_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds consistent with marine mammal activity, specifically rhythmic, almost pulsed sounds. Given the context of these sounds occurring during the night, it's difficult to distinguish them clearly as definitively feeding or playing. Based on this evidence and the understanding that marine mammals can still be somewhat active during periods of sleep, it is challenging to assign a very strong confidence level.
+
+VERDICT: NIGHT

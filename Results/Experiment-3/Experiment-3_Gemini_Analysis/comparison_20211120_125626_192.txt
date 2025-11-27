@@ -1,0 +1,6 @@
+File: 20211120_125626_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds of what seem to be marine mammals, and vocalizations. These sounds could possibly be associated with either feeding or training activities. Given the provided context, the Hubert prediction and the sounds in the audio seem to align with the Training class.
+
+VERDICT: ORD

@@ -1,0 +1,6 @@
+File: 20211121_071835_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of playful interaction including possible nipping noises. This suggests playful activity among the animals.
+
+VERDICT: PLAY

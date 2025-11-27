@@ -1,0 +1,6 @@
+File: 20211120_211725_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The sounds indicate a quiet environment, with potential soft vocalizations and breathing. The context provided suggests that this could be a period of rest or sleep.
+
+VERDICT: NIGHT

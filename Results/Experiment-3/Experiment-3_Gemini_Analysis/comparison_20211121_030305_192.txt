@@ -1,0 +1,6 @@
+File: 20211121_030305_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds consistent with a sleeping environment, including quiet ambient noises and subtle movements.
+
+VERDICT: NIGHT

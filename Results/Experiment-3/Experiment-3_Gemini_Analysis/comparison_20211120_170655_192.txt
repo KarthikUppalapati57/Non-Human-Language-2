@@ -1,0 +1,6 @@
+File: 20211120_170655_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of whale vocalizations that sound more like communication or interaction than sleep. There are a variety of clicks and calls.
+
+VERDICT: PLAY

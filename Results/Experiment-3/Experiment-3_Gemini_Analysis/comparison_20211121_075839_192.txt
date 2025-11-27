@@ -1,0 +1,6 @@
+File: 20211121_075839_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+This audio definitely has sounds indicative of a nighttime activity, possibly sleep. Lots of quiet breaths and other subtle noises. HuBERT appears correct.
+
+VERDICT: NIGHT

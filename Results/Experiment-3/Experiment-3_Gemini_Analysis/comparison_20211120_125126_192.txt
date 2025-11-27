@@ -1,0 +1,6 @@
+File: 20211120_125126_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains various sounds, including whistles, squeaks, and clicks. The whistles and squeaks seem to be associated with vocalizations, possibly distressed. The clicks could be related to echolocation, but also possibly part of the training. I can clearly hear vocalizations consistent with animal training.
+
+VERDICT: ORD

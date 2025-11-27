@@ -1,0 +1,5 @@
+File: 20211121_050319_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio has sounds of bubble production from the animal and some quiet humming. These sounds correlate with the animals sleeping.
+VERDICT: NIGHT

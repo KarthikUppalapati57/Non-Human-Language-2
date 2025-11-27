@@ -1,0 +1,6 @@
+File: 20211120_105112_192.wav
+HuBERT Prediction: ORD
+------------------------------
+Based on the audio, I hear sounds consistent with orca activity, including vocalizations and possible movement related to training or communication. HuBERT said ORD, which matches the context.
+
+VERDICT: ORD

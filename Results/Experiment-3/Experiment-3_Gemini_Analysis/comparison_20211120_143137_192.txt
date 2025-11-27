@@ -1,0 +1,6 @@
+File: 20211120_143137_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio suggests playful activity, specifically relating to interaction with objects, possibly toys, and the animal making playful sounds.
+
+VERDICT: PLAY

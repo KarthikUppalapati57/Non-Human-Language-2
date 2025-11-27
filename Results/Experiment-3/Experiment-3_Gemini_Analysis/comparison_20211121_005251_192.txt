@@ -1,0 +1,6 @@
+File: 20211121_005251_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio presents a distinct ambient soundscape of marine environment. Listening to the audio carefully, I notice only subtle background noise, but no distinct active behavioral sounds.
+
+VERDICT: NIGHT

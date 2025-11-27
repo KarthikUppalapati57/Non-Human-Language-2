@@ -1,0 +1,6 @@
+File: 20211121_025304_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily contains sounds characteristic of sleep: gentle snoring and occasional movements. The ambiance suggests a resting period.
+
+VERDICT: NIGHT

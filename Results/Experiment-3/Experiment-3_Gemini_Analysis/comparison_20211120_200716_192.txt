@@ -1,0 +1,6 @@
+File: 20211120_200716_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio appears to be a recording of fish sounds in what seems to be a quite environment, possibly with limited activity. The sounds are subtle, but generally sound like regular swimming.
+
+VERDICT: NIGHT

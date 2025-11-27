@@ -1,0 +1,5 @@
+File: 20211120_213727_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The predominant sound is the distinct clicking vocalizations of dolphins. These sounds don't appear associated with feeding or training. Instead, they indicate social interaction. Although the context doesn't precisely align with socialising, the acoustic properties point towards playing/interaction.
+VERDICT: PLAY

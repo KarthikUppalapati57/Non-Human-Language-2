@@ -1,0 +1,6 @@
+File: 20211121_051821_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, it sounds like the seals are feeding.
+
+VERDICT: FFR

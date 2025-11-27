@@ -1,0 +1,6 @@
+File: 20211120_234242_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds consistent with marine mammal vocalizations, and minimal activity. They seem to be resting.
+
+VERDICT: NIGHT

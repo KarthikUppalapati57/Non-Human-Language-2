@@ -1,0 +1,6 @@
+File: 20211120_220731_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+There are sounds suggesting deep sleep, possibly snoring.
+
+VERDICT: NIGHT

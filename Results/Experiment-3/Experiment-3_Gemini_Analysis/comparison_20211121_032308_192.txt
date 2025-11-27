@@ -1,0 +1,6 @@
+File: 20211121_032308_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the sounds, this indeed appears to be a period of relative quiet and rest.
+
+VERDICT: NIGHT

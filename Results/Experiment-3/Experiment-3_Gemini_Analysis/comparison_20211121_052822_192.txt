@@ -1,0 +1,5 @@
+File: 20211121_052822_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains a lot of vocalizations of marine mammals, specifically distressed sounds and general communication. This is highly indicative of feeding behavior, possibly with some playful interactions mixed in. 
+VERDICT: FFR

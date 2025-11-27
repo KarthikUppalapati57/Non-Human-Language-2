@@ -1,0 +1,6 @@
+File: 20211121_044817_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily consists of clicking sounds, characteristic of cetacean echolocation. Given the context provided (FFR, ORD, PLAY, NIGHT), and the nature of the clicks, it is consistent with active cetacean behavior rather than inactivity associated with nighttime sleep.
+
+VERDICT: FFR

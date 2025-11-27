@@ -1,0 +1,6 @@
+File: 20211120_151142_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio clearly indicates training activity, specifically ORD, as the sound depicts dolphins performing actions potentially for a reward or learning a new skill. The sounds align with directed behaviours or exercises.
+
+VERDICT: ORD

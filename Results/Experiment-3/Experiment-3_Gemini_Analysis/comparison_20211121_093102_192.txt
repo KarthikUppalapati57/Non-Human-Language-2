@@ -1,0 +1,6 @@
+File: 20211121_093102_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains distinct otter vocalizations, specifically sounds indicative of active play.
+
+VERDICT: PLAY

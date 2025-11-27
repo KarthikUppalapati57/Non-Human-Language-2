@@ -1,0 +1,6 @@
+File: 20211120_222232_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio presents a low hum and crackling sounds with minimal activity. The pattern matches their typical resting behavior with their echolocation clicks being much softer.
+
+VERDICT: NIGHT

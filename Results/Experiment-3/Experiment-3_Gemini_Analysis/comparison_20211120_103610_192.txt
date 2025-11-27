@@ -1,0 +1,6 @@
+File: 20211120_103610_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds consistent with Orca training sessions, including vocalizations possibly used as cues or reinforcements, splashes, and general sounds of activity related to instruction and learning.
+
+VERDICT: ORD

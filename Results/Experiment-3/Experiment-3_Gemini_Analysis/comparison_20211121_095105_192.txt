@@ -1,0 +1,6 @@
+File: 20211121_095105_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio seems to be showing signs of resting, with some occasional low-level movements. These sounds do not suggest active feeding, training, or playing.
+
+VERDICT: NIGHT

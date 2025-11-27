@@ -1,0 +1,6 @@
+File: 20211121_084845_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains various whale sounds, some of which resemble quiet vocalizations and clicking sounds. Given the quiet nature and the types of sounds present, it suggests the whales are likely resting or engaging in minimal activity. 
+
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211120_224735_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds that are consistent with nighttime underwater recordings, which include various low-frequency biological noises and a general quiet ambience. It aligns with the typical soundscape of a marine environment during sleep patterns.
+
+VERDICT: NIGHT

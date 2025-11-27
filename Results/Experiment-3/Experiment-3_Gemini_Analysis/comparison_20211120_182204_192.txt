@@ -1,0 +1,5 @@
+File: 20211120_182204_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio predominantly features sounds consistent with underwater activity, notably respiration sounds of cetaceans and general underwater ambience. It sounds like orcas resting underwater.
+VERDICT: NIGHT

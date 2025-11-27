@@ -1,0 +1,6 @@
+File: 20211120_225236_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily contains sounds of breathing, and some faint gurgling sounds that could be digestion related. There is no distinct sound of feeding or any active behaviour suggesting activity.
+
+VERDICT: NIGHT

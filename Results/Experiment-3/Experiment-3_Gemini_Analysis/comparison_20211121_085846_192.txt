@@ -1,0 +1,6 @@
+File: 20211121_085846_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains a lot of dolphin vocalizations, including whistles and clicks. It sounds consistent with dolphins interacting and vocalizing amongst themselves, but it's unclear what specific behavior is taking place. Considering the overall activity level in the audio, it doesn't particularly lean towards a resting or "NIGHT" behavior. It sounds more like active interaction.
+
+VERDICT: PLAY

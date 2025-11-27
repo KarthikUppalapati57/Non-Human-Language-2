@@ -1,0 +1,6 @@
+File: 20211120_194213_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio has a repetitive, consistent sound, similar to the sounds of a pump. I do not hear sounds characteristic of feeding, training or playing. This would be consistent with routine operation during the night.
+
+VERDICT: NIGHT

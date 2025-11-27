@@ -1,0 +1,4 @@
+File: 20211121_015258_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+There are no distinct vocalizations heard. Only sounds of the aquatic environment. VERDICT: NIGHT

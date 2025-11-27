@@ -1,0 +1,6 @@
+File: 20211120_205222_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio predominantly contains sounds indicative of whales sleeping - long, low moans and subtle clicks. HuBERT's prediction is aligned with this acoustic evidence.
+
+VERDICT: NIGHT

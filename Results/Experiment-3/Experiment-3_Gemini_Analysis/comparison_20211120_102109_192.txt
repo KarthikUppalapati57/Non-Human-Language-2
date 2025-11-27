@@ -1,0 +1,5 @@
+File: 20211120_102109_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The sounds indicate movement in water, splashing, and what sounds like some vocalizations. It appears like training with splashing water and movement.
+VERDICT: ORD

@@ -1,0 +1,6 @@
+File: 20211121_085346_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains a lot of vocalizations, including whimpers and what sounds like distress calls. This wouldn't be typical of the "NIGHT" context, but sounds more like training or some kind of mild distress. So it could be "ORD".
+
+VERDICT: ORD

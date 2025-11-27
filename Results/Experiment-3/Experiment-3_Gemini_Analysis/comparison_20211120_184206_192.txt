@@ -1,0 +1,6 @@
+File: 20211120_184206_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds indicative of sleep, including snores and the general quietness associated with resting.  HuBERT's prediction of "NIGHT" aligns well with these acoustic cues.
+
+VERDICT: NIGHT

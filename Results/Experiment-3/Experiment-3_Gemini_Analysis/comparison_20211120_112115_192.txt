@@ -1,0 +1,5 @@
+File: 20211120_112115_192.wav
+HuBERT Prediction: ORD
+------------------------------
+Based on the audio, I can clearly hear the sound of an orca vocalizing, specifically sounds related to training.
+VERDICT: ORD

@@ -1,0 +1,6 @@
+File: 20211121_012755_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio sounds like a motor running, likely from a pump or filtration system which is commonly active during the night for maintaining water quality.
+
+VERDICT: NIGHT

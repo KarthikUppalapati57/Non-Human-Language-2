@@ -1,0 +1,6 @@
+File: 20211120_142636_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily contains sounds associated with marine life, predominantly characterized by their breathing patterns. There is ambient sound too, but the primary focus of the audio falls in line with the resting period for the animals.
+
+VERDICT: NIGHT

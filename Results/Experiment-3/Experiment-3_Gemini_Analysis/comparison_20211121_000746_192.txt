@@ -1,0 +1,6 @@
+File: 20211121_000746_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of splashing, movement in water, and possible vocalizations. It sounds like the animals are actively moving around in the water.
+
+VERDICT: PLAY

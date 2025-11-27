@@ -1,0 +1,5 @@
+File: 20211120_114618_192.wav
+HuBERT Prediction: ORD
+------------------------------
+Based on the audio, I can hear what sounds like a whale, specifically sounds like moaning. Given the context, I will have to classify this sound as ORD.
+VERDICT: ORD

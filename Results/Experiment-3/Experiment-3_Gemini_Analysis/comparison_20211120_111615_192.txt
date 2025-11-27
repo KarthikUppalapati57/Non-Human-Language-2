@@ -1,0 +1,5 @@
+File: 20211120_111615_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio primarily features the distinct sounds of orcas. Based on the context of the provided classifications, it sounds like they are producing patterned vocalizations likely for communication or some type of echo response.
+VERDICT: ORD

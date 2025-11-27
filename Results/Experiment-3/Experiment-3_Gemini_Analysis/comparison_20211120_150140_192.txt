@@ -1,0 +1,6 @@
+File: 20211120_150140_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio clearly has vocalizations associated with Orca pods, specifically the sounds that are associated with socialization and echolocation clicks that indicate their orientation and interaction with each other. Given the sounds and the context, the whales sound like they are being trained, and therefore interacting to accomplish set tasks in order to receive some form of reward.
+
+VERDICT: ORD

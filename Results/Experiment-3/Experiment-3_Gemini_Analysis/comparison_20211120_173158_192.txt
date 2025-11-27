@@ -1,0 +1,5 @@
+File: 20211120_173158_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily consists of sounds suggesting a marine mammal is resting or sleeping, with intermittent sounds like breathing and gentle movements. 
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211120_190709_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+There are some sounds of movement and breathing present, along with some water gurgling and bubbling noises.  It sounds like a marine mammal is resting, or perhaps even sleeping.
+
+VERDICT: NIGHT

@@ -1,0 +1,5 @@
+File: 20211121_031307_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds suggestive of cetacean activity, characterized by whistles and vocalizations, which align with sleeping behavior during the night.
+VERDICT: NIGHT

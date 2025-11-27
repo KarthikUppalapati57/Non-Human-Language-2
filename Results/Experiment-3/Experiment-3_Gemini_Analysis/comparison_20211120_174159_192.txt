@@ -1,0 +1,6 @@
+File: 20211120_174159_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio appears to contain primarily sounds consistent with whale vocalizations and general ambient ocean noise. Although there is no clear indication of specific activities such as feeding, training, or playing, the overall acoustic environment suggests a resting or sleep period.
+
+VERDICT: NIGHT

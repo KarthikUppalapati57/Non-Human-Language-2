@@ -1,0 +1,5 @@
+File: 20211121_010753_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio predominantly consists of clicks, with a repetitive and patterned nature that aligns with sleeping patterns. 
+VERDICT: NIGHT

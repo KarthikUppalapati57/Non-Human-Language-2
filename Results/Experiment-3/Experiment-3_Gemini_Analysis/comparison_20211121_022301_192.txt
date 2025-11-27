@@ -1,0 +1,6 @@
+File: 20211121_022301_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds characteristic of whale activity, including what seems like vocalizations and general movement, but it is very subdued, almost as if the whales are at rest. This aligns with what might be expected during sleep.
+
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211121_033309_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio sounds like the consistent hum of equipment, potentially indicative of overnight operation.
+
+VERDICT: NIGHT

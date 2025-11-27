@@ -1,0 +1,6 @@
+File: 20211120_223734_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily features the distinct sounds of dolphin echolocation clicks. This activity doesn't clearly fit into Feeding, Training, or Playing. It's more consistent with the dolphin's natural behavior and could happen during any time of day, but due to the lack of other distinct sounds, I can classify the soundscape with minimal noises.
+
+VERDICT: NIGHT

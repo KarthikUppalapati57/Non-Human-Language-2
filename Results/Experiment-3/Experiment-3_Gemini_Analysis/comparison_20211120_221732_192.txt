@@ -1,0 +1,6 @@
+File: 20211120_221732_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+There are faint clicking sounds audible which are consistent with sounds produced during nighttime.
+
+VERDICT: NIGHT

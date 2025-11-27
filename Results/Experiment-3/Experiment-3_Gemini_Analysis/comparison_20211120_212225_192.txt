@@ -1,0 +1,6 @@
+File: 20211120_212225_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, I hear sounds consistent with nocturnal activity. The presence of these underwater sounds, with no vocalizations or specific interactions suggests a resting or sleeping state. 
+
+VERDICT: NIGHT

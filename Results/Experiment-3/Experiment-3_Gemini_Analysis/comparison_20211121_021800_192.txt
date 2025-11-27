@@ -1,0 +1,6 @@
+File: 20211121_021800_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds consistent with general marine activity, without a distinct focus that would strongly indicate feeding, training, or playing. The continuous presence of environmental marine sounds could indicate resting or inactivity, which aligns with sleep.
+
+VERDICT: NIGHT

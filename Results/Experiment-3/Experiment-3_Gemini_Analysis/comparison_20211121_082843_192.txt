@@ -1,0 +1,5 @@
+File: 20211121_082843_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains a low hum and bubbling sounds which are typically associated with aeration and filtration systems used in marine tanks. It also contains some faint vocalizations which sound like clicking noises. This is indicative of normal activity and is not associated with feeding, training, or playing. Instead, it fits best with normal nighttime activity.
+VERDICT: NIGHT

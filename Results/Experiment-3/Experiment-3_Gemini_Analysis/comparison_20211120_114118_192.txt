@@ -1,0 +1,6 @@
+File: 20211120_114118_192.wav
+HuBERT Prediction: ORD
+------------------------------
+Based on the audio, the sound seems consistent with the typical environment during training.
+
+VERDICT: ORD

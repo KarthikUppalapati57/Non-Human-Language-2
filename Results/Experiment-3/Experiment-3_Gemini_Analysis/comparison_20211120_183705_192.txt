@@ -1,0 +1,6 @@
+File: 20211120_183705_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+While there are sounds of activity, most sounds heard sound consistent with sleep.
+
+VERDICT: NIGHT

@@ -1,0 +1,5 @@
+File: 20211121_060326_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The sounds are dominated by whale vocalizations that don't necessarily seem related to sleeping activity. The overall underwater soundscape is not suggestive of a quiet nighttime environment. 
+VERDICT: FFR

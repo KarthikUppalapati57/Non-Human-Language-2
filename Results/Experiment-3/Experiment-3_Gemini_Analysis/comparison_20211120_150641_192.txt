@@ -1,0 +1,5 @@
+File: 20211120_150641_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds of splashing, which seems like training exercises.
+VERDICT: ORD

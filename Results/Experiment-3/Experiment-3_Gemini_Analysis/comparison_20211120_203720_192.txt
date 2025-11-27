@@ -1,0 +1,6 @@
+File: 20211120_203720_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The predominant sound in the audio is of water movement, specifically sounds associated with the night period in aquariums with fish.
+
+VERDICT: NIGHT

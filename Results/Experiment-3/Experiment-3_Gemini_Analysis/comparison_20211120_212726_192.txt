@@ -1,0 +1,6 @@
+File: 20211120_212726_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of echolocation clicks and general ambient noise which is what the animal will use to navigate during sleep.
+
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211120_191210_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the faint, rhythmic clicking and low-level ambient sounds present in the audio, suggestive of vocalizations and quiet activity, it appears consistent with behaviors associated with resting or sleep. It doesn't sound actively like feeding, playing, or training.
+
+VERDICT: NIGHT

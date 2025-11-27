@@ -1,0 +1,6 @@
+File: 20211120_231739_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds that are consistent with biological activity, although identifying a specific behavior is difficult without further context. The HuBERT model identified "NIGHT" which implies a resting or dormant period. The lack of loud or energetic sounds would support a resting state.
+
+VERDICT: NIGHT

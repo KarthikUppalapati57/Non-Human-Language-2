@@ -1,0 +1,4 @@
+File: 20211120_213226_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains the sounds of marine mammals during what seems to be their resting period. VERDICT: NIGHT

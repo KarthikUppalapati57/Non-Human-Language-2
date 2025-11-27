@@ -1,0 +1,6 @@
+File: 20211121_060827_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio features the sounds of water lapping, movement, and potential breathing sounds indicating activity rather than a complete absence of activity which is characteristic of sleep. It is more in line with a feeding context.
+
+VERDICT: FFR

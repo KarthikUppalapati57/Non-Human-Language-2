@@ -1,0 +1,5 @@
+File: 20211121_035812_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio features sounds consistent with nighttime activity, likely the sounds of whales resting and possibly low-level communication.
+VERDICT: NIGHT

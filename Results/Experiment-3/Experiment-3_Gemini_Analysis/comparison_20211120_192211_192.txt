@@ -1,0 +1,6 @@
+File: 20211120_192211_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The predominant sound is of running water, with a distinct presence of marine mammal vocalizations. The activity seems to be driven by the flow of water, and the marine mammals are exhibiting behaviors in response to it. The presence of vocalization suggests interaction or communication within the group.
+
+VERDICT: PLAY

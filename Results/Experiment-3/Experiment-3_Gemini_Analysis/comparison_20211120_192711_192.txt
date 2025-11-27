@@ -1,0 +1,5 @@
+File: 20211120_192711_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio seems to contain a monotonous sound, possibly indicating a period of quiescence, where minimal activity is taking place. Given the context, NIGHT (Sleep) seems plausible. 
+VERDICT: NIGHT

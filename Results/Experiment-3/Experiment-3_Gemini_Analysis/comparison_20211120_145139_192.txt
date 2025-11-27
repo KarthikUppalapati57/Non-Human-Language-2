@@ -1,0 +1,5 @@
+File: 20211120_145139_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio indicates the presence of orcas with sounds characteristic of training behaviors, likely including vocalizations and movements related to learning specific tasks. The sound is consistent with the activity around their training.
+VERDICT: ORD

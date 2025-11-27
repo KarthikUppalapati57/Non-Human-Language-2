@@ -1,0 +1,6 @@
+File: 20211120_111114_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains repetitive knocking sounds, possibly related to training exercises or some form of organized activity.
+
+VERDICT: ORD

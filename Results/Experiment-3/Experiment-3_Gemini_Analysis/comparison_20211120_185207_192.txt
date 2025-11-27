@@ -1,0 +1,5 @@
+File: 20211120_185207_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of water and occasional breaths, indicative of a marine mammal at rest. I agree with the HuBERT model.
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211120_172657_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, there's a lot of movement, some low frequency sounds, and general activity. Not quite the stillness of sleep.
+
+VERDICT: PLAY

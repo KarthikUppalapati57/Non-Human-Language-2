@@ -1,0 +1,6 @@
+File: 20211120_154145_192.wav
+HuBERT Prediction: PLAY
+------------------------------
+The audio contains sounds of marine mammals, specifically playful vocalizations like whistles and clicks, suggesting active behavior. There are also sounds which seems like a pup calling. This aligns with playing activity.
+
+VERDICT: PLAY

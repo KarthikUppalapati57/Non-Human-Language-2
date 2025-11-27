@@ -1,0 +1,6 @@
+File: 20211121_010252_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains distinct clicking sounds, suggesting echolocation activity, which is more aligned with foraging. These sounds don't typically occur during sleep.
+
+VERDICT: FFR

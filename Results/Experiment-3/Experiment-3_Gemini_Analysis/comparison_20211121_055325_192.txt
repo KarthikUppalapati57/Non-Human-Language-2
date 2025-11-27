@@ -1,0 +1,6 @@
+File: 20211121_055325_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily features the sound of water, specifically what seems to be bubbles and perhaps a gentle current. This is consistent with sleep (NIGHT) behavior.
+
+VERDICT: NIGHT

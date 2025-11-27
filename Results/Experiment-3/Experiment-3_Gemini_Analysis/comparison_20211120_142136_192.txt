@@ -1,0 +1,5 @@
+File: 20211120_142136_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The sounds resemble training exercises with vocalizations. 
+VERDICT: ORD

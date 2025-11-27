@@ -1,0 +1,5 @@
+File: 20211120_130127_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds of orcas vocalizing, including what sounds like calls and whistles, which is consistent with training exercises. The orcas are also in a pool-like environment, further suggesting a controlled training environment.
+VERDICT: ORD

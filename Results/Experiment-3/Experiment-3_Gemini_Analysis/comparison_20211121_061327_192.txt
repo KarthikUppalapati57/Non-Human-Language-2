@@ -1,0 +1,6 @@
+File: 20211121_061327_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio suggests rest and quiet activity underwater, including gurgling sounds. This sounds like a 'NIGHT' environment.
+
+VERDICT: NIGHT

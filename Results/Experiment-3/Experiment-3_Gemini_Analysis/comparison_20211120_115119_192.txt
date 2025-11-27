@@ -1,0 +1,6 @@
+File: 20211120_115119_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds of what appears to be orcas in an aquarium, with bubbling sounds, and what seems to be some vocalization, possibly training.
+
+VERDICT: ORD

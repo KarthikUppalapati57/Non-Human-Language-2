@@ -1,0 +1,6 @@
+File: 20211120_133130_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The sounds indicate Orcas communicating, particularly whistling and pulsed calls. Given the context options, this appears to align with training or social interaction. Based on the complexity of the calls, it's more likely that this recording is a form of training.
+
+VERDICT: ORD

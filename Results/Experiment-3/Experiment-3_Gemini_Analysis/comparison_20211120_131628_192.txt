@@ -1,0 +1,5 @@
+File: 20211120_131628_192.wav
+HuBERT Prediction: FFR
+------------------------------
+The audio contains sounds of splashing water and what appears to be the vocalizations of marine mammals, specifically orcas. These sounds are indicative of feeding behavior.
+VERDICT: FFR

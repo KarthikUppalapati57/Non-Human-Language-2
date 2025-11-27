@@ -1,0 +1,6 @@
+File: 20211120_195214_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily features sounds consistent with nighttime acoustic activity in a marine environment, with some clicking sounds, but nothing clearly discernible that would suggest feeding, training or play.
+
+VERDICT: NIGHT

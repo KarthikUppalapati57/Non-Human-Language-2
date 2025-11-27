@@ -1,0 +1,6 @@
+File: 20211120_113617_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio is characterized by distinct training sounds, like clicks and whistles, which suggests controlled interactions. This aligns well with the context of "ORD" (Training).
+
+VERDICT: ORD

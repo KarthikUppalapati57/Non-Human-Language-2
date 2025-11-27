@@ -1,0 +1,6 @@
+File: 20211121_021300_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains the sound of water movement. Considering the context provided, it is more likely to be an activity related to sleeping, with the presence of the bubbles or water flow representing a nighttime environment.
+
+VERDICT: NIGHT

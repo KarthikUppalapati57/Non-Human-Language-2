@@ -1,0 +1,6 @@
+File: 20211121_003249_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds suggestive of a sleeping whale, potentially vocalizations characteristic of a restful state.
+
+VERDICT: NIGHT

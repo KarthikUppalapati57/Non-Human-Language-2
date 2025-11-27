@@ -1,0 +1,6 @@
+File: 20211121_083844_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio clearly features clicking sounds and possible echolocation. This suggests the animal is actively navigating or searching for something, rather than resting.
+
+VERDICT: FFR

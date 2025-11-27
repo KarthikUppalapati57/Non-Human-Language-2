@@ -1,0 +1,6 @@
+File: 20211120_194714_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of dolphins clicking and whistling, which are usually more prominent during active periods like feeding or playing. In this case, the active communication sounds suggest an interactive activity.
+
+VERDICT: PLAY

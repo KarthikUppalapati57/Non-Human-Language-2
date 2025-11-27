@@ -1,0 +1,6 @@
+File: 20211121_100607_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio presents sounds typical of sleep, with occasional snores and general quiet, fitting the 'NIGHT' context.
+
+VERDICT: NIGHT

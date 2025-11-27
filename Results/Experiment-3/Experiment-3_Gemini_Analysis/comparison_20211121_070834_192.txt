@@ -1,0 +1,6 @@
+File: 20211121_070834_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, there seems to be a lot of clicking sounds suggesting echolocation. Also, there are some distinct whistles and vocalizations, which indicates they are actively communicating and possibly feeding.
+
+VERDICT: FFR

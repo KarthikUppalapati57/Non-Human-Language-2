@@ -1,0 +1,5 @@
+File: 20211120_155146_192.wav
+HuBERT Prediction: PLAY
+------------------------------
+The audio contains sounds of animal playing, specifically marine animal.
+VERDICT: PLAY

@@ -1,0 +1,6 @@
+File: 20211121_053323_192.wav
+HuBERT Prediction: FFR
+------------------------------
+Based on the sounds of splashing and vocalizations from the marine mammal, I interpret this as feeding behavior.
+
+VERDICT: FFR

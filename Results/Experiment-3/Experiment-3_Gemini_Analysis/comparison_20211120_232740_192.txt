@@ -1,0 +1,5 @@
+File: 20211120_232740_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of biological activity and faint hums, consistent with a sleeping environment within an aquatic context.
+VERDICT: NIGHT

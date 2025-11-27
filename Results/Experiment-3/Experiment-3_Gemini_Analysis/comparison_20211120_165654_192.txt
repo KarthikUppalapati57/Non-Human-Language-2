@@ -1,0 +1,6 @@
+File: 20211120_165654_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds of splashing and orca vocalizations. The context suggests activities like training or feeding. The distinct orca vocalizations align more closely with activities beyond simple training drills.
+
+VERDICT: ORD

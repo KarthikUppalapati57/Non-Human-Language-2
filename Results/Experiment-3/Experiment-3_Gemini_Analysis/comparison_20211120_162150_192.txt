@@ -1,0 +1,6 @@
+File: 20211120_162150_192.wav
+HuBERT Prediction: FFR
+------------------------------
+Based on the audio, I hear sounds that suggest marine mammals feeding, specifically the sounds associated with a feeding frenzy.
+
+VERDICT: FFR

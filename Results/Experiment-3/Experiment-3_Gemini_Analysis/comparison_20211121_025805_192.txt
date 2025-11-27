@@ -1,0 +1,6 @@
+File: 20211121_025805_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio seems consistent with sounds produced during sleep, with soft, muffled noises and perhaps some low-level ambient sounds that could be typical of a nighttime environment.
+
+VERDICT: NIGHT

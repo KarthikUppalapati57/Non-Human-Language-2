@@ -1,0 +1,6 @@
+File: 20211121_015758_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio appears to be recording underwater with sounds resembling marine mammals. There's no clear indication of feeding, training or playing, just general ambient sounds consistent with sleep or rest.
+
+VERDICT: NIGHT

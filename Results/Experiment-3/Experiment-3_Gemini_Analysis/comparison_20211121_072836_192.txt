@@ -1,0 +1,6 @@
+File: 20211121_072836_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio suggests the presence of marine mammal sounds, specifically those of walruses. The sounds seem to be a combination of vocalizations and other noises related to their behavior. These sounds do not seem to directly correlate with sleep, as there is a level of activity. Therefore, based on the context provided, the audio indicates activities other than sleep.
+
+VERDICT: PLAY

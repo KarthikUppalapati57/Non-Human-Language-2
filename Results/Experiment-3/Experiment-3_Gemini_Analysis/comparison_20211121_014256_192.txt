@@ -1,0 +1,5 @@
+File: 20211121_014256_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio presents sounds consistent with biological activity at night. There are no distinct sounds that suggest feeding, training, or playing activity. 
+VERDICT: NIGHT

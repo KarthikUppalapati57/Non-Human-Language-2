@@ -1,0 +1,6 @@
+File: 20211120_185708_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily features the sounds of the ocean and marine life. There is minimal distinct activity suggesting Feeding, Training, or Playing. Therefore it aligns with resting.
+
+VERDICT: NIGHT

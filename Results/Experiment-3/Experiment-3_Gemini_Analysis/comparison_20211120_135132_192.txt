@@ -1,0 +1,5 @@
+File: 20211120_135132_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the sound of flowing water and the sounds typically associated with the animals at rest, I concur with HuBERT. 
+VERDICT: NIGHT

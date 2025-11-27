@@ -1,0 +1,6 @@
+File: 20211121_065332_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of bubbling and gurgling, and potentially some clicking, indicative of feeding behavior.
+
+VERDICT: FFR

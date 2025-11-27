@@ -1,0 +1,5 @@
+File: 20211120_104111_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds of splashing and animal vocalizations that are indicative of training exercises. 
+VERDICT: ORD

@@ -1,0 +1,5 @@
+File: 20211120_223234_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The sounds are consistent with sleep vocalisations, low activity, and the overall acoustic profile associated with periods of rest in marine mammals.
+VERDICT: NIGHT

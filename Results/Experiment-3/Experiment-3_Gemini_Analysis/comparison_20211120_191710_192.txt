@@ -1,0 +1,6 @@
+File: 20211120_191710_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The predominant sound is whale song, specifically the kind that male humpback whales produce during their breeding season. There is some ambient water noise, but the main focus of the audio is the structured song. While the audio doesn't give a direct indication of the specific behavior it relates to, it is primarily observed during sleep.
+
+VERDICT: NIGHT

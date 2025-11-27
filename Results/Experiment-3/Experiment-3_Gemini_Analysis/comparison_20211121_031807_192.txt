@@ -1,0 +1,5 @@
+File: 20211121_031807_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio seems to consist of ambient noise with occasional low-frequency rumbles and some possible low-level vocalizations or subtle movement sounds. While there is no obvious or distinct activity, it is more consistent with a low-activity resting period. 
+VERDICT: NIGHT

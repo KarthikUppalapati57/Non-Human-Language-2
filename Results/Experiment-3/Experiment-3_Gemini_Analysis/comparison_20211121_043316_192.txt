@@ -1,0 +1,6 @@
+File: 20211121_043316_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The sounds indicate activity consistent with foraging or feeding, the presence of the fish indicates hunger.
+
+VERDICT: FFR

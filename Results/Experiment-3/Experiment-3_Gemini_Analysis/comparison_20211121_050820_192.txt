@@ -1,0 +1,6 @@
+File: 20211121_050820_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio appears to primarily capture feeding sounds (FFR). I can hear clicks and associated noises indicative of odontocete feeding behavior.
+
+VERDICT: FFR

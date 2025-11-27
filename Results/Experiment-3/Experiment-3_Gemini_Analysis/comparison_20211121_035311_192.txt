@@ -1,0 +1,6 @@
+File: 20211121_035311_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of dolphin echolocation and vocalizations, and there appears to be movement. However, this acoustic profile leans more towards active interaction than complete rest.
+
+VERDICT: PLAY

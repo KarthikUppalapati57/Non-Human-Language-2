@@ -1,0 +1,6 @@
+File: 20211120_174700_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, it sounds like there is some general ambient noise and some faint animal sounds that could be indicative of a sleeping environment, but it's hard to say definitively.
+
+VERDICT: NIGHT

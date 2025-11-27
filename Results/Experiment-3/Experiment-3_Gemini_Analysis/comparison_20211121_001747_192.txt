@@ -1,0 +1,5 @@
+File: 20211121_001747_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains the rhythmic clicking sounds, indicative of cetacean vocalizations during sleep.
+VERDICT: NIGHT

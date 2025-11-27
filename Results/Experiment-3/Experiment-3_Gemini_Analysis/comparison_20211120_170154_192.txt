@@ -1,0 +1,5 @@
+File: 20211120_170154_192.wav
+HuBERT Prediction: ORD
+------------------------------
+Based on the audio, I hear repetitive echolocation clicks which would imply the whale is training.
+VERDICT: ORD

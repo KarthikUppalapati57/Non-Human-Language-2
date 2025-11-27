@@ -1,0 +1,6 @@
+File: 20211120_163651_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio primarily contains sounds of marine mammals interacting in what sounds like an enclosure. I can hear vocalizations that seem to coincide with movement in the water, consistent with training exercises or planned activities.
+
+VERDICT: ORD

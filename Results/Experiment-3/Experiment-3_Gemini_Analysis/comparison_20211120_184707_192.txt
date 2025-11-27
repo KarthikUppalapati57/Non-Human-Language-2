@@ -1,0 +1,6 @@
+File: 20211120_184707_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains repetitive, low frequency sounds, which could be associated with resting or slight movement during sleep.
+
+VERDICT: NIGHT

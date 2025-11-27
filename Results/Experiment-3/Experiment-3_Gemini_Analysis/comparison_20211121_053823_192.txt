@@ -1,0 +1,6 @@
+File: 20211121_053823_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio indicates the presence of marine mammal sounds, including vocalizations like grunts and moans.  The overall soundscape suggests reduced activity and more quiet, which is consistent with a resting phase.
+
+VERDICT: NIGHT

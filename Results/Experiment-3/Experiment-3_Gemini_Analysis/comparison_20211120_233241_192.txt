@@ -1,0 +1,6 @@
+File: 20211120_233241_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio suggests a period of calm interspersed with what sounds like possible vocalizations, but the overall context leans towards a resting or sleeping phase.
+
+VERDICT: NIGHT

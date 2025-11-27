@@ -1,0 +1,5 @@
+File: 20211121_054824_192.wav
+HuBERT Prediction: FFR
+------------------------------
+The audio contains sounds indicative of marine mammals, specifically seals, vocalizing. These vocalizations, characterized by grunts and snorts, are consistent with feeding sounds.
+VERDICT: FFR

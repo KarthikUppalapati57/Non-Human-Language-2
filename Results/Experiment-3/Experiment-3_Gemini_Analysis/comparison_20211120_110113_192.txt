@@ -1,0 +1,6 @@
+File: 20211120_110113_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds of movement in water, possibly related to training exercises or general activity. HuBERT predicted ORD which stands for Training.
+
+VERDICT: ORD

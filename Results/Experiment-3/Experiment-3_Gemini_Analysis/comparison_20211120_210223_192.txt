@@ -1,0 +1,6 @@
+File: 20211120_210223_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio presents a quiet environment with some sounds of marine mammals vocalizing, notably clicks and whistles. The sounds resemble those heard during resting periods.
+
+VERDICT: NIGHT

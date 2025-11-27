@@ -1,0 +1,6 @@
+File: 20211120_105613_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds suggestive of the orca performing trained behaviors in the water, which would involve vocalizations and movement.
+
+VERDICT: ORD

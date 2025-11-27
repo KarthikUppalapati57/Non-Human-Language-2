@@ -1,0 +1,6 @@
+File: 20211121_052321_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio presents a range of sounds consistent with marine mammals, specifically sea lions.  While there is no active feeding or training sounds obvious, the general sounds of sea lions communicating would be happening when they are sleeping, so NIGHT aligns best.
+
+VERDICT: NIGHT

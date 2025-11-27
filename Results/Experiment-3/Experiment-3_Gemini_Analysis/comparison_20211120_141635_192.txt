@@ -1,0 +1,6 @@
+File: 20211120_141635_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds consistent with animals resting and minimal activity. HuBERT's prediction seems reasonable.
+
+VERDICT: NIGHT

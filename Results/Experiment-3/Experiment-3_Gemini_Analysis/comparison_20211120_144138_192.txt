@@ -1,0 +1,5 @@
+File: 20211120_144138_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains repetitive training sounds. HuBERT's prediction aligns with the audio.
+VERDICT: ORD

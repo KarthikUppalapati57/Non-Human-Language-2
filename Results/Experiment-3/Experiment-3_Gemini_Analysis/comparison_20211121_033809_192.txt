@@ -1,0 +1,6 @@
+File: 20211121_033809_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains the distinct sound of snoring.
+
+VERDICT: NIGHT

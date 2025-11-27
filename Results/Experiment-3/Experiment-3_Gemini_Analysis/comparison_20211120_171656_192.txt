@@ -1,0 +1,6 @@
+File: 20211120_171656_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio sounds relatively quiet with intermittent clicks and general low-level sounds, consistent with possible sleeping behavior.
+
+VERDICT: NIGHT

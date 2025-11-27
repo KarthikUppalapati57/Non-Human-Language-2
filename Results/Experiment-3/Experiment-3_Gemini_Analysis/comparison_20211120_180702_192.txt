@@ -1,0 +1,6 @@
+File: 20211120_180702_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio sounds like marine mammal vocalizations, specifically sounds consistent with those made at night.
+
+VERDICT: NIGHT

@@ -1,0 +1,5 @@
+File: 20211121_001246_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of splashing, general sounds during sleep, and breathing, consistent with an animal settling down for the night. HuBERT's prediction seems accurate.
+VERDICT: NIGHT

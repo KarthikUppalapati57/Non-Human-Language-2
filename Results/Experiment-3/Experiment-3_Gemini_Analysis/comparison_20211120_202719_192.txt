@@ -1,0 +1,6 @@
+File: 20211120_202719_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of marine mammals, possibly dolphins, making various clicks and whistles. These vocalizations do not indicate a specific behavior like feeding, training, or playing. However, the sounds don't obviously contradict the context of sleep.
+
+VERDICT: NIGHT

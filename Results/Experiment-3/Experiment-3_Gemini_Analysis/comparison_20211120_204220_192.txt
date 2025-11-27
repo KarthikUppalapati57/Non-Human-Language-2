@@ -1,0 +1,5 @@
+File: 20211120_204220_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio predominantly contains low-frequency hums and static. While subtle, I can detect the faintest indications of possible orca breathing in some areas. Given this, and acknowledging that orcas are often more quiet during sleep, the HuBERT model's prediction of "NIGHT" seems plausible based on the overall reduced activity in the audio. 
+VERDICT: NIGHT

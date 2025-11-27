@@ -1,0 +1,5 @@
+File: 20211120_163151_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio definitely indicates active swimming with associated noises, suggesting purposeful movement and likely some level of physical exertion. This falls under training.
+VERDICT: ORD

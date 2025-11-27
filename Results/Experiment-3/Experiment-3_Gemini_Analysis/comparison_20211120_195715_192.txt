@@ -1,0 +1,6 @@
+File: 20211120_195715_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio predominantly features sounds associated with feeding, specifically chewing and possible crunching sounds. 
+
+VERDICT: FFR

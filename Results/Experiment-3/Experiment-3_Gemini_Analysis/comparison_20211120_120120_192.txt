@@ -1,0 +1,6 @@
+File: 20211120_120120_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The sounds in this audio clip are consistent with odontocete echolocation clicks and whistles. These sounds are associated with communication and navigation within their environment, suggesting they might be engaging in training exercises or active movement within their tank. Therefore the HuBERT prediction aligns well with the audio.
+
+VERDICT: ORD

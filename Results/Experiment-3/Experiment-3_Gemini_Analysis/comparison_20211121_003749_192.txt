@@ -1,0 +1,5 @@
+File: 20211121_003749_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, I can hear sounds of sleep.
+VERDICT: NIGHT

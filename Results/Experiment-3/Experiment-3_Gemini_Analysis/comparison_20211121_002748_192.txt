@@ -1,0 +1,6 @@
+File: 20211121_002748_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains the sound of snapping shrimp, which are active at night.
+
+VERDICT: NIGHT

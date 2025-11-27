@@ -1,0 +1,6 @@
+File: 20211120_230738_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of dolphin echolocation clicks and whistles. While it doesn't explicitly indicate a feeding, training, or playing scenario, the relatively constant clicks suggest the animal might be navigating its environment or searching for prey. It's difficult to determine a sleep state (NIGHT) as there's continuous sound activity. 
+
+VERDICT: FFR

@@ -1,0 +1,6 @@
+File: 20211120_145640_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains distinct orca vocalizations that include whistles and pulsed calls. This aligns with sounds often produced during training exercises.
+
+VERDICT: ORD

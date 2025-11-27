@@ -1,0 +1,6 @@
+File: 20211121_013756_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio predominantly features sounds of movement underwater, primarily those suggestive of a whale possibly resting or sleeping, with gentle breathing patterns, and occasional shifting of position. This indicates minimal activity and suggests a resting state.
+
+VERDICT: NIGHT

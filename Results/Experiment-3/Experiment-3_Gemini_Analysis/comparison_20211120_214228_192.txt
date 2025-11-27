@@ -1,0 +1,6 @@
+File: 20211120_214228_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of whistles and splashing noises with juvenile animal sounds. The animal is active.
+
+VERDICT: PLAY

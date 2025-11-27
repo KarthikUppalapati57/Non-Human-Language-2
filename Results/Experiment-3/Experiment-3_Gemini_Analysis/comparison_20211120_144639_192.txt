@@ -1,0 +1,6 @@
+File: 20211120_144639_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio features clicks and creaks, likely associated with the movement of dolphins, specifically sounds that resemble a training session where they are interacting with objects in the water.
+
+VERDICT: ORD

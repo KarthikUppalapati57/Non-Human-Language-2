@@ -1,0 +1,4 @@
+File: 20211121_040813_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The sounds indicate mostly quiet vocalizations with some clicks and whistles, consistent with the animals resting. VERDICT: NIGHT

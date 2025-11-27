@@ -1,0 +1,6 @@
+File: 20211121_020759_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+This audio presents the sounds of a marine environment, specifically bubble sounds. There's no overt indication of feeding, training, or active play. The presence of bubbles could potentially relate to nocturnal respiration or some other night-time activity. Thus, HuBERT's call could be accurate.
+
+VERDICT: NIGHT

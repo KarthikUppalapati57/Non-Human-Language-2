@@ -1,0 +1,6 @@
+File: 20211120_235744_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily consists of sounds that indicate a resting state with some quiet bubbling. It matches the provided context of nighttime sleep.
+
+VERDICT: NIGHT

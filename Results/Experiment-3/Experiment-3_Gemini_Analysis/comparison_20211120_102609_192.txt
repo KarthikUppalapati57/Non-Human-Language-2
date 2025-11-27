@@ -1,0 +1,6 @@
+File: 20211120_102609_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio indicates sounds of splashing and Orca vocalizations. These sound like Orcas undergoing training exercises in the water.
+
+VERDICT: ORD

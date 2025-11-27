@@ -1,0 +1,6 @@
+File: 20211120_234743_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains low, consistent breathing sounds characteristic of a sleeping marine mammal. This aligns with the provided context that "NIGHT" signifies sleep.
+
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211120_134632_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The predominant sound is that of water, along with some potential biological sounds though harder to define. The context of it potentially being sleep for these sea creatures (NIGHT) is the most believable option.
+
+VERDICT: NIGHT

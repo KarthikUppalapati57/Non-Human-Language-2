@@ -1,0 +1,6 @@
+File: 20211120_210723_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio presents a fairly consistent bubbling sound, typical of water movement. It doesn't have the distinct characteristics of feeding, training, or playing, and the regularity does suggest a resting state.
+
+VERDICT: NIGHT

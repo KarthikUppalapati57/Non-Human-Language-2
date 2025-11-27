@@ -1,0 +1,5 @@
+File: 20211120_165153_192.wav
+HuBERT Prediction: ORD
+------------------------------
+Based on the sounds of splashing and animal vocalizations, the audio suggests the animals are interacting with the water and with each other. This sounds like they are learning coordination in water.
+VERDICT: ORD

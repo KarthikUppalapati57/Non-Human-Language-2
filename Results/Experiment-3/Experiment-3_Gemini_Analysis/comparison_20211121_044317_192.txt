@@ -1,0 +1,4 @@
+File: 20211121_044317_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds consistent with dolphins sleeping, including periods of inactivity and the characteristic click sounds associated with this state. VERDICT: NIGHT

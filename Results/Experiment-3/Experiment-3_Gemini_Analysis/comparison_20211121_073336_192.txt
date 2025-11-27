@@ -1,0 +1,6 @@
+File: 20211121_073336_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of distress and movement, likely training or feeding.
+
+VERDICT: ORD

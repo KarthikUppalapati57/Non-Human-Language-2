@@ -1,0 +1,6 @@
+File: 20211120_235243_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio features sounds consistent with nocturnal marine life activity, with subtle underwater ambiance.
+
+VERDICT: NIGHT

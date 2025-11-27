@@ -1,0 +1,6 @@
+File: 20211121_094104_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of marine mammals resting, occasional breathing and quiet vocalizations. This aligns with a sleep or resting state.
+
+VERDICT: NIGHT

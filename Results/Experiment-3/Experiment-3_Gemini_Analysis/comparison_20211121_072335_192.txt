@@ -1,0 +1,6 @@
+File: 20211121_072335_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains various sounds including clicks, whistles, and what sounds like feeding behaviour from the dolphin.
+
+VERDICT: FFR

@@ -1,0 +1,6 @@
+File: 20211121_022802_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, which sounds like soft clicking and general underwater ambiance, it is difficult to ascertain a specific activity. However, the stillness of the soundscape does suggest a resting or inactive period. 
+
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211121_074338_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains various dolphin sounds including distress calls and whistle vocalizations, which typically indicate active interaction and communication, more characteristic of PLAY or FFR(Feeding) activities rather than sleep.
+
+VERDICT: PLAY

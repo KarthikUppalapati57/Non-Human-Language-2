@@ -1,0 +1,6 @@
+File: 20211120_120620_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds of water and what appears to be a pump or filtration system. This could potentially be associated with the training environment for marine animals.
+
+VERDICT: ORD

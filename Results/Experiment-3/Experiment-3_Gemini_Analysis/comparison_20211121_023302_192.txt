@@ -1,0 +1,6 @@
+File: 20211121_023302_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio sounds like splashing and gentle movements in water. It seems like the animals are relatively calm.
+
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211121_090347_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Analyzing the audio, there are sounds suggesting activity beyond just resting, including vocalizations and potential movement.
+
+VERDICT: FFR

@@ -1,0 +1,6 @@
+File: 20211121_002248_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, it appears the animals are exhibiting behaviors and vocalizations consistent with resting and reduced activity.
+
+VERDICT: NIGHT

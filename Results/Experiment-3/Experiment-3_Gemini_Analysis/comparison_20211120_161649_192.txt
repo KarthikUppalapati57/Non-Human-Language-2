@@ -1,0 +1,6 @@
+File: 20211120_161649_192.wav
+HuBERT Prediction: FFR
+------------------------------
+The audio showcases sounds relating to animal feeding, potentially including the movement and activity associated with the animals consuming their food.
+
+VERDICT: FFR

@@ -1,0 +1,6 @@
+File: 20211121_092850_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio appears to be dominated by sounds consistent with a marine environment at night, potentially including the gentle lapping of water and quiet breathing sounds. I'm confident in classifying it as such.
+
+VERDICT: NIGHT

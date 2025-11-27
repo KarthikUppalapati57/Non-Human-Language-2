@@ -1,0 +1,6 @@
+File: 20211121_011754_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily contains sounds of breathing. It's difficult to definitively determine the activity based solely on that, but breathing is most likely during rest or sleep.
+
+VERDICT: NIGHT

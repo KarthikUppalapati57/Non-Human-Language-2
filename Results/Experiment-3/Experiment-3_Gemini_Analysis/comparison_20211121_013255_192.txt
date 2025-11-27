@@ -1,0 +1,6 @@
+File: 20211121_013255_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio presents the sounds of dolphin echolocation clicks and whistles. These seem to be low volume. The sounds are quiet, but it's difficult to distinguish specific behaviors without additional context, but it does sound like the dolphins are resting and quiet.
+
+VERDICT: NIGHT

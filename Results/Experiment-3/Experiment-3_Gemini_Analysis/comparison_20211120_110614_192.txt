@@ -1,0 +1,5 @@
+File: 20211120_110614_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds resembling whale vocalizations which suggests some form of communication or echolocation. Given the context, the sounds seem more indicative of Training activities rather than feeding, playing, or resting. 
+VERDICT: ORD

@@ -1,0 +1,6 @@
+File: 20211120_200216_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains very faint sounds but seems most consistent with a quiet environment. While difficult to ascertain conclusively, it doesn't exhibit the clear characteristics of feeding, training, or playing, thus suggesting a sleep-like or resting state.
+
+VERDICT: NIGHT

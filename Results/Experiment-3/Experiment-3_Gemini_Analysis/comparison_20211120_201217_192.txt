@@ -1,0 +1,6 @@
+File: 20211120_201217_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio provided, the animal sounds are consistent with a period of low activity, including light breathing. It's not the active sounds of feeding, training, or playing.
+
+VERDICT: NIGHT

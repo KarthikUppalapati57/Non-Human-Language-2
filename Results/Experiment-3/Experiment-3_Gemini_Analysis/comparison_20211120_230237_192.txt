@@ -1,0 +1,6 @@
+File: 20211120_230237_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio appears to depict very quiet clicks which is indicative of cetacean biosonar. HuBERT suggested NIGHT, but the behavior exhibited in this recording, even though it is hard to hear, is consistent with echolocation. I am going to assume that the activity here is for feeding.
+
+VERDICT: FFR

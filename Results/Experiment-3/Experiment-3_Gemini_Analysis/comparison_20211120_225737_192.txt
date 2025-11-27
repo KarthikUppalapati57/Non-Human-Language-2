@@ -1,0 +1,6 @@
+File: 20211120_225737_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio and the provided context, it appears the animal is relatively quiet, indicating a rest phase.
+
+VERDICT: NIGHT

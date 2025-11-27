@@ -1,0 +1,5 @@
+File: 20211120_164653_192.wav
+HuBERT Prediction: ORD
+------------------------------
+Based on the audio, I can hear vocalizations and other sounds, which seems like active interaction and vocal training.
+VERDICT: ORD

@@ -1,0 +1,6 @@
+File: 20211121_030806_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily contains sounds suggestive of the animal resting, intermittent soft vocalizations, and the rhythmic sound of bubbles. This corresponds with sleep behavior.
+
+VERDICT: NIGHT

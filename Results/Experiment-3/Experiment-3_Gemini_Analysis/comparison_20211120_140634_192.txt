@@ -1,0 +1,6 @@
+File: 20211120_140634_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, I hear sounds indicative of sleep behavior.
+
+VERDICT: NIGHT

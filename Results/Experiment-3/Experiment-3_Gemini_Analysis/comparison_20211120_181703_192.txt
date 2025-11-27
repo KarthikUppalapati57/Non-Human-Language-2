@@ -1,0 +1,6 @@
+File: 20211120_181703_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio is dominated by repetitive, high-pitched calls, along with some general splashing sounds. It seems more consistent with active behavior.
+
+VERDICT: PLAY

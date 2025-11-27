@@ -1,0 +1,6 @@
+File: 20211120_183205_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily features the sounds of dolphin clicks. It's difficult to discern specific activities based on this alone, but the lack of more active sounds like whistles suggests a resting or less active state. Thus the model is correct.
+
+VERDICT: NIGHT

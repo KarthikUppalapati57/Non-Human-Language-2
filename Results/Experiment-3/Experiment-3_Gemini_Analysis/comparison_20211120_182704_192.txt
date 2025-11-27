@@ -1,0 +1,5 @@
+File: 20211120_182704_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio consists of low-frequency rumbling noises and very faint dolphin sounds. These are consistent with resting marine mammals during the night. 
+VERDICT: NIGHT

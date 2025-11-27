@@ -1,0 +1,6 @@
+File: 20211120_180201_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, it seems like a combination of sounds that might be related to an animal feeding or perhaps active and playful behaviours.
+
+VERDICT: FFR

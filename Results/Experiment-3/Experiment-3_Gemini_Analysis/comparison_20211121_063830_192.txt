@@ -1,0 +1,6 @@
+File: 20211121_063830_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains distinct dolphin sounds like clicks, whistles, and burst pulse sounds, typical vocalizations produced during various activities.  The presence of a large group of animals sounds as if they're in a sleep state, with the occasional communication, which seems to correlate to a 'NIGHT' state.
+
+VERDICT: NIGHT

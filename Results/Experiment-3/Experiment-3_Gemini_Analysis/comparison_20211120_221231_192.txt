@@ -1,0 +1,6 @@
+File: 20211120_221231_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio seems to capture the low frequency sounds typical of whale vocalizations, along with some other ambient noises. However, there's not a clear indication of specific activities like feeding or training, nor is there any definite "playing" behavior represented. While the environment sounds relatively calm and quiet, which might associate with a sleeping or resting period, it is difficult to fully assess without additional information.
+
+VERDICT: NIGHT

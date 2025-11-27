@@ -1,0 +1,5 @@
+File: 20211120_113116_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sound of echolocation which is used for training. HuBERT correctly predicted ORD(Training).
+VERDICT: ORD

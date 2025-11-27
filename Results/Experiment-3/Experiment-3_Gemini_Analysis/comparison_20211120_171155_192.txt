@@ -1,0 +1,6 @@
+File: 20211120_171155_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Based on the audio, I hear sounds that are more indicative of feeding behavior, with possible vocalizations associated with it.
+
+VERDICT: FFR

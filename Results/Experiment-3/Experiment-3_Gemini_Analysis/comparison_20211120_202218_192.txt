@@ -1,0 +1,6 @@
+File: 20211120_202218_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily contains sounds consistent with nighttime activity - gentle movements, some vocalizations but not intense feeding sounds. The sounds appear more relaxed and less energetic, indicative of a rest or sleep state.
+
+VERDICT: NIGHT

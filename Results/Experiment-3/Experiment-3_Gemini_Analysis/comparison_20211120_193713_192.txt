@@ -1,0 +1,6 @@
+File: 20211120_193713_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The predominant sound is water movement and what seems like dolphin echolocation clicks. It sounds like they are in a tank. No distinct feeding, training, or play sounds, and since echolocation is constant, it's likely related to being in a confined space and less a nighttime event specifically.
+
+VERDICT: ORD

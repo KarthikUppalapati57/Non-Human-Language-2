@@ -1,0 +1,4 @@
+File: 20211121_042815_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio seems to have a lot of dolphin vocalizations, but it is low activity. VERDICT: NIGHT

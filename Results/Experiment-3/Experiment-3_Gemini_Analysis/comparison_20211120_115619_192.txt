@@ -1,0 +1,6 @@
+File: 20211120_115619_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The predominant sound is consistent with orca training vocalizations.
+
+VERDICT: ORD

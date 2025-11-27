@@ -1,0 +1,6 @@
+File: 20211120_123123_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio features the sounds of marine mammals, including what sounds like echolocation clicks. This acoustic signature typically aligns with training scenarios where the animals are actively interacting and responding to stimuli.
+
+VERDICT: ORD

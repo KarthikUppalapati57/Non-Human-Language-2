@@ -1,0 +1,6 @@
+File: 20211120_190208_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio appears to primarily feature the distinct vocalizations associated with marine mammals. Based on the distinct sounds, these vocalizations suggest social interaction and communication, which typically occurs during PLAY.
+
+VERDICT: PLAY

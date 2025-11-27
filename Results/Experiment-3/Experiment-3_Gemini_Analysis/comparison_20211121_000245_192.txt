@@ -1,0 +1,6 @@
+File: 20211121_000245_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains faint clicks, chirps and what sounds like movement. The overall ambient ocean sounds suggest a nighttime environment, but it's difficult to be absolutely certain without knowing the specific marine life present. However, there's nothing overtly suggesting it's feeding, training or playing.
+
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211120_175200_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains various clicking sounds, indicative of cetacean communication during resting periods, coupled with general ambient noise.
+
+VERDICT: NIGHT

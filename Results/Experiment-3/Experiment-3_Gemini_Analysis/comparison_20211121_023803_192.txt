@@ -1,0 +1,6 @@
+File: 20211121_023803_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio seems to be predominantly characterized by sounds suggesting nighttime activity, specifically the presence of whale vocalizations and the overall soundscape indicating reduced activity.
+
+VERDICT: NIGHT

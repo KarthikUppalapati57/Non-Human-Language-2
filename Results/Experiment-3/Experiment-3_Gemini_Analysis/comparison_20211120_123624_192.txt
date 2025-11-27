@@ -1,0 +1,6 @@
+File: 20211120_123624_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The sounds appear to involve repetitive vocalizations and movement in water. This could potentially indicate some kind of training exercise or activity.
+
+VERDICT: ORD

@@ -1,0 +1,5 @@
+File: 20211120_154646_192.wav
+HuBERT Prediction: FFR
+------------------------------
+Based on the audio, I can hear sounds consistent with marine mammal feeding behavior, including clicks, whistles, and other vocalizations associated with foraging and prey capture. The presence of what seems to be chewing and food processing noises further reinforces this interpretation.
+VERDICT: FFR

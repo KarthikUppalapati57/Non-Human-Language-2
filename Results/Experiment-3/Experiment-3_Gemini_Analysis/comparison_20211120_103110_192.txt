@@ -1,0 +1,6 @@
+File: 20211120_103110_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio indicates orcas communicating, seemingly during a training session involving simulated prey capture.
+
+VERDICT: ORD

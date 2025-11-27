@@ -1,0 +1,6 @@
+File: 20211121_014757_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains the sounds of dolphin sleep. HuBERT's predication is correct.
+
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211120_143637_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains orca vocalizations, specifically clicks and whistles, suggesting communication between individuals. Considering the context, the sounds are most consistent with social interaction and communication during training exercises.
+
+VERDICT: ORD

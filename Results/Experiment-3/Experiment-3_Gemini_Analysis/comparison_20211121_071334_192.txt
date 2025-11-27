@@ -1,0 +1,6 @@
+File: 20211121_071334_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of what appears to be an aquarium, water bubbling, and some vocalizations that sound like dolphins. I do not hear anything that obviously indicates feeding, training, or playing sounds in particular. It sounds like the general sounds one would hear during a resting period.
+
+VERDICT: NIGHT

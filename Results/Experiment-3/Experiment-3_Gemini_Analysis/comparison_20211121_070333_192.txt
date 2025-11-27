@@ -1,0 +1,6 @@
+File: 20211121_070333_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio appears to be dominated by the sounds of movement underwater, possibly breathing, and the occasional thumping sound. Analyzing against the context, it seems most aligned with the animal settling down for sleep.
+
+VERDICT: NIGHT

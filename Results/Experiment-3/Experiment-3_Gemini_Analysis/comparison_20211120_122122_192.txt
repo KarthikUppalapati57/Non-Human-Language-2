@@ -1,0 +1,6 @@
+File: 20211120_122122_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio contains sounds consistent with marine mammals communicating, specifically sounds that could be associated with social interactions and training. It sounds like there are animals in an ordered environment receiving instructions, potentially for training.
+
+VERDICT: ORD

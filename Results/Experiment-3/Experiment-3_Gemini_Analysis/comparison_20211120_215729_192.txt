@@ -1,0 +1,6 @@
+File: 20211120_215729_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio suggests sounds associated with resting and low activity.
+
+VERDICT: NIGHT

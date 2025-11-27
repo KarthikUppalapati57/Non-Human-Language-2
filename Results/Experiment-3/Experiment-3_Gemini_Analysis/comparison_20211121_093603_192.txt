@@ -1,0 +1,5 @@
+File: 20211121_093603_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Given the audio contains sounds indicating distress and repetitive calls, it suggests the animal is not sleeping. The context provided indicates that NIGHT represents sleep. Therefore, the prediction is incorrect.
+VERDICT: FFR

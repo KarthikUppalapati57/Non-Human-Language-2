@@ -1,0 +1,5 @@
+File: 20211120_233742_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio presents clicks and whistles, sounds of marine life. It sounds consistent with general underwater sounds, which is likely the time when dolphins are sleeping.
+VERDICT: NIGHT

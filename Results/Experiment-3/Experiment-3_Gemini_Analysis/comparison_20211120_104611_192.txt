@@ -1,0 +1,6 @@
+File: 20211120_104611_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio sounds like orcas vocalizing with clicking sounds. These clicks are most likely related to echolocation.
+
+VERDICT: ORD

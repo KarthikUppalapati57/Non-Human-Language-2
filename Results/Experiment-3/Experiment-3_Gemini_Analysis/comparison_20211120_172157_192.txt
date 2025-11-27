@@ -1,0 +1,6 @@
+File: 20211120_172157_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains a lot of bubbling and gurgling water sounds, along with some snorts which are consistent with marine mammals sleeping in water.
+
+VERDICT: NIGHT

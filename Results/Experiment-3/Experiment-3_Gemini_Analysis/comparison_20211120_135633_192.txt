@@ -1,0 +1,6 @@
+File: 20211120_135633_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The predominant sounds in the audio seem to be the bubbling of water and some general underwater ambience. It would be difficult to classify this within the given categories, but it does not seem to fall under "Feeding," "Training", or "Playing." It's plausible these animals are simply at rest, which would relate to the "Night" context.
+
+VERDICT: NIGHT

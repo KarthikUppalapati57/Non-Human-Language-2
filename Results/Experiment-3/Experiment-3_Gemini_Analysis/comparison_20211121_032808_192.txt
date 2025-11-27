@@ -1,0 +1,6 @@
+File: 20211121_032808_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio primarily contains sounds of the tank, water movement, and bubbling which is consistent with a nocturnal environment for marine life. There is also some sound like some rubbing or scratching which are also consistent with nighttime activity.
+
+VERDICT: NIGHT

@@ -1,0 +1,6 @@
+File: 20211120_112616_192.wav
+HuBERT Prediction: ORD
+------------------------------
+The audio has a rhythmic, clicking sound and occasional whistles, suggesting dolphin echolocation and communication noises. This aligns with training scenarios where dolphins are often given cues or responding to commands.
+
+VERDICT: ORD

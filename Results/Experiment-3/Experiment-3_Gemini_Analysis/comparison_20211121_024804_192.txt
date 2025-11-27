@@ -1,0 +1,6 @@
+File: 20211121_024804_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds consistent with snoring and general quiescence.
+
+VERDICT: NIGHT

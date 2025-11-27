@@ -1,0 +1,6 @@
+File: 20211121_082342_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio features sounds of marine mammals vocalizing, with a rhythmic, almost chant-like quality and distinct clicks intermixed. Based on the context and the soundscape, this indicates active communication, likely feeding. 
+
+VERDICT: FFR

@@ -1,0 +1,6 @@
+File: 20211121_064831_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+Analyzing the audio, it mainly contains sounds suggestive of aquatic animal vocalizations and general activity within an aquarium environment, typical of creatures engaging in activities during sleep.
+
+VERDICT: NIGHT

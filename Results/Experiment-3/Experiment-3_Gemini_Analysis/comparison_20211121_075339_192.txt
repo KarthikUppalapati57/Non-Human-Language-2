@@ -1,0 +1,5 @@
+File: 20211121_075339_192.wav
+HuBERT Prediction: NIGHT
+------------------------------
+The audio contains sounds of marine mammals vocalizing and moving in water. Based on the context and the nature of sounds (e.g., potential social calls), it's more likely that these animals are active and interacting with their environment than simply sleeping. However, with only audio, differentiating between feeding and play is difficult, so I am selecting what I believe to be most correct.
+VERDICT: PLAY
